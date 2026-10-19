@@ -1,0 +1,4240 @@
+{
+  "seed": "berkeley.edu",
+  "aliases": [],
+  "crawl_date": "2026-10-18",
+  "crawl_stats": {
+    "total_nodes": 845,
+    "first_party_hosts": 652,
+    "external_hosts": 193,
+    "total_edge_weight": 10255,
+    "subdomains": 651,
+    "pages_crawled": 500
+  },
+  "ranking": [
+    {
+      "host": "berkeley.edu",
+      "score": 0.44171089884351133,
+      "is_first_party": true
+    },
+    {
+      "host": "vcresearch.berkeley.edu",
+      "score": 0.029494662429505446,
+      "is_first_party": true
+    },
+    {
+      "host": "news.berkeley.edu",
+      "score": 0.02455691845650431,
+      "is_first_party": true
+    },
+    {
+      "host": "financialaid.berkeley.edu",
+      "score": 0.018859436147654247,
+      "is_first_party": true
+    },
+    {
+      "host": "registrar.berkeley.edu",
+      "score": 0.012638979413150989,
+      "is_first_party": true
+    },
+    {
+      "host": "grad.berkeley.edu",
+      "score": 0.011282727582638107,
+      "is_first_party": true
+    },
+    {
+      "host": "chancellor.berkeley.edu",
+      "score": 0.010853381220338161,
+      "is_first_party": true
+    },
+    {
+      "host": "open.berkeley.edu",
+      "score": 0.010831577748850692,
+      "is_first_party": true
+    },
+    {
+      "host": "classes.berkeley.edu",
+      "score": 0.010778464524899587,
+      "is_first_party": true
+    },
+    {
+      "host": "lib.berkeley.edu",
+      "score": 0.010656627855710785,
+      "is_first_party": true
+    },
+    {
+      "host": "ophd.berkeley.edu",
+      "score": 0.007695073753623261,
+      "is_first_party": true
+    },
+    {
+      "host": "extension.berkeley.edu",
+      "score": 0.007301061529245688,
+      "is_first_party": true
+    },
+    {
+      "host": "uhs.berkeley.edu",
+      "score": 0.007176267925481581,
+      "is_first_party": true
+    },
+    {
+      "host": "dap.berkeley.edu",
+      "score": 0.007135893990437951,
+      "is_first_party": true
+    },
+    {
+      "host": "events.berkeley.edu",
+      "score": 0.006643082920706903,
+      "is_first_party": true
+    },
+    {
+      "host": "visit.berkeley.edu",
+      "score": 0.00628245402185844,
+      "is_first_party": true
+    },
+    {
+      "host": "admissions.berkeley.edu",
+      "score": 0.006224232611154809,
+      "is_first_party": true
+    },
+    {
+      "host": "cfo.berkeley.edu",
+      "score": 0.006063982025664221,
+      "is_first_party": true
+    },
+    {
+      "host": "ls.berkeley.edu",
+      "score": 0.005578618651754262,
+      "is_first_party": true
+    },
+    {
+      "host": "diversity.berkeley.edu",
+      "score": 0.0047301991068682036,
+      "is_first_party": true
+    },
+    {
+      "host": "studyabroad.berkeley.edu",
+      "score": 0.004253889713726535,
+      "is_first_party": true
+    },
+    {
+      "host": "vcue.berkeley.edu",
+      "score": 0.004205107452160327,
+      "is_first_party": true
+    },
+    {
+      "host": "ipira.berkeley.edu",
+      "score": 0.0037770809437385443,
+      "is_first_party": true
+    },
+    {
+      "host": "security.berkeley.edu",
+      "score": 0.00374508078696767,
+      "is_first_party": true
+    },
+    {
+      "host": "law.berkeley.edu",
+      "score": 0.00366431158300844,
+      "is_first_party": true
+    },
+    {
+      "host": "summer.berkeley.edu",
+      "score": 0.0036433731390922135,
+      "is_first_party": true
+    },
+    {
+      "host": "technology.berkeley.edu",
+      "score": 0.003491414102238762,
+      "is_first_party": true
+    },
+    {
+      "host": "give.berkeley.edu",
+      "score": 0.003384759118424284,
+      "is_first_party": true
+    },
+    {
+      "host": "svsh.berkeley.edu",
+      "score": 0.0032387401444511263,
+      "is_first_party": true
+    },
+    {
+      "host": "calbears.com",
+      "score": 0.003185292906850181,
+      "is_first_party": false
+    },
+    {
+      "host": "ue.berkeley.edu",
+      "score": 0.0030034987437705983,
+      "is_first_party": true
+    },
+    {
+      "host": "recwell.berkeley.edu",
+      "score": 0.002966619014738188,
+      "is_first_party": true
+    },
+    {
+      "host": "bconnected.berkeley.edu",
+      "score": 0.002885332776563063,
+      "is_first_party": true
+    },
+    {
+      "host": "hr.berkeley.edu",
+      "score": 0.002863955567842535,
+      "is_first_party": true
+    },
+    {
+      "host": "dac.berkeley.edu",
+      "score": 0.002735769123523069,
+      "is_first_party": true
+    },
+    {
+      "host": "nature.berkeley.edu",
+      "score": 0.0026989264064050857,
+      "is_first_party": true
+    },
+    {
+      "host": "inspire.berkeley.edu",
+      "score": 0.002646027316943819,
+      "is_first_party": true
+    },
+    {
+      "host": "www.calbears.com",
+      "score": 0.002364366081498823,
+      "is_first_party": false
+    },
+    {
+      "host": "cejce.berkeley.edu",
+      "score": 0.002216348913535046,
+      "is_first_party": true
+    },
+    {
+      "host": "calparents.berkeley.edu",
+      "score": 0.0021881295988488546,
+      "is_first_party": true
+    },
+    {
+      "host": "www.youtube.com",
+      "score": 0.0021772812717835805,
+      "is_first_party": false
+    },
+    {
+      "host": "gspp.berkeley.edu",
+      "score": 0.0020452032325700116,
+      "is_first_party": true
+    },
+    {
+      "host": "rtl.berkeley.edu",
+      "score": 0.0020254803763946486,
+      "is_first_party": true
+    },
+    {
+      "host": "research.berkeley.edu",
+      "score": 0.0020168988664973843,
+      "is_first_party": true
+    },
+    {
+      "host": "light.berkeley.edu",
+      "score": 0.0019901699990348305,
+      "is_first_party": true
+    },
+    {
+      "host": "ucpd.berkeley.edu",
+      "score": 0.00196596424369378,
+      "is_first_party": true
+    },
+    {
+      "host": "ced.berkeley.edu",
+      "score": 0.0019565806977602535,
+      "is_first_party": true
+    },
+    {
+      "host": "chemistry.berkeley.edu",
+      "score": 0.001940217221643278,
+      "is_first_party": true
+    },
+    {
+      "host": "www.facebook.com",
+      "score": 0.0019236257318956814,
+      "is_first_party": false
+    },
+    {
+      "host": "controller.berkeley.edu",
+      "score": 0.001884765384674561,
+      "is_first_party": true
+    },
+    {
+      "host": "publichealth.berkeley.edu",
+      "score": 0.0018776397752516998,
+      "is_first_party": true
+    },
+    {
+      "host": "qb3.berkeley.edu",
+      "score": 0.0017097804951318094,
+      "is_first_party": true
+    },
+    {
+      "host": "sph.berkeley.edu",
+      "score": 0.0016958004390885291,
+      "is_first_party": true
+    },
+    {
+      "host": "begin.berkeley.edu",
+      "score": 0.0016559141986935047,
+      "is_first_party": true
+    },
+    {
+      "host": "haas.berkeley.edu",
+      "score": 0.0016180278067602063,
+      "is_first_party": true
+    },
+    {
+      "host": "compliance.berkeley.edu",
+      "score": 0.0015880450985999899,
+      "is_first_party": true
+    },
+    {
+      "host": "ethnicstudies.berkeley.edu",
+      "score": 0.001528138374169691,
+      "is_first_party": true
+    },
+    {
+      "host": "nst.berkeley.edu",
+      "score": 0.001528138374169691,
+      "is_first_party": true
+    },
+    {
+      "host": "alumni.berkeley.edu",
+      "score": 0.0015186100141770709,
+      "is_first_party": true
+    },
+    {
+      "host": "www2.ed.gov",
+      "score": 0.0014531369676969465,
+      "is_first_party": false
+    },
+    {
+      "host": "twitter.com",
+      "score": 0.0014057388681624427,
+      "is_first_party": false
+    },
+    {
+      "host": "www.linkedin.com",
+      "score": 0.0013663938994449923,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ucop.edu",
+      "score": 0.0013484649666609737,
+      "is_first_party": false
+    },
+    {
+      "host": "guide.berkeley.edu",
+      "score": 0.0013386668285388877,
+      "is_first_party": true
+    },
+    {
+      "host": "ieas.berkeley.edu",
+      "score": 0.0013325161971642924,
+      "is_first_party": true
+    },
+    {
+      "host": "instagram.com",
+      "score": 0.001330505034391086,
+      "is_first_party": false
+    },
+    {
+      "host": "orientation.berkeley.edu",
+      "score": 0.001287632176135598,
+      "is_first_party": true
+    },
+    {
+      "host": "ei.berkeley.edu",
+      "score": 0.0012826596408724335,
+      "is_first_party": true
+    },
+    {
+      "host": "www.universityofcalifornia.edu",
+      "score": 0.0012211961568064833,
+      "is_first_party": false
+    },
+    {
+      "host": "my.berkeley.edu",
+      "score": 0.0012180909872561976,
+      "is_first_party": true
+    },
+    {
+      "host": "oercs.berkeley.edu",
+      "score": 0.00121552644573916,
+      "is_first_party": true
+    },
+    {
+      "host": "evcp.berkeley.edu",
+      "score": 0.0011686231310478437,
+      "is_first_party": true
+    },
+    {
+      "host": "studentaffairs.berkeley.edu",
+      "score": 0.0011665717937970616,
+      "is_first_party": true
+    },
+    {
+      "host": "optometry.berkeley.edu",
+      "score": 0.0011648541322454545,
+      "is_first_party": true
+    },
+    {
+      "host": "pt.berkeley.edu",
+      "score": 0.0011508740762021742,
+      "is_first_party": true
+    },
+    {
+      "host": "supportal.berkeley.edu",
+      "score": 0.0011494811279785576,
+      "is_first_party": true
+    },
+    {
+      "host": "socialwelfare.berkeley.edu",
+      "score": 0.001095052459629579,
+      "is_first_party": true
+    },
+    {
+      "host": "journalism.berkeley.edu",
+      "score": 0.0010942071185409033,
+      "is_first_party": true
+    },
+    {
+      "host": "privacy.berkeley.edu",
+      "score": 0.0010847370843343578,
+      "is_first_party": true
+    },
+    {
+      "host": "vca.berkeley.edu",
+      "score": 0.0010639141125902527,
+      "is_first_party": true
+    },
+    {
+      "host": "slc.berkeley.edu",
+      "score": 0.0010540094004757065,
+      "is_first_party": true
+    },
+    {
+      "host": "publicaffairs.berkeley.edu",
+      "score": 0.0010017714125455889,
+      "is_first_party": true
+    },
+    {
+      "host": "ischool.berkeley.edu",
+      "score": 0.0009971920673266165,
+      "is_first_party": true
+    },
+    {
+      "host": "mcb.berkeley.edu",
+      "score": 0.0009971920673266165,
+      "is_first_party": true
+    },
+    {
+      "host": "anthropology.berkeley.edu",
+      "score": 0.0009947546516611149,
+      "is_first_party": true
+    },
+    {
+      "host": "eop.berkeley.edu",
+      "score": 0.0009754515619247831,
+      "is_first_party": true
+    },
+    {
+      "host": "engineering.berkeley.edu",
+      "score": 0.000973801580186395,
+      "is_first_party": true
+    },
+    {
+      "host": "data.berkeley.edu",
+      "score": 0.0009715167677132254,
+      "is_first_party": true
+    },
+    {
+      "host": "businessservices.berkeley.edu",
+      "score": 0.0009692319552400558,
+      "is_first_party": true
+    },
+    {
+      "host": "dining.berkeley.edu",
+      "score": 0.0009692319552400558,
+      "is_first_party": true
+    },
+    {
+      "host": "ies.berkeley.edu",
+      "score": 0.0009692319552400558,
+      "is_first_party": true
+    },
+    {
+      "host": "lead.berkeley.edu",
+      "score": 0.0009692319552400558,
+      "is_first_party": true
+    },
+    {
+      "host": "pmb.berkeley.edu",
+      "score": 0.0009692319552400558,
+      "is_first_party": true
+    },
+    {
+      "host": "recsports.berkeley.edu",
+      "score": 0.0009692319552400558,
+      "is_first_party": true
+    },
+    {
+      "host": "www.instagram.com",
+      "score": 0.000955732768140794,
+      "is_first_party": false
+    },
+    {
+      "host": "campaign.berkeley.edu",
+      "score": 0.0009412078366391072,
+      "is_first_party": true
+    },
+    {
+      "host": "ethics.berkeley.edu",
+      "score": 0.0009365940183019984,
+      "is_first_party": true
+    },
+    {
+      "host": "bse.berkeley.edu",
+      "score": 0.0009062847200436882,
+      "is_first_party": true
+    },
+    {
+      "host": "mycalnet.berkeley.edu",
+      "score": 0.0008580421786177165,
+      "is_first_party": true
+    },
+    {
+      "host": "undergraduate.catalog.berkeley.edu",
+      "score": 0.0008440366078387629,
+      "is_first_party": true
+    },
+    {
+      "host": "ourenvironment.berkeley.edu",
+      "score": 0.0008435100584510579,
+      "is_first_party": true
+    },
+    {
+      "host": "demog.berkeley.edu",
+      "score": 0.0008295300024077775,
+      "is_first_party": true
+    },
+    {
+      "host": "calcentral.berkeley.edu",
+      "score": 0.0008240807041572997,
+      "is_first_party": true
+    },
+    {
+      "host": "studentcentral.berkeley.edu",
+      "score": 0.0008149414542646213,
+      "is_first_party": true
+    },
+    {
+      "host": "arthistory.berkeley.edu",
+      "score": 0.0008015698903212168,
+      "is_first_party": true
+    },
+    {
+      "host": "compbiochem.berkeley.edu",
+      "score": 0.0008015698903212168,
+      "is_first_party": true
+    },
+    {
+      "host": "ib.berkeley.edu",
+      "score": 0.0008015698903212168,
+      "is_first_party": true
+    },
+    {
+      "host": "music.berkeley.edu",
+      "score": 0.0008015698903212168,
+      "is_first_party": true
+    },
+    {
+      "host": "spanish-portuguese.berkeley.edu",
+      "score": 0.0008015698903212168,
+      "is_first_party": true
+    },
+    {
+      "host": "care.berkeley.edu",
+      "score": 0.0007977286794402386,
+      "is_first_party": true
+    },
+    {
+      "host": "sustainability.berkeley.edu",
+      "score": 0.0007974585575748375,
+      "is_first_party": true
+    },
+    {
+      "host": "academic-senate.berkeley.edu",
+      "score": 0.000796729084170615,
+      "is_first_party": true
+    },
+    {
+      "host": "career.berkeley.edu",
+      "score": 0.0007875898342779366,
+      "is_first_party": true
+    },
+    {
+      "host": "cnr.berkeley.edu",
+      "score": 0.0007875898342779366,
+      "is_first_party": true
+    },
+    {
+      "host": "igs.berkeley.edu",
+      "score": 0.0007875898342779366,
+      "is_first_party": true
+    },
+    {
+      "host": "laborcenter.berkeley.edu",
+      "score": 0.0007875898342779366,
+      "is_first_party": true
+    },
+    {
+      "host": "magnes.berkeley.edu",
+      "score": 0.0007875898342779366,
+      "is_first_party": true
+    },
+    {
+      "host": "womensstudies.berkeley.edu",
+      "score": 0.0007875898342779366,
+      "is_first_party": true
+    },
+    {
+      "host": "writing.berkeley.edu",
+      "score": 0.0007875898342779366,
+      "is_first_party": true
+    },
+    {
+      "host": "berkeley.service-now.com",
+      "score": 0.0007765584791568013,
+      "is_first_party": false
+    },
+    {
+      "host": "audit.berkeley.edu",
+      "score": 0.0007405148345292849,
+      "is_first_party": true
+    },
+    {
+      "host": "bpr.calnet.berkeley.edu",
+      "score": 0.0007371882391562449,
+      "is_first_party": true
+    },
+    {
+      "host": "www.escholarship.org",
+      "score": 0.0007265684838484733,
+      "is_first_party": false
+    },
+    {
+      "host": "riskservices.berkeley.edu",
+      "score": 0.0007174540066500564,
+      "is_first_party": true
+    },
+    {
+      "host": "basicneeds.berkeley.edu",
+      "score": 0.0007143191108174655,
+      "is_first_party": true
+    },
+    {
+      "host": "botanicalgarden.berkeley.edu",
+      "score": 0.0006856504882238103,
+      "is_first_party": true
+    },
+    {
+      "host": "tdps.berkeley.edu",
+      "score": 0.0006750026524435444,
+      "is_first_party": true
+    },
+    {
+      "host": "ieor.berkeley.edu",
+      "score": 0.0006618679374889396,
+      "is_first_party": true
+    },
+    {
+      "host": "me.berkeley.edu",
+      "score": 0.0006618679374889396,
+      "is_first_party": true
+    },
+    {
+      "host": "statistics.berkeley.edu",
+      "score": 0.0006478878814456592,
+      "is_first_party": true
+    },
+    {
+      "host": "calnet.berkeley.edu",
+      "score": 0.0006411738854857082,
+      "is_first_party": true
+    },
+    {
+      "host": "bcourses.berkeley.edu",
+      "score": 0.0006236967681614878,
+      "is_first_party": true
+    },
+    {
+      "host": "strategiccommunications.berkeley.edu",
+      "score": 0.000623489080285533,
+      "is_first_party": true
+    },
+    {
+      "host": "udar.berkeley.edu",
+      "score": 0.0006213307864732666,
+      "is_first_party": true
+    },
+    {
+      "host": "ahma.berkeley.edu",
+      "score": 0.0006199277693590986,
+      "is_first_party": true
+    },
+    {
+      "host": "are.berkeley.edu",
+      "score": 0.0006199277693590986,
+      "is_first_party": true
+    },
+    {
+      "host": "bioeng.berkeley.edu",
+      "score": 0.0006199277693590986,
+      "is_first_party": true
+    },
+    {
+      "host": "ccb.berkeley.edu",
+      "score": 0.0006199277693590986,
+      "is_first_party": true
+    },
+    {
+      "host": "ealc.berkeley.edu",
+      "score": 0.0006199277693590986,
+      "is_first_party": true
+    },
+    {
+      "host": "food.berkeley.edu",
+      "score": 0.0006199277693590986,
+      "is_first_party": true
+    },
+    {
+      "host": "physics.berkeley.edu",
+      "score": 0.0006199277693590986,
+      "is_first_party": true
+    },
+    {
+      "host": "asc.berkeley.edu",
+      "score": 0.0006082325257889879,
+      "is_first_party": true
+    },
+    {
+      "host": "academicservices.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "airforcerotc.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "apo.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "army.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "awards.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "bampfa.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "crl.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "cstms.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "emergency.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "enrollment.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "eyecare.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "geneq.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "gse.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "hearstmuseum.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "housing.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "hrweb.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "internationaloffice.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "iseees.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "isf.ugis.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "laep.ced.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "mailservices.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "mvz.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "nrotc.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "opa.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "police.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "property.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "ucce.berkeley.edu",
+      "score": 0.0006059477133158182,
+      "is_first_party": true
+    },
+    {
+      "host": "teaching.berkeley.edu",
+      "score": 0.0005935150217882017,
+      "is_first_party": true
+    },
+    {
+      "host": "staffombuds.berkeley.edu",
+      "score": 0.0005918439881381579,
+      "is_first_party": true
+    },
+    {
+      "host": "voices.berkeley.edu",
+      "score": 0.0005844107010503003,
+      "is_first_party": true
+    },
+    {
+      "host": "capitalstrategies.berkeley.edu",
+      "score": 0.0005521294341087694,
+      "is_first_party": true
+    },
+    {
+      "host": "www.wsj.com",
+      "score": 0.000549378058937015,
+      "is_first_party": false
+    },
+    {
+      "host": "veteran.berkeley.edu",
+      "score": 0.0005284443921642412,
+      "is_first_party": true
+    },
+    {
+      "host": "webbuilder.berkeley.edu",
+      "score": 0.0005263732284716718,
+      "is_first_party": true
+    },
+    {
+      "host": "stafforg.berkeley.edu",
+      "score": 0.000523874767217902,
+      "is_first_party": true
+    },
+    {
+      "host": "restrooms.berkeley.edu",
+      "score": 0.0005224618215751111,
+      "is_first_party": true
+    },
+    {
+      "host": "bampfa.org",
+      "score": 0.0004980618999166745,
+      "is_first_party": false
+    },
+    {
+      "host": "erg.berkeley.edu",
+      "score": 0.0004942058725701022,
+      "is_first_party": true
+    },
+    {
+      "host": "astro.berkeley.edu",
+      "score": 0.0004933605314814264,
+      "is_first_party": true
+    },
+    {
+      "host": "spo.berkeley.edu",
+      "score": 0.0004910600041680625,
+      "is_first_party": true
+    },
+    {
+      "host": "discovery.berkeley.edu",
+      "score": 0.0004890942066624196,
+      "is_first_party": true
+    },
+    {
+      "host": "apply.berkeley.edu",
+      "score": 0.00048029453644353687,
+      "is_first_party": true
+    },
+    {
+      "host": "ce.berkeley.edu",
+      "score": 0.0004802258165268218,
+      "is_first_party": true
+    },
+    {
+      "host": "mse.berkeley.edu",
+      "score": 0.0004802258165268218,
+      "is_first_party": true
+    },
+    {
+      "host": "berkeleyconnect.berkeley.edu",
+      "score": 0.0004793804754381461,
+      "is_first_party": true
+    },
+    {
+      "host": "ssl.berkeley.edu",
+      "score": 0.0004793804754381461,
+      "is_first_party": true
+    },
+    {
+      "host": "dsp.berkeley.edu",
+      "score": 0.00046731920684064677,
+      "is_first_party": true
+    },
+    {
+      "host": "math.berkeley.edu",
+      "score": 0.00046624576048354143,
+      "is_first_party": true
+    },
+    {
+      "host": "calperformances.org",
+      "score": 0.0004648797505086116,
+      "is_first_party": false
+    },
+    {
+      "host": "bcbp.berkeley.edu",
+      "score": 0.00046433030211751405,
+      "is_first_party": true
+    },
+    {
+      "host": "spa.berkeley.edu",
+      "score": 0.00045953176452359016,
+      "is_first_party": true
+    },
+    {
+      "host": "econ.berkeley.edu",
+      "score": 0.00045226570444026104,
+      "is_first_party": true
+    },
+    {
+      "host": "eps.berkeley.edu",
+      "score": 0.00045226570444026104,
+      "is_first_party": true
+    },
+    {
+      "host": "plantandmicrobiology.berkeley.edu",
+      "score": 0.00045226570444026104,
+      "is_first_party": true
+    },
+    {
+      "host": "cdss.berkeley.edu",
+      "score": 0.00044514008581648945,
+      "is_first_party": true
+    },
+    {
+      "host": "lawrencehallofscience.org",
+      "score": 0.0004429870168322288,
+      "is_first_party": false
+    },
+    {
+      "host": "cshe.berkeley.edu",
+      "score": 0.0004420546471993699,
+      "is_first_party": true
+    },
+    {
+      "host": "africam.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "art.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "asianstudies.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "ast.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "buddhiststudies.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "complit.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "developmentengineering.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "english.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "filmmedia.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "folklore.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "french.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "geography.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "german.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "globalstudies.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "history.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "italian.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "logic.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "melc.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "nuc.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "philosophy.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "polisci.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "psychology.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "rhetoric.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "romancelangs.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "scandinavian.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "slavic.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "sociology.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "sseas.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "vision.berkeley.edu",
+      "score": 0.0004382856483969807,
+      "is_first_party": true
+    },
+    {
+      "host": "commencement.berkeley.edu",
+      "score": 0.0004288752173000395,
+      "is_first_party": true
+    },
+    {
+      "host": "homecoming.berkeley.edu",
+      "score": 0.00042875728840436033,
+      "is_first_party": true
+    },
+    {
+      "host": "southasia.berkeley.edu",
+      "score": 0.00042875728840436033,
+      "is_first_party": true
+    },
+    {
+      "host": "vpf.berkeley.edu",
+      "score": 0.00042875728840436033,
+      "is_first_party": true
+    },
+    {
+      "host": "access.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "airspacecenter.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "americancultures.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "artstudio.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "as.ugis.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "bcnm.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "berkeleyonline.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "biophysics.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "bulletin.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "calband.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "callink.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "calmessages.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "calrentals.housing.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "calstudentstore.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "caltime.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "camps.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "cbc.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "celtic.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "cerch.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "cltc.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "cmes.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "cogsci.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "creative.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "crg.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "criticaltheory.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "cs.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "cssc.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "disability-studies.ugis.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "dlab.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "dutch.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "ece.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "ehs.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "endo.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "essig.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "executive.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "fpf.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "ga.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "hwni.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "icsi.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "ihd.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "ihouse.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "iis.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "ipsr.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "ist.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "its.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "iurd.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "jewishstudies.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "legalstudies.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "lunchpoems.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "mediastudies.ugis.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "medieval.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "oem.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "ofew.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "pe.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "peer.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "politicaleconomy.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "publicservice.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "realestate.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "rems.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "scet.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "stepbystep.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "ternercenter.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "townsendcenter.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "travel.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "ucdata.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "ucjazz.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "ucmp.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "vpap.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "vpasp.berkeley.edu",
+      "score": 0.00042430559235370025,
+      "is_first_party": true
+    },
+    {
+      "host": "berkeley.libcal.com",
+      "score": 0.0004139019588523822,
+      "is_first_party": false
+    },
+    {
+      "host": "guides.lib.berkeley.edu",
+      "score": 0.0004094111072648595,
+      "is_first_party": true
+    },
+    {
+      "host": "www.google.com",
+      "score": 0.00040846383523163973,
+      "is_first_party": false
+    },
+    {
+      "host": "web.berkeley.edu",
+      "score": 0.00040637864235421354,
+      "is_first_party": true
+    },
+    {
+      "host": "www.usnews.com",
+      "score": 0.0003878767413236081,
+      "is_first_party": false
+    },
+    {
+      "host": "brdo.berkeley.edu",
+      "score": 0.0003783689841984735,
+      "is_first_party": true
+    },
+    {
+      "host": "chartbeat.com",
+      "score": 0.0003632842419242366,
+      "is_first_party": false
+    },
+    {
+      "host": "citris-uc.org",
+      "score": 0.0003632842419242366,
+      "is_first_party": false
+    },
+    {
+      "host": "health.citris-uc.org",
+      "score": 0.0003632842419242366,
+      "is_first_party": false
+    },
+    {
+      "host": "home.treasury.gov",
+      "score": 0.0003632842419242366,
+      "is_first_party": false
+    },
+    {
+      "host": "innovativegenomics.org",
+      "score": 0.0003632842419242366,
+      "is_first_party": false
+    },
+    {
+      "host": "ucbclassics.dreamhosters.com",
+      "score": 0.0003632842419242366,
+      "is_first_party": false
+    },
+    {
+      "host": "www.asuc.org",
+      "score": 0.0003632842419242366,
+      "is_first_party": false
+    },
+    {
+      "host": "www.calicehockey.com",
+      "score": 0.0003632842419242366,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dailycal.org",
+      "score": 0.0003632842419242366,
+      "is_first_party": false
+    },
+    {
+      "host": "www.irs.gov",
+      "score": 0.0003632842419242366,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ucpress.edu",
+      "score": 0.0003632842419242366,
+      "is_first_party": false
+    },
+    {
+      "host": "eecs.berkeley.edu",
+      "score": 0.00035450391973782474,
+      "is_first_party": true
+    },
+    {
+      "host": "brand.berkeley.edu",
+      "score": 0.00035281323756047346,
+      "is_first_party": true
+    },
+    {
+      "host": "calendar.google.com",
+      "score": 0.0003474483115696467,
+      "is_first_party": false
+    },
+    {
+      "host": "www.lbl.gov",
+      "score": 0.0003403159378466232,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nobelprize.org",
+      "score": 0.0003399834303266911,
+      "is_first_party": false
+    },
+    {
+      "host": "undocu.berkeley.edu",
+      "score": 0.00033898759491069803,
+      "is_first_party": true
+    },
+    {
+      "host": "secure-tickets.berkeley.edu",
+      "score": 0.00033865169525553075,
+      "is_first_party": true
+    },
+    {
+      "host": "newscenter.berkeley.edu",
+      "score": 0.0003373429238357885,
+      "is_first_party": true
+    },
+    {
+      "host": "www.reddit.com",
+      "score": 0.00033044929850667453,
+      "is_first_party": false
+    },
+    {
+      "host": "strategicplan.berkeley.edu",
+      "score": 0.00032576382528304206,
+      "is_first_party": true
+    },
+    {
+      "host": "calday.berkeley.edu",
+      "score": 0.0003223662462995742,
+      "is_first_party": true
+    },
+    {
+      "host": "docs.google.com",
+      "score": 0.00031121204844280413,
+      "is_first_party": false
+    },
+    {
+      "host": "decal.berkeley.edu",
+      "score": 0.0003000231669491973,
+      "is_first_party": true
+    },
+    {
+      "host": "scholarships.berkeley.edu",
+      "score": 0.0002998089392783453,
+      "is_first_party": true
+    },
+    {
+      "host": "studentbilling.berkeley.edu",
+      "score": 0.0002996515238381211,
+      "is_first_party": true
+    },
+    {
+      "host": "arf.berkeley.edu",
+      "score": 0.00029773835447602766,
+      "is_first_party": true
+    },
+    {
+      "host": "bsp.berkeley.edu",
+      "score": 0.00029773835447602766,
+      "is_first_party": true
+    },
+    {
+      "host": "lsdiscovery.berkeley.edu",
+      "score": 0.00029773835447602766,
+      "is_first_party": true
+    },
+    {
+      "host": "surf.berkeley.edu",
+      "score": 0.00029773835447602766,
+      "is_first_party": true
+    },
+    {
+      "host": "rac.berkeley.edu",
+      "score": 0.00029392324375897787,
+      "is_first_party": true
+    },
+    {
+      "host": "ucpath.berkeley.edu",
+      "score": 0.00028947812971520854,
+      "is_first_party": true
+    },
+    {
+      "host": "thriving.berkeley.edu",
+      "score": 0.0002840380746840359,
+      "is_first_party": true
+    },
+    {
+      "host": "facilities.berkeley.edu",
+      "score": 0.00028213836457918577,
+      "is_first_party": true
+    },
+    {
+      "host": "buj.berkeley.edu",
+      "score": 0.00028076044998275756,
+      "is_first_party": true
+    },
+    {
+      "host": "nightsafety.berkeley.edu",
+      "score": 0.0002782181438863629,
+      "is_first_party": true
+    },
+    {
+      "host": "dagrs.berkeley.edu",
+      "score": 0.00027062358347814265,
+      "is_first_party": true
+    },
+    {
+      "host": "gsi.berkeley.edu",
+      "score": 0.00027062358347814265,
+      "is_first_party": true
+    },
+    {
+      "host": "cal1card.berkeley.edu",
+      "score": 0.00027001509137826674,
+      "is_first_party": true
+    },
+    {
+      "host": "policy.ucop.edu",
+      "score": 0.0002684261733152266,
+      "is_first_party": false
+    },
+    {
+      "host": "frcp.berkeley.edu",
+      "score": 0.0002664311012328227,
+      "is_first_party": true
+    },
+    {
+      "host": "bsa.berkeley.edu",
+      "score": 0.0002660708005533953,
+      "is_first_party": true
+    },
+    {
+      "host": "jobs.berkeley.edu",
+      "score": 0.0002660708005533953,
+      "is_first_party": true
+    },
+    {
+      "host": "regionalservices.berkeley.edu",
+      "score": 0.0002660708005533953,
+      "is_first_party": true
+    },
+    {
+      "host": "kalx.berkeley.edu",
+      "score": 0.0002604125262372516,
+      "is_first_party": true
+    },
+    {
+      "host": "ce3.berkeley.edu",
+      "score": 0.00025900139958808514,
+      "is_first_party": true
+    },
+    {
+      "host": "mba.haas.berkeley.edu",
+      "score": 0.00025674213503538854,
+      "is_first_party": true
+    },
+    {
+      "host": "backupchildcare.berkeley.edu",
+      "score": 0.0002566435274348623,
+      "is_first_party": true
+    },
+    {
+      "host": "computationalhealth.berkeley.edu",
+      "score": 0.0002566435274348623,
+      "is_first_party": true
+    },
+    {
+      "host": "ejce.berkeley.edu",
+      "score": 0.0002566435274348623,
+      "is_first_party": true
+    },
+    {
+      "host": "funginstitute.berkeley.edu",
+      "score": 0.0002566435274348623,
+      "is_first_party": true
+    },
+    {
+      "host": "gradlectures.berkeley.edu",
+      "score": 0.0002566435274348623,
+      "is_first_party": true
+    },
+    {
+      "host": "lx.berkeley.edu",
+      "score": 0.0002566435274348623,
+      "is_first_party": true
+    },
+    {
+      "host": "macss.berkeley.edu",
+      "score": 0.0002566435274348623,
+      "is_first_party": true
+    },
+    {
+      "host": "mentoringawards.berkeley.edu",
+      "score": 0.0002566435274348623,
+      "is_first_party": true
+    },
+    {
+      "host": "neuroscience.berkeley.edu",
+      "score": 0.0002566435274348623,
+      "is_first_party": true
+    },
+    {
+      "host": "smart.berkeley.edu",
+      "score": 0.0002566435274348623,
+      "is_first_party": true
+    },
+    {
+      "host": "disabilitycompliance.berkeley.edu",
+      "score": 0.0002537966022718503,
+      "is_first_party": true
+    },
+    {
+      "host": "x.com",
+      "score": 0.0002520399551145692,
+      "is_first_party": false
+    },
+    {
+      "host": "coronavirus.berkeley.edu",
+      "score": 0.00025196879481028224,
+      "is_first_party": true
+    },
+    {
+      "host": "supplychain.berkeley.edu",
+      "score": 0.0002514341548764394,
+      "is_first_party": true
+    },
+    {
+      "host": "acuc.berkeley.edu",
+      "score": 0.00024998629601549575,
+      "is_first_party": true
+    },
+    {
+      "host": "cphs.berkeley.edu",
+      "score": 0.00024998629601549575,
+      "is_first_party": true
+    },
+    {
+      "host": "planyourlegacy.berkeley.edu",
+      "score": 0.0002471151674422421,
+      "is_first_party": true
+    },
+    {
+      "host": "coe.berkeley.edu",
+      "score": 0.00024494828386475157,
+      "is_first_party": true
+    },
+    {
+      "host": "fss.berkeley.edu",
+      "score": 0.00024494828386475157,
+      "is_first_party": true
+    },
+    {
+      "host": "hope.berkeley.edu",
+      "score": 0.00024494828386475157,
+      "is_first_party": true
+    },
+    {
+      "host": "reentry.berkeley.edu",
+      "score": 0.00024494828386475157,
+      "is_first_party": true
+    },
+    {
+      "host": "studentparents.berkeley.edu",
+      "score": 0.00024494828386475157,
+      "is_first_party": true
+    },
+    {
+      "host": "transfers.berkeley.edu",
+      "score": 0.00024494828386475157,
+      "is_first_party": true
+    },
+    {
+      "host": "150w.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "aaads.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "administration.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "admit.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "advocate.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "africa.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "africanalumni.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "alaalab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "alchemy.cchem.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "als.ugis.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "apapps.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "aprecruit.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "arch.ced.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "archives.ced.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "armenian.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "arts.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "artsdesign.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "artshumanities.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "astron.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "atdp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "auth.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bakerlab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bancroft.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "basc.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bawp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bccn.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bcht.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "belonging.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "best.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "biggive.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bigideascourses.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bindery.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "biology.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bisp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "blc.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bleex.me.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bluegold.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "blumcenter.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bmap.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bnhm.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "brie.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "brp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "budget.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "builders.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "businessinnovation.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bwc.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "bwlp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "cal.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "calanswers.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "calbandalumni.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "calfund.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "calm.geo.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "calspirit.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "calswec.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "campanile.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "campuspol.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "canada.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "catsip.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "cbe.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ccrm.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ccwip.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ceda.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "cep.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "changemaker.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "cips.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "clacs.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "classics.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "cnmat.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "coateslab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "coeh.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "consumerlaw.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "course.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "coursethreads.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "creativelab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "crlp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "crsc.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "csac.chance.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "csi.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "cto.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "dcrp.ced.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "deanofstudents.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "developers.api.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "dheal.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "directory.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "disasterlab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "discovercal.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "dsf.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "dualdegree.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "eaop.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "earc.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "elsa.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "em-lab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "embedded.eecs.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "eml.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "engineering2.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "engineeringscience.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "entrepreneurship.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "erso.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "eslibrary.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "espm.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ethicscompliance.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "eureka.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "evcp.chance.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "eventservices.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "evolution.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "exec-ed.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "facultylectures.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "fbf.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "fellowships.journalism.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "fischerlab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "forestry.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "forests.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "gallery.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "gdpr.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "givetocal.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "glasslab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "glaunsingerlab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "globalengagement.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "globe.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "gws.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "healthycities.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "helendillerinstitute.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "hku.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "hsp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "humanrights.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "i4y.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "iber.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "identity.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "idmg.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "innovators.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "integration-services.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "irle.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "issi.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "jmp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "jrws.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "kathleenryanlab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "kavlicenter.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "lewislab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "life.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "linguistics.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "live-global-studies.pantheon.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "live-student-musical-activities-site.pantheon.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "lma.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "lrc.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "lrdp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ls-advise.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "lsspi.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "mackcenter.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "mdp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "microbiology.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "microlab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "microscopy.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "miller.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "mip.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "mud.ced.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "multimedia.journalism.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "multiverse.ssl.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "museums.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "mypower.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "navb.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "neurograd.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "nisee.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "nss.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ocf.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "och.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "olac.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "olli.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "onthesamepage.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "orias.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "oskicat.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "pages.github.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "parks.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "path.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "pathways.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "pbk.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "politicaltheory.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "polypedal.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "popcenter.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "postdoc.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ppl.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ptolemy.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ptolemy.eecs.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "publicsafety.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "re-ai.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "redwood.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "reslife.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "retirement.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "reunions.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "rfs-env.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "rfs.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "rpgp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "sa.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "safecampus.covid.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "safetrec.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "sathercenter.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "sciencespo.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "sda.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "seedscholars.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "seismo.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "setiathome.ssl.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "sharedservices.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "simons.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "skydeck.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "sls.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "sma.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "software-central.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "sspc.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "stat.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "stc.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "stemcellcenter.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "strawberrycreek.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "stronach.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "studentconduct.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "studentmedia.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "students.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "studenttech.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "studentunion.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "superfund.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "survivorsupport.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "taylorlab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "tebtunis.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "techfund.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "techpolicy.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "themeprograms.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "tickets.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "tims.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "traxlerlab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "twlf.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ucdc.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ucjeps.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "uclinks.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ucrc.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "universityvillage.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "upp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "urap.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "urbanpolicy.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "uroc.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "vcei.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "visitors.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "vpaafw.chance.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "vpsafp.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "vspa.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "wallacecenter.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "webcast.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "webnet.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "wisdomcafe.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "workstudy.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "www-bsac.eecs.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "www-video.eecs.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "xlab.berkeley.edu",
+      "score": 0.000242663471391582,
+      "is_first_party": true
+    },
+    {
+      "host": "ucberkeley.libanswers.com",
+      "score": 0.00023225983789026389,
+      "is_first_party": false
+    },
+    {
+      "host": "cici.berkeley.edu",
+      "score": 0.00022624599968280095,
+      "is_first_party": true
+    },
+    {
+      "host": "blogs.berkeley.edu",
+      "score": 0.00021363271483068735,
+      "is_first_party": true
+    },
+    {
+      "host": "mybconnected.berkeley.edu",
+      "score": 0.00019540671263111904,
+      "is_first_party": true
+    },
+    {
+      "host": "drive.google.com",
+      "score": 0.00019441833829849473,
+      "is_first_party": false
+    },
+    {
+      "host": "admission.universityofcalifornia.edu",
+      "score": 0.0001905455130634385,
+      "is_first_party": false
+    },
+    {
+      "host": "newscenter.lbl.gov",
+      "score": 0.0001905455130634385,
+      "is_first_party": false
+    },
+    {
+      "host": "search.library.berkeley.edu",
+      "score": 0.00019052772205943884,
+      "is_first_party": true
+    },
+    {
+      "host": "bsky.app",
+      "score": 0.00018181837327357515,
+      "is_first_party": false
+    },
+    {
+      "host": "armyrotc.com",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "atyourservice.ucop.edu",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "atyourserviceonline.ucop.edu",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "berkeleylabguesthouse.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "bsc.coop",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "californiafarmtoschooleval.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "doudnalab.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "policies.google.com",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "qb3.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "secure.calperformances.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "siteimprove.com",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "support.siteimprove.com",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "tools.google.com",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "uc-ciee.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "ucal.us",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "ucbiotech.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "uceap.universityofcalifornia.edu",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "waterrecharge.lbl.gov",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.berkeleyendowment.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.berkeleyfacultyclub.com",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.berkeleysciencereview.com",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bsc.coop",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bscaa.coop",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.californialawreview.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cdlib.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.citris-uc.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.crisprcuresforcancer.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.edx.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.energybiosciencesinstitute.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.fruitfly.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.handsonuniverse.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.internet2.edu",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.kauferlab.com",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.lanl.gov",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.lawrencehallofscience.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.llnl.gov",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.lohp.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.marktwainproject.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nawihub.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ncedc.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.schekmanlab.com",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.sectionclub.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.slmath.org",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ternercenter.app",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.uclawsf.edu",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.uctc.net",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "www.womensfacultyclub.com",
+      "score": 0.0001816421209621183,
+      "is_first_party": false
+    },
+    {
+      "host": "live-wp-sa-finaid-1.pantheon.berkeley.edu",
+      "score": 0.00018065210212902166,
+      "is_first_party": true
+    },
+    {
+      "host": "digital.lib.berkeley.edu",
+      "score": 0.00017715126937459567,
+      "is_first_party": true
+    },
+    {
+      "host": "myhealth.berkeley.edu",
+      "score": 0.00017539312050307142,
+      "is_first_party": true
+    },
+    {
+      "host": "ucberk.li",
+      "score": 0.00017120480202957768,
+      "is_first_party": false
+    },
+    {
+      "host": "biodesign.berkeley.edu",
+      "score": 0.00017117111659835518,
+      "is_first_party": true
+    },
+    {
+      "host": "eahi.berkeley.edu",
+      "score": 0.00017117111659835518,
+      "is_first_party": true
+    },
+    {
+      "host": "caconnect.org",
+      "score": 0.00016764522478189396,
+      "is_first_party": false
+    },
+    {
+      "host": "en.wikipedia.org",
+      "score": 0.00015940554981598443,
+      "is_first_party": false
+    },
+    {
+      "host": "als.lbl.gov",
+      "score": 0.0001586738168845049,
+      "is_first_party": false
+    },
+    {
+      "host": "foundry.lbl.gov",
+      "score": 0.0001586738168845049,
+      "is_first_party": false
+    },
+    {
+      "host": "jgi.doe.gov",
+      "score": 0.0001586738168845049,
+      "is_first_party": false
+    },
+    {
+      "host": "www.es.net",
+      "score": 0.0001586738168845049,
+      "is_first_party": false
+    },
+    {
+      "host": "www.jbei.org",
+      "score": 0.0001586738168845049,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nersc.gov",
+      "score": 0.0001586738168845049,
+      "is_first_party": false
+    },
+    {
+      "host": "www.shanghairanking.com",
+      "score": 0.0001586738168845049,
+      "is_first_party": false
+    },
+    {
+      "host": "uctitleix.i-sight.com",
+      "score": 0.00015703473571776738,
+      "is_first_party": false
+    },
+    {
+      "host": "graduate.catalog.berkeley.edu",
+      "score": 0.00015328586719865305,
+      "is_first_party": true
+    },
+    {
+      "host": "www.wscuc.org",
+      "score": 0.00014953981446309627,
+      "is_first_party": false
+    },
+    {
+      "host": "regents.universityofcalifornia.edu",
+      "score": 0.00014575992823921962,
+      "is_first_party": false
+    },
+    {
+      "host": "siteimprove.berkeley.edu",
+      "score": 0.00014298770032709798,
+      "is_first_party": true
+    },
+    {
+      "host": "research-it.berkeley.edu",
+      "score": 0.00013384528835957903,
+      "is_first_party": true
+    },
+    {
+      "host": "idc.berkeley.edu",
+      "score": 0.0001282140315302914,
+      "is_first_party": true
+    },
+    {
+      "host": "www.forbes.com",
+      "score": 0.00012350485432087175,
+      "is_first_party": false
+    },
+    {
+      "host": "cfr.berkeley.edu",
+      "score": 0.00012201563982036439,
+      "is_first_party": true
+    },
+    {
+      "host": "medium.com",
+      "score": 0.00012175876922865183,
+      "is_first_party": false
+    },
+    {
+      "host": "pitchbook.com",
+      "score": 0.00011905315827021167,
+      "is_first_party": false
+    },
+    {
+      "host": "iande.berkeley.edu",
+      "score": 0.00011812729709514515,
+      "is_first_party": true
+    },
+    {
+      "host": "secure.ethicspoint.com",
+      "score": 0.00011759196800020374,
+      "is_first_party": false
+    },
+    {
+      "host": "calnerds.berkeley.edu",
+      "score": 0.00011609623351390942,
+      "is_first_party": true
+    },
+    {
+      "host": "calteach.berkeley.edu",
+      "score": 0.00011609623351390942,
+      "is_first_party": true
+    },
+    {
+      "host": "greatergood.berkeley.edu",
+      "score": 0.00011609623351390942,
+      "is_first_party": true
+    },
+    {
+      "host": "jacobsinstitute.berkeley.edu",
+      "score": 0.00011609623351390942,
+      "is_first_party": true
+    },
+    {
+      "host": "engage.ucpd.berkeley.edu",
+      "score": 0.00011435335917163501,
+      "is_first_party": true
+    },
+    {
+      "host": "ai.berkeley.edu",
+      "score": 0.00011426851496647252,
+      "is_first_party": true
+    },
+    {
+      "host": "arxiv.org",
+      "score": 0.00011014976616889149,
+      "is_first_party": false
+    },
+    {
+      "host": "www.desi.lbl.gov",
+      "score": 0.00011014976616889149,
+      "is_first_party": false
+    },
+    {
+      "host": "mbn.berkeley.edu",
+      "score": 0.00010296151855930471,
+      "is_first_party": true
+    },
+    {
+      "host": "static1.squarespace.com",
+      "score": 9.956917486420165e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "bsj.berkeley.edu",
+      "score": 9.911832902063922e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "warnme.berkeley.edu",
+      "score": 9.657602292424454e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "box.berkeley.edu",
+      "score": 9.461769097987749e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "calnetweb.berkeley.edu",
+      "score": 9.461769097987749e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "webaccess.berkeley.edu",
+      "score": 9.461769097987749e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "studyabroadweek.berkeley.edu",
+      "score": 9.192567741279828e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "gradapp.berkeley.edu",
+      "score": 8.898146251602435e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "graddashboard.berkeley.edu",
+      "score": 8.898146251602435e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ischoolonline.berkeley.edu",
+      "score": 8.898146251602435e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "mfe.haas.berkeley.edu",
+      "score": 8.898146251602435e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "peoplesparkhousing.berkeley.edu",
+      "score": 8.837297041614843e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "live-wp-sa-path-1.pantheon.berkeley.edu",
+      "score": 8.400675306047976e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sites.google.com",
+      "score": 8.085980924382987e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "berkeley.bncollege.com",
+      "score": 7.970277490799222e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.telegraphberkeley.org",
+      "score": 7.970277490799222e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.visitberkeley.com",
+      "score": 7.970277490799222e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ssall.zendesk.com",
+      "score": 7.94068504726939e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.threads.com",
+      "score": 7.896414507198134e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "conduct.berkeley.edu",
+      "score": 7.87986866768541e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "classrooms.berkeley.edu",
+      "score": 7.877040527513328e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "nextguide.berkeley.edu",
+      "score": 7.701503774165096e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "phoebe.rac.berkeley.edu",
+      "score": 7.566699967729106e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "analytics.berkeley.edu",
+      "score": 7.500140647274402e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bioegrad.berkeley.edu",
+      "score": 7.500140647274402e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "climatesolutions.berkeley.edu",
+      "score": 7.500140647274402e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "design.berkeley.edu",
+      "score": 7.500140647274402e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ewmba.haas.berkeley.edu",
+      "score": 7.500140647274402e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "fcba.berkeley.edu",
+      "score": 7.500140647274402e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "jsp-ls.berkeley.edu",
+      "score": 7.500140647274402e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "mas-e.engineering.berkeley.edu",
+      "score": 7.500140647274402e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "mbaforexecs.haas.berkeley.edu",
+      "score": 7.500140647274402e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "msse.berkeley.edu",
+      "score": 7.500140647274402e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "mtm.berkeley.edu",
+      "score": 7.500140647274402e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "tannerlectures.berkeley.edu",
+      "score": 7.500140647274402e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "berkeleyextension.zendesk.com",
+      "score": 7.476990723154813e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ucberkeleyextension.medium.com",
+      "score": 7.476990723154813e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.destinysolutions.com",
+      "score": 7.476990723154813e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "busdev.berkeley.edu",
+      "score": 7.443425555118168e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "askoski.berkeley.edu",
+      "score": 7.211299064113727e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "catalog.berkeley.edu",
+      "score": 7.211299064113727e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "lsadvising.berkeley.edu",
+      "score": 7.016060032214213e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "berkeley.sharepoint.com",
+      "score": 6.935337472275867e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "news-rac.berkeley.edu",
+      "score": 6.834417505337736e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "researchcoi.berkeley.edu",
+      "score": 6.834417505337736e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sis.berkeley.edu",
+      "score": 6.787578784897251e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "berkeley.zoom.us",
+      "score": 6.719268110082769e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "groups.google.com",
+      "score": 6.719268110082769e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mail.google.com",
+      "score": 6.719268110082769e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "charterhill.berkeley.edu",
+      "score": 6.547304648012375e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "newsarchive.berkeley.edu",
+      "score": 6.547304648012375e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "www.nytimes.com",
+      "score": 6.397827518576591e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "digicoll.lib.berkeley.edu",
+      "score": 6.330616290263328e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "millerscholars.berkeley.edu",
+      "score": 6.330616290263328e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "studentsupportservices.berkeley.edu",
+      "score": 6.330616290263328e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ttp.berkeley.edu",
+      "score": 6.330616290263328e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "www.timeshighereducation.com",
+      "score": 5.952657913510584e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mwi.org",
+      "score": 5.589637666093771e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "berkeleyairspacecenter.com",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "github.com",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ourlifeishere.org",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "science.nasa.gov",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "t.co",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "web.stanford.edu",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aeaweb.org",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.afghanclinic.com",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.kva.se",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.relativityspace.com",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.schmidtsciences.org",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.thecrimson.com",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.topuniversities.com",
+      "score": 5.5074883084445746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "youtu.be",
+      "score": 5.470323997336954e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mailchi.mp",
+      "score": 4.2086287489947406e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "goo.gl",
+      "score": 3.682582554297823e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "forms.gle",
+      "score": 3.538641749209093e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "berkeley.app.box.com",
+      "score": 3.3596340550413846e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "berkeley.statusdashboard.com",
+      "score": 3.3596340550413846e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "berkeleystudyabroad.zendesk.com",
+      "score": 3.090432698333461e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.flickr.com",
+      "score": 3.090432698333461e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "translate.google.com",
+      "score": 2.96181094746174e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "berkeleyguidearchive.github.io",
+      "score": 2.7417749678035343e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "berkeley.campusesp.com",
+      "score": 2.735161998668477e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "uc.sumtotal.host",
+      "score": 2.34073291618133e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ucnet.universityofcalifornia.edu",
+      "score": 2.34073291618133e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "berkeley.us7.list-manage.com",
+      "score": 1.9941110574212256e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ai.universityofcalifornia.edu",
+      "score": 1.774905484566962e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "open.spotify.com",
+      "score": 1.774905484566962e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.insidehighered.com",
+      "score": 1.774905484566962e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mdpi.com",
+      "score": 1.774905484566962e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nature.com",
+      "score": 1.774905484566962e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "linktr.ee",
+      "score": 1.608417930456926e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "reportingtransparency.universityofcalifornia.edu",
+      "score": 1.5735940234774232e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "berkeley.qualtrics.com",
+      "score": 1.405311572333353e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "eastbaysanctuary.org",
+      "score": 1.398005604328035e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ebclc.org",
+      "score": 1.398005604328035e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.araborganizing.org",
+      "score": 1.398005604328035e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cair.com",
+      "score": 1.398005604328035e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.stophate.com",
+      "score": 1.398005604328035e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "berkeleysa.tfaforms.net",
+      "score": 1.3412905121718011e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "app.smartsheet.com",
+      "score": 1.2029416918831923e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "travel.state.gov",
+      "score": 9.997309929396327e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "cal-admin.maps.arcgis.com",
+      "score": 9.86872329690095e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "jobs.universityofcalifornia.edu",
+      "score": 9.86872329690095e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "new.express.adobe.com",
+      "score": 9.467935823474784e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "america250.org",
+      "score": 8.903392101320168e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "gallery.fitbit.com",
+      "score": 8.903392101320168e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "giphy.com",
+      "score": 8.903392101320168e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "itunes.apple.com",
+      "score": 8.903392101320168e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.collegexpress.com",
+      "score": 8.903392101320168e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.highereddatastories.com",
+      "score": 8.903392101320168e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.highereddive.com",
+      "score": 8.903392101320168e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.peacecorps.gov",
+      "score": 8.903392101320168e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.sfchronicle.com",
+      "score": 8.903392101320168e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "ucop.edu",
+      "score": 7.322824623913695e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.coursedog.com",
+      "score": 4.6976455654949135e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.calvet.ca.gov",
+      "score": 4.569624946339225e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.census.gov",
+      "score": 4.451696050660084e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.eventbrite.com",
+      "score": 4.451696050660084e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ucberkeleyfoundation.org",
+      "score": 4.451696050660084e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "archive-ucberkeley-grad-25-26.catalog.prod.coursedog.com",
+      "score": 2.2848124731696124e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "archive-ucberkeley-undergrad-25-26.catalog.prod.coursedog.com",
+      "score": 2.2848124731696124e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "inquiry.vba.va.gov",
+      "score": 2.2848124731696124e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "airtable.com",
+      "score": 2.160693621930972e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "berkeley.us1.list-manage.com",
+      "score": 2.160693621930972e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "coebegin.wpengine.com",
+      "score": 2.031063581235729e-06,
+      "is_first_party": false
+    }
+  ]
+}

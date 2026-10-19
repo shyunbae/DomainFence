@@ -1,0 +1,2375 @@
+{
+  "seed": "duke.edu",
+  "aliases": [],
+  "crawl_date": "2026-10-18",
+  "crawl_stats": {
+    "total_nodes": 472,
+    "first_party_hosts": 245,
+    "external_hosts": 227,
+    "total_edge_weight": 9058,
+    "subdomains": 244,
+    "pages_crawled": 500
+  },
+  "ranking": [
+    {
+      "host": "duke.edu",
+      "score": 0.2657247405376535,
+      "is_first_party": true
+    },
+    {
+      "host": "admissions.duke.edu",
+      "score": 0.05537934895554689,
+      "is_first_party": true
+    },
+    {
+      "host": "trinity.duke.edu",
+      "score": 0.03138400342128033,
+      "is_first_party": true
+    },
+    {
+      "host": "medschool.duke.edu",
+      "score": 0.030189348039289847,
+      "is_first_party": true
+    },
+    {
+      "host": "financialaid.duke.edu",
+      "score": 0.027725012791687695,
+      "is_first_party": true
+    },
+    {
+      "host": "nicholas.duke.edu",
+      "score": 0.026478815483063946,
+      "is_first_party": true
+    },
+    {
+      "host": "divinity.duke.edu",
+      "score": 0.023230922216335256,
+      "is_first_party": true
+    },
+    {
+      "host": "oarc.duke.edu",
+      "score": 0.022459084053958165,
+      "is_first_party": true
+    },
+    {
+      "host": "law.duke.edu",
+      "score": 0.01766027524571115,
+      "is_first_party": true
+    },
+    {
+      "host": "today.duke.edu",
+      "score": 0.016219335691662427,
+      "is_first_party": true
+    },
+    {
+      "host": "nursing.duke.edu",
+      "score": 0.015547585103485506,
+      "is_first_party": true
+    },
+    {
+      "host": "pratt.duke.edu",
+      "score": 0.015496587611001852,
+      "is_first_party": true
+    },
+    {
+      "host": "arts.duke.edu",
+      "score": 0.01378134318037396,
+      "is_first_party": true
+    },
+    {
+      "host": "access.duke.edu",
+      "score": 0.012283283330484817,
+      "is_first_party": true
+    },
+    {
+      "host": "web.accessibility.duke.edu",
+      "score": 0.011534904373725856,
+      "is_first_party": true
+    },
+    {
+      "host": "research.duke.edu",
+      "score": 0.011102846422040076,
+      "is_first_party": true
+    },
+    {
+      "host": "global.duke.edu",
+      "score": 0.011094469709058523,
+      "is_first_party": true
+    },
+    {
+      "host": "gradschool.duke.edu",
+      "score": 0.010643604122588092,
+      "is_first_party": true
+    },
+    {
+      "host": "accessibility.duke.edu",
+      "score": 0.010168260092356126,
+      "is_first_party": true
+    },
+    {
+      "host": "travel.duke.edu",
+      "score": 0.009893480352336437,
+      "is_first_party": true
+    },
+    {
+      "host": "nasher.duke.edu",
+      "score": 0.009314507680326552,
+      "is_first_party": true
+    },
+    {
+      "host": "otc.duke.edu",
+      "score": 0.00910810461582944,
+      "is_first_party": true
+    },
+    {
+      "host": "sanford.duke.edu",
+      "score": 0.008571726477214983,
+      "is_first_party": true
+    },
+    {
+      "host": "researchfunding.duke.edu",
+      "score": 0.007922509188370319,
+      "is_first_party": true
+    },
+    {
+      "host": "fuqua.duke.edu",
+      "score": 0.00788193350635604,
+      "is_first_party": true
+    },
+    {
+      "host": "nicholasinstitute.duke.edu",
+      "score": 0.0077352385412112175,
+      "is_first_party": true
+    },
+    {
+      "host": "undergraduateresearch.duke.edu",
+      "score": 0.00735654786177948,
+      "is_first_party": true
+    },
+    {
+      "host": "interdisciplinary.duke.edu",
+      "score": 0.007068014567407978,
+      "is_first_party": true
+    },
+    {
+      "host": "www.youtube.com",
+      "score": 0.006869313920464529,
+      "is_first_party": false
+    },
+    {
+      "host": "provost.duke.edu",
+      "score": 0.006420082557002407,
+      "is_first_party": true
+    },
+    {
+      "host": "gifts.duke.edu",
+      "score": 0.006117866050707397,
+      "is_first_party": true
+    },
+    {
+      "host": "trademarklicensing.duke.edu",
+      "score": 0.006021269482183432,
+      "is_first_party": true
+    },
+    {
+      "host": "www.instagram.com",
+      "score": 0.005997185135527783,
+      "is_first_party": false
+    },
+    {
+      "host": "globalhealth.duke.edu",
+      "score": 0.005834787417641423,
+      "is_first_party": true
+    },
+    {
+      "host": "foundationrelations.duke.edu",
+      "score": 0.005659383846907004,
+      "is_first_party": true
+    },
+    {
+      "host": "www.facebook.com",
+      "score": 0.0056159131977679,
+      "is_first_party": false
+    },
+    {
+      "host": "library.duke.edu",
+      "score": 0.005518853483602583,
+      "is_first_party": true
+    },
+    {
+      "host": "students.duke.edu",
+      "score": 0.00541958762371357,
+      "is_first_party": true
+    },
+    {
+      "host": "undergrad.duke.edu",
+      "score": 0.005372587824368333,
+      "is_first_party": true
+    },
+    {
+      "host": "kenan.ethics.duke.edu",
+      "score": 0.005136111895383025,
+      "is_first_party": true
+    },
+    {
+      "host": "documentarystudies.duke.edu",
+      "score": 0.005031058801870387,
+      "is_first_party": true
+    },
+    {
+      "host": "www.linkedin.com",
+      "score": 0.004854461181764979,
+      "is_first_party": false
+    },
+    {
+      "host": "externalpartnerships.duke.edu",
+      "score": 0.004613381283901253,
+      "is_first_party": true
+    },
+    {
+      "host": "alumni.duke.edu",
+      "score": 0.004580356508941743,
+      "is_first_party": true
+    },
+    {
+      "host": "finance.duke.edu",
+      "score": 0.004569977663759904,
+      "is_first_party": true
+    },
+    {
+      "host": "ssri.duke.edu",
+      "score": 0.004557404263031677,
+      "is_first_party": true
+    },
+    {
+      "host": "healthpolicy.duke.edu",
+      "score": 0.0043614387439960284,
+      "is_first_party": true
+    },
+    {
+      "host": "hr.duke.edu",
+      "score": 0.0043011679495116055,
+      "is_first_party": true
+    },
+    {
+      "host": "learnmore.duke.edu",
+      "score": 0.00426912748491121,
+      "is_first_party": true
+    },
+    {
+      "host": "calendar.duke.edu",
+      "score": 0.004027506579431715,
+      "is_first_party": true
+    },
+    {
+      "host": "giving.duke.edu",
+      "score": 0.004003243357862943,
+      "is_first_party": true
+    },
+    {
+      "host": "duke.qualtrics.com",
+      "score": 0.0038572392884912757,
+      "is_first_party": false
+    },
+    {
+      "host": "news.duke.edu",
+      "score": 0.0035868700396527,
+      "is_first_party": true
+    },
+    {
+      "host": "madeforthis.duke.edu",
+      "score": 0.0035757940291971015,
+      "is_first_party": true
+    },
+    {
+      "host": "www.duke-nus.edu.sg",
+      "score": 0.0034919148018722097,
+      "is_first_party": false
+    },
+    {
+      "host": "president.duke.edu",
+      "score": 0.0034646722937879525,
+      "is_first_party": true
+    },
+    {
+      "host": "entrepreneurship.duke.edu",
+      "score": 0.003135038196698201,
+      "is_first_party": true
+    },
+    {
+      "host": "registrar.duke.edu",
+      "score": 0.0029570199492737668,
+      "is_first_party": true
+    },
+    {
+      "host": "oit.duke.edu",
+      "score": 0.0027896426618031983,
+      "is_first_party": true
+    },
+    {
+      "host": "globaled.duke.edu",
+      "score": 0.00276833283435727,
+      "is_first_party": true
+    },
+    {
+      "host": "admiss.ugrad.duke.edu",
+      "score": 0.002759312320884679,
+      "is_first_party": true
+    },
+    {
+      "host": "idms-mfa.oit.duke.edu",
+      "score": 0.002755593809544863,
+      "is_first_party": true
+    },
+    {
+      "host": "goduke.com",
+      "score": 0.002602417173822417,
+      "is_first_party": false
+    },
+    {
+      "host": "summersession.duke.edu",
+      "score": 0.0025248235891592256,
+      "is_first_party": true
+    },
+    {
+      "host": "studentaffairs.duke.edu",
+      "score": 0.002498166806335401,
+      "is_first_party": true
+    },
+    {
+      "host": "academiccouncil.duke.edu",
+      "score": 0.002445653583805638,
+      "is_first_party": true
+    },
+    {
+      "host": "itac.duke.edu",
+      "score": 0.002445653583805638,
+      "is_first_party": true
+    },
+    {
+      "host": "values.duke.edu",
+      "score": 0.0024381013992072686,
+      "is_first_party": true
+    },
+    {
+      "host": "home.careers.duke.edu",
+      "score": 0.002437371485915038,
+      "is_first_party": true
+    },
+    {
+      "host": "directory.duke.edu",
+      "score": 0.002408185902896454,
+      "is_first_party": true
+    },
+    {
+      "host": "twitter.com",
+      "score": 0.0023854898458004754,
+      "is_first_party": false
+    },
+    {
+      "host": "focus.duke.edu",
+      "score": 0.002355928217875029,
+      "is_first_party": true
+    },
+    {
+      "host": "x.com",
+      "score": 0.002309949219552817,
+      "is_first_party": false
+    },
+    {
+      "host": "dibs.duke.edu",
+      "score": 0.002207592330455812,
+      "is_first_party": true
+    },
+    {
+      "host": "sites.duke.edu",
+      "score": 0.0022035083747680025,
+      "is_first_party": true
+    },
+    {
+      "host": "scienceandsociety.duke.edu",
+      "score": 0.002074988883661588,
+      "is_first_party": true
+    },
+    {
+      "host": "fhi.duke.edu",
+      "score": 0.002060501897983189,
+      "is_first_party": true
+    },
+    {
+      "host": "prepare.duke.edu",
+      "score": 0.0019319030604520238,
+      "is_first_party": true
+    },
+    {
+      "host": "drupal.trinity.duke.edu",
+      "score": 0.0018943492866894253,
+      "is_first_party": true
+    },
+    {
+      "host": "bigdata.duke.edu",
+      "score": 0.0018600745566632348,
+      "is_first_party": true
+    },
+    {
+      "host": "accounts.oit.duke.edu",
+      "score": 0.001840738878688076,
+      "is_first_party": true
+    },
+    {
+      "host": "www.dukehealth.org",
+      "score": 0.0017624260987253852,
+      "is_first_party": false
+    },
+    {
+      "host": "duke.is",
+      "score": 0.0017116845417154908,
+      "is_first_party": false
+    },
+    {
+      "host": "ors.duke.edu",
+      "score": 0.0017090067777281604,
+      "is_first_party": true
+    },
+    {
+      "host": "admin.trinity.duke.edu",
+      "score": 0.001666906257220501,
+      "is_first_party": true
+    },
+    {
+      "host": "learninginnovation.duke.edu",
+      "score": 0.0016072476109684187,
+      "is_first_party": true
+    },
+    {
+      "host": "bassconnections.duke.edu",
+      "score": 0.0015317053430272405,
+      "is_first_party": true
+    },
+    {
+      "host": "dukehealth.org",
+      "score": 0.001517572173962142,
+      "is_first_party": false
+    },
+    {
+      "host": "emergency.duke.edu",
+      "score": 0.001484971051819547,
+      "is_first_party": true
+    },
+    {
+      "host": "instagram.com",
+      "score": 0.0014163252603239824,
+      "is_first_party": false
+    },
+    {
+      "host": "work.oit.duke.edu",
+      "score": 0.0013469352552549258,
+      "is_first_party": true
+    },
+    {
+      "host": "app.e2ma.net",
+      "score": 0.0013363335222352456,
+      "is_first_party": false
+    },
+    {
+      "host": "my.duke.edu",
+      "score": 0.0013335883773275888,
+      "is_first_party": true
+    },
+    {
+      "host": "dukehub.duke.edu",
+      "score": 0.0013172286736128753,
+      "is_first_party": true
+    },
+    {
+      "host": "maps.duke.edu",
+      "score": 0.0013123494478717598,
+      "is_first_party": true
+    },
+    {
+      "host": "careers.duke.edu",
+      "score": 0.0012360952806660165,
+      "is_first_party": true
+    },
+    {
+      "host": "www.tiktok.com",
+      "score": 0.0012205839030246188,
+      "is_first_party": false
+    },
+    {
+      "host": "myresearchpath.duke.edu",
+      "score": 0.001205532563116504,
+      "is_first_party": true
+    },
+    {
+      "host": "www.fullframefest.org",
+      "score": 0.001192346692714419,
+      "is_first_party": false
+    },
+    {
+      "host": "corporate.dukehealth.org",
+      "score": 0.0011724073855614373,
+      "is_first_party": false
+    },
+    {
+      "host": "tickets.duke.edu",
+      "score": 0.00116585027797156,
+      "is_first_party": true
+    },
+    {
+      "host": "admissions.dukekunshan.edu.cn",
+      "score": 0.0011504212026958657,
+      "is_first_party": false
+    },
+    {
+      "host": "dukearts.org",
+      "score": 0.0011504212026958657,
+      "is_first_party": false
+    },
+    {
+      "host": "graduate.dukekunshan.edu.cn",
+      "score": 0.0011504212026958657,
+      "is_first_party": false
+    },
+    {
+      "host": "npc.collegeboard.org",
+      "score": 0.0011504212026958657,
+      "is_first_party": false
+    },
+    {
+      "host": "ugstudies.dukekunshan.edu.cn",
+      "score": 0.0011504212026958657,
+      "is_first_party": false
+    },
+    {
+      "host": "www.americandancefestival.org",
+      "score": 0.0011504212026958657,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dukece.com",
+      "score": 0.0011504212026958657,
+      "is_first_party": false
+    },
+    {
+      "host": "dukeengage.duke.edu",
+      "score": 0.0011430855288968862,
+      "is_first_party": true
+    },
+    {
+      "host": "program2.duke.edu",
+      "score": 0.001126201226634567,
+      "is_first_party": true
+    },
+    {
+      "host": "impact.duke.edu",
+      "score": 0.0010934463683347445,
+      "is_first_party": true
+    },
+    {
+      "host": "scholars.duke.edu",
+      "score": 0.0010641263682721848,
+      "is_first_party": true
+    },
+    {
+      "host": "apps.alumni.duke.edu",
+      "score": 0.0009725219492294457,
+      "is_first_party": true
+    },
+    {
+      "host": "strategicvision.duke.edu",
+      "score": 0.0009672045800766227,
+      "is_first_party": true
+    },
+    {
+      "host": "ctl.duke.edu",
+      "score": 0.000965165187571216,
+      "is_first_party": true
+    },
+    {
+      "host": "bme.duke.edu",
+      "score": 0.0009162380422617605,
+      "is_first_party": true
+    },
+    {
+      "host": "transformativeideas.duke.edu",
+      "score": 0.0008948903796465464,
+      "is_first_party": true
+    },
+    {
+      "host": "parking.duke.edu",
+      "score": 0.0008742909659686331,
+      "is_first_party": true
+    },
+    {
+      "host": "secure.compliance360.com",
+      "score": 0.0008391390827334131,
+      "is_first_party": false
+    },
+    {
+      "host": "duke.libcal.com",
+      "score": 0.0007818375768723635,
+      "is_first_party": false
+    },
+    {
+      "host": "masters.pratt.duke.edu",
+      "score": 0.0007793893888234953,
+      "is_first_party": true
+    },
+    {
+      "host": "courses.learnmore.duke.edu",
+      "score": 0.0007747013572523746,
+      "is_first_party": true
+    },
+    {
+      "host": "www.discoverdurham.com",
+      "score": 0.0007742658939874418,
+      "is_first_party": false
+    },
+    {
+      "host": "idms.oit.duke.edu",
+      "score": 0.0007694060755147576,
+      "is_first_party": true
+    },
+    {
+      "host": "unlock.duke.edu",
+      "score": 0.0007694060755147576,
+      "is_first_party": true
+    },
+    {
+      "host": "oghs.duke.edu",
+      "score": 0.0007092774923795971,
+      "is_first_party": true
+    },
+    {
+      "host": "chapel.duke.edu",
+      "score": 0.000706415010488678,
+      "is_first_party": true
+    },
+    {
+      "host": "communications.duke.edu",
+      "score": 0.0007034826103348513,
+      "is_first_party": true
+    },
+    {
+      "host": "vaccines.duke.edu",
+      "score": 0.0006926166958402934,
+      "is_first_party": true
+    },
+    {
+      "host": "blogs.library.duke.edu",
+      "score": 0.0006285685487529648,
+      "is_first_party": true
+    },
+    {
+      "host": "oie.duke.edu",
+      "score": 0.0005751687621271148,
+      "is_first_party": true
+    },
+    {
+      "host": "aed.duke.edu",
+      "score": 0.0005688932937835442,
+      "is_first_party": true
+    },
+    {
+      "host": "lemur.duke.edu",
+      "score": 0.000559574860813979,
+      "is_first_party": true
+    },
+    {
+      "host": "my.globaled.duke.edu",
+      "score": 0.0005485465429982919,
+      "is_first_party": true
+    },
+    {
+      "host": "cee.duke.edu",
+      "score": 0.0005227684081685385,
+      "is_first_party": true
+    },
+    {
+      "host": "community.duke.edu",
+      "score": 0.0005139550912445875,
+      "is_first_party": true
+    },
+    {
+      "host": "ai.duke.edu",
+      "score": 0.0005115709177718194,
+      "is_first_party": true
+    },
+    {
+      "host": "mrh.duke.edu",
+      "score": 0.0005110225527076312,
+      "is_first_party": true
+    },
+    {
+      "host": "dhts.duke.edu",
+      "score": 0.0004978716781096693,
+      "is_first_party": true
+    },
+    {
+      "host": "www.robobraille.org",
+      "score": 0.00049718051579583,
+      "is_first_party": false
+    },
+    {
+      "host": "app.em.duke.edu",
+      "score": 0.0004941909372954536,
+      "is_first_party": true
+    },
+    {
+      "host": "blackthinktank.duke.edu",
+      "score": 0.0004908172317366775,
+      "is_first_party": true
+    },
+    {
+      "host": "evp.duke.edu",
+      "score": 0.0004908172317366775,
+      "is_first_party": true
+    },
+    {
+      "host": "farm.duke.edu",
+      "score": 0.0004908172317366775,
+      "is_first_party": true
+    },
+    {
+      "host": "neurology.duke.edu",
+      "score": 0.0004908172317366775,
+      "is_first_party": true
+    },
+    {
+      "host": "dupri.duke.edu",
+      "score": 0.0004674174303671817,
+      "is_first_party": true
+    },
+    {
+      "host": "www.goduke.com",
+      "score": 0.0004623503936820255,
+      "is_first_party": false
+    },
+    {
+      "host": "dukeforest.duke.edu",
+      "score": 0.0004495217962070384,
+      "is_first_party": true
+    },
+    {
+      "host": "dukecapitalpartners.duke.edu",
+      "score": 0.0004255033162948309,
+      "is_first_party": true
+    },
+    {
+      "host": "numbers.otc.duke.edu",
+      "score": 0.0004255033162948309,
+      "is_first_party": true
+    },
+    {
+      "host": "www.anthropology-news.org",
+      "score": 0.0004151545137194849,
+      "is_first_party": false
+    },
+    {
+      "host": "vimeo.com",
+      "score": 0.00041435315261816177,
+      "is_first_party": false
+    },
+    {
+      "host": "prodduke.sharepoint.com",
+      "score": 0.00041428546147965914,
+      "is_first_party": false
+    },
+    {
+      "host": "gme.duke.edu",
+      "score": 0.0004092369779123421,
+      "is_first_party": true
+    },
+    {
+      "host": "ja.dh.duke.edu",
+      "score": 0.0004092369779123421,
+      "is_first_party": true
+    },
+    {
+      "host": "mclibrary.duke.edu",
+      "score": 0.0004092369779123421,
+      "is_first_party": true
+    },
+    {
+      "host": "signup.e2ma.net",
+      "score": 0.0004012893299165831,
+      "is_first_party": false
+    },
+    {
+      "host": "wethepeople.duke.edu",
+      "score": 0.000389611972295879,
+      "is_first_party": true
+    },
+    {
+      "host": "www.dukeendowment.org",
+      "score": 0.0003872010079386376,
+      "is_first_party": false
+    },
+    {
+      "host": "clc.com",
+      "score": 0.00038385592952943243,
+      "is_first_party": false
+    },
+    {
+      "host": "physicians.dukehealth.org",
+      "score": 0.00038347373423195524,
+      "is_first_party": false
+    },
+    {
+      "host": "www.lodgeatdumc.com",
+      "score": 0.00038347373423195524,
+      "is_first_party": false
+    },
+    {
+      "host": "remotework.duke.edu",
+      "score": 0.00035947692542489753,
+      "is_first_party": true
+    },
+    {
+      "host": "business-meets-climate.duke.edu",
+      "score": 0.0003466164789630211,
+      "is_first_party": true
+    },
+    {
+      "host": "police.duke.edu",
+      "score": 0.000341762867205265,
+      "is_first_party": true
+    },
+    {
+      "host": "ocrd.duke.edu",
+      "score": 0.0003380125617055008,
+      "is_first_party": true
+    },
+    {
+      "host": "madeforthis.sanford.duke.edu",
+      "score": 0.00032813039162384234,
+      "is_first_party": true
+    },
+    {
+      "host": "dst.duke.edu",
+      "score": 0.0003208836171305753,
+      "is_first_party": true
+    },
+    {
+      "host": "advising.duke.edu",
+      "score": 0.00031679907725492033,
+      "is_first_party": true
+    },
+    {
+      "host": "www.google.com",
+      "score": 0.0003138513410921879,
+      "is_first_party": false
+    },
+    {
+      "host": "mems.duke.edu",
+      "score": 0.0003138362152493751,
+      "is_first_party": true
+    },
+    {
+      "host": "brand.duke.edu",
+      "score": 0.00030830668246155195,
+      "is_first_party": true
+    },
+    {
+      "host": "ace.duke.edu",
+      "score": 0.00030798816246301383,
+      "is_first_party": true
+    },
+    {
+      "host": "dkurelations.duke.edu",
+      "score": 0.00030798816246301383,
+      "is_first_party": true
+    },
+    {
+      "host": "ousf.duke.edu",
+      "score": 0.00030798816246301383,
+      "is_first_party": true
+    },
+    {
+      "host": "judicialstudies.duke.edu",
+      "score": 0.000306167788361704,
+      "is_first_party": true
+    },
+    {
+      "host": "ibrc.duke.edu",
+      "score": 0.0003039331520671666,
+      "is_first_party": true
+    },
+    {
+      "host": "lists.duke.edu",
+      "score": 0.00030287187359964073,
+      "is_first_party": true
+    },
+    {
+      "host": "warpwire.duke.edu",
+      "score": 0.0003015924588738985,
+      "is_first_party": true
+    },
+    {
+      "host": "admin.calendar.duke.edu",
+      "score": 0.00029753130820901486,
+      "is_first_party": true
+    },
+    {
+      "host": "web.archive.org",
+      "score": 0.00028517099481571766,
+      "is_first_party": false
+    },
+    {
+      "host": "socialmedia.duke.edu",
+      "score": 0.00026856451685055535,
+      "is_first_party": true
+    },
+    {
+      "host": "status.oit.duke.edu",
+      "score": 0.00026542324834912055,
+      "is_first_party": true
+    },
+    {
+      "host": "www.forbes.com",
+      "score": 0.00026012142148247597,
+      "is_first_party": false
+    },
+    {
+      "host": "durham.duke.edu",
+      "score": 0.0002564617156474586,
+      "is_first_party": true
+    },
+    {
+      "host": "humanrights.fhi.duke.edu",
+      "score": 0.00025329571528337697,
+      "is_first_party": true
+    },
+    {
+      "host": "fitzpatrick.duke.edu",
+      "score": 0.0002417526757684769,
+      "is_first_party": true
+    },
+    {
+      "host": "inside.pratt.duke.edu",
+      "score": 0.0002417526757684769,
+      "is_first_party": true
+    },
+    {
+      "host": "psychandneuro.duke.edu",
+      "score": 0.00023984368342047077,
+      "is_first_party": true
+    },
+    {
+      "host": "guides.library.duke.edu",
+      "score": 0.00023764976031678294,
+      "is_first_party": true
+    },
+    {
+      "host": "search.library.duke.edu",
+      "score": 0.00023764976031678294,
+      "is_first_party": true
+    },
+    {
+      "host": "bsky.app",
+      "score": 0.00023580217742933532,
+      "is_first_party": false
+    },
+    {
+      "host": "deeptech.duke.edu",
+      "score": 0.00023536545017973265,
+      "is_first_party": true
+    },
+    {
+      "host": "applygp.duke.edu",
+      "score": 0.00023129028170582896,
+      "is_first_party": true
+    },
+    {
+      "host": "ucem.duke.edu",
+      "score": 0.00023127587428218102,
+      "is_first_party": true
+    },
+    {
+      "host": "fuquaworld.duke.edu",
+      "score": 0.00022697998823387178,
+      "is_first_party": true
+    },
+    {
+      "host": "policies.provost.duke.edu",
+      "score": 0.0002260264070375013,
+      "is_first_party": true
+    },
+    {
+      "host": "climate.duke.edu",
+      "score": 0.00022279498228516234,
+      "is_first_party": true
+    },
+    {
+      "host": "library.divinity.duke.edu",
+      "score": 0.000220827887643181,
+      "is_first_party": true
+    },
+    {
+      "host": "policies.duke.edu",
+      "score": 0.00021689695245805677,
+      "is_first_party": true
+    },
+    {
+      "host": "emuseum.nasher.duke.edu",
+      "score": 0.000216548070321116,
+      "is_first_party": true
+    },
+    {
+      "host": "duke.app.cayuse.com",
+      "score": 0.00021210654586007239,
+      "is_first_party": false
+    },
+    {
+      "host": "sitespro.duke.edu",
+      "score": 0.00021139805965381705,
+      "is_first_party": true
+    },
+    {
+      "host": "duke.app.box.com",
+      "score": 0.0002112431647129931,
+      "is_first_party": false
+    },
+    {
+      "host": "safety.duke.edu",
+      "score": 0.0002070363030546042,
+      "is_first_party": true
+    },
+    {
+      "host": "nautil.us",
+      "score": 0.00020325596892306302,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dukecancerinstitute.org",
+      "score": 0.0001994395336343736,
+      "is_first_party": false
+    },
+    {
+      "host": "security.duke.edu",
+      "score": 0.00019827745774833187,
+      "is_first_party": true
+    },
+    {
+      "host": "duke.us6.list-manage.com",
+      "score": 0.00019577247257596903,
+      "is_first_party": false
+    },
+    {
+      "host": "rsvp.duke.edu",
+      "score": 0.000191194477541829,
+      "is_first_party": true
+    },
+    {
+      "host": "trustees.duke.edu",
+      "score": 0.00018693732047318654,
+      "is_first_party": true
+    },
+    {
+      "host": "diversifyit.duke.edu",
+      "score": 0.00018638337292692147,
+      "is_first_party": true
+    },
+    {
+      "host": "dukemag.duke.edu",
+      "score": 0.00018597449612890412,
+      "is_first_party": true
+    },
+    {
+      "host": "iid-content.oit.duke.edu",
+      "score": 0.00018263222956255317,
+      "is_first_party": true
+    },
+    {
+      "host": "ece.duke.edu",
+      "score": 0.00017942703698562053,
+      "is_first_party": true
+    },
+    {
+      "host": "biodesign.duke.edu",
+      "score": 0.00017454808663659962,
+      "is_first_party": true
+    },
+    {
+      "host": "cagt.pratt.duke.edu",
+      "score": 0.00017454808663659962,
+      "is_first_party": true
+    },
+    {
+      "host": "cbte.pratt.duke.edu",
+      "score": 0.00017454808663659962,
+      "is_first_party": true
+    },
+    {
+      "host": "dmi.duke.edu",
+      "score": 0.00017454808663659962,
+      "is_first_party": true
+    },
+    {
+      "host": "quicksearch.library.duke.edu",
+      "score": 0.00017249662891075264,
+      "is_first_party": true
+    },
+    {
+      "host": "repository.duke.edu",
+      "score": 0.00017249662891075264,
+      "is_first_party": true
+    },
+    {
+      "host": "ags.duke.edu",
+      "score": 0.00017237385287534134,
+      "is_first_party": true
+    },
+    {
+      "host": "stories.duke.edu",
+      "score": 0.00017237385287534134,
+      "is_first_party": true
+    },
+    {
+      "host": "epsummit.duke.edu",
+      "score": 0.0001708858449170552,
+      "is_first_party": true
+    },
+    {
+      "host": "feedcurator.oit.duke.edu",
+      "score": 0.00017073943440615319,
+      "is_first_party": true
+    },
+    {
+      "host": "urlbuilder.calendar.duke.edu",
+      "score": 0.00017073943440615319,
+      "is_first_party": true
+    },
+    {
+      "host": "us9.campaign-archive.com",
+      "score": 0.00016922551249781687,
+      "is_first_party": false
+    },
+    {
+      "host": "ai.fuqua.duke.edu",
+      "score": 0.00016716174286929704,
+      "is_first_party": true
+    },
+    {
+      "host": "facts.duke.edu",
+      "score": 0.00016663105982274673,
+      "is_first_party": true
+    },
+    {
+      "host": "fds.duke.edu",
+      "score": 0.00016589090169297308,
+      "is_first_party": true
+    },
+    {
+      "host": "intranet.divinity.duke.edu",
+      "score": 0.00016408569257395165,
+      "is_first_party": true
+    },
+    {
+      "host": "careers.dukehealth.org",
+      "score": 0.00016195945419170772,
+      "is_first_party": false
+    },
+    {
+      "host": "work.duke.edu",
+      "score": 0.00015937077857926973,
+      "is_first_party": true
+    },
+    {
+      "host": "facilities.duke.edu",
+      "score": 0.00015718990027966328,
+      "is_first_party": true
+    },
+    {
+      "host": "go.canvas.duke.edu",
+      "score": 0.00015704957021896778,
+      "is_first_party": true
+    },
+    {
+      "host": "stellic.duke.edu",
+      "score": 0.00015704957021896778,
+      "is_first_party": true
+    },
+    {
+      "host": "governmentrelations.duke.edu",
+      "score": 0.00015299077040194502,
+      "is_first_party": true
+    },
+    {
+      "host": "forms.hr.duke.edu",
+      "score": 0.00015049992087472918,
+      "is_first_party": true
+    },
+    {
+      "host": "www.acluofnorthcarolina.org",
+      "score": 0.00014911821814273627,
+      "is_first_party": false
+    },
+    {
+      "host": "quadex.duke.edu",
+      "score": 0.0001482621540168897,
+      "is_first_party": true
+    },
+    {
+      "host": "spotlight-staging.oit.duke.edu",
+      "score": 0.00014799469128933495,
+      "is_first_party": true
+    },
+    {
+      "host": "www.dukechronicle.com",
+      "score": 0.00014113423739557835,
+      "is_first_party": false
+    },
+    {
+      "host": "healthy.duke.edu",
+      "score": 0.000136529080523306,
+      "is_first_party": true
+    },
+    {
+      "host": "visitor.r20.constantcontact.com",
+      "score": 0.0001360071815079463,
+      "is_first_party": false
+    },
+    {
+      "host": "my.giving.duke.edu",
+      "score": 0.00013546545497910146,
+      "is_first_party": true
+    },
+    {
+      "host": "dosi.duke.edu",
+      "score": 0.00013473186124305595,
+      "is_first_party": true
+    },
+    {
+      "host": "export.duke.edu",
+      "score": 0.00013473186124305595,
+      "is_first_party": true
+    },
+    {
+      "host": "cpha.duke.edu",
+      "score": 0.00013142257725240133,
+      "is_first_party": true
+    },
+    {
+      "host": "dprc.duke.edu",
+      "score": 0.00013142257725240133,
+      "is_first_party": true
+    },
+    {
+      "host": "www.flickr.com",
+      "score": 0.00013041062226468663,
+      "is_first_party": false
+    },
+    {
+      "host": "communicators.duke.edu",
+      "score": 0.00012583226208790778,
+      "is_first_party": true
+    },
+    {
+      "host": "dukecommunitystandard.students.duke.edu",
+      "score": 0.00012560240666361142,
+      "is_first_party": true
+    },
+    {
+      "host": "ombuds.duke.edu",
+      "score": 0.00012560240666361142,
+      "is_first_party": true
+    },
+    {
+      "host": "sustainability.duke.edu",
+      "score": 0.00012560240666361142,
+      "is_first_party": true
+    },
+    {
+      "host": "fuqua.ai",
+      "score": 0.00011963649072914942,
+      "is_first_party": false
+    },
+    {
+      "host": "medicine.duke.edu",
+      "score": 0.00011954087337727458,
+      "is_first_party": true
+    },
+    {
+      "host": "climateroadtrip.duke.edu",
+      "score": 0.00011876990699702681,
+      "is_first_party": true
+    },
+    {
+      "host": "dukeperformances.duke.edu",
+      "score": 0.00011852531862476941,
+      "is_first_party": true
+    },
+    {
+      "host": "philosophy.duke.edu",
+      "score": 0.00011710139820276413,
+      "is_first_party": true
+    },
+    {
+      "host": "anti-racism.duke.edu",
+      "score": 0.00011647295208416687,
+      "is_first_party": true
+    },
+    {
+      "host": "commskit.duke.edu",
+      "score": 0.00011647295208416687,
+      "is_first_party": true
+    },
+    {
+      "host": "coronavirus.duke.edu",
+      "score": 0.00011647295208416687,
+      "is_first_party": true
+    },
+    {
+      "host": "facultyaffairs.provost.duke.edu",
+      "score": 0.00011647295208416687,
+      "is_first_party": true
+    },
+    {
+      "host": "inclusive.duke.edu",
+      "score": 0.00011647295208416687,
+      "is_first_party": true
+    },
+    {
+      "host": "integrity.duke.edu",
+      "score": 0.00011647295208416687,
+      "is_first_party": true
+    },
+    {
+      "host": "memoryhistory.duke.edu",
+      "score": 0.00011647295208416687,
+      "is_first_party": true
+    },
+    {
+      "host": "researchinitiatives.duke.edu",
+      "score": 0.00011647295208416687,
+      "is_first_party": true
+    },
+    {
+      "host": "visaservices.duke.edu",
+      "score": 0.00011647295208416687,
+      "is_first_party": true
+    },
+    {
+      "host": "faculty.fuqua.duke.edu",
+      "score": 0.00011466192302825369,
+      "is_first_party": true
+    },
+    {
+      "host": "people.duke.edu",
+      "score": 0.00011466192302825369,
+      "is_first_party": true
+    },
+    {
+      "host": "dukedivinity.medium.com",
+      "score": 0.00011348439013845868,
+      "is_first_party": false
+    },
+    {
+      "host": "www.faithandleadership.com",
+      "score": 0.00011348439013845868,
+      "is_first_party": false
+    },
+    {
+      "host": "biology.duke.edu",
+      "score": 0.00011222244785374324,
+      "is_first_party": true
+    },
+    {
+      "host": "computationalthinking.duke.edu",
+      "score": 0.00011222244785374324,
+      "is_first_party": true
+    },
+    {
+      "host": "evolutionaryanthropology.duke.edu",
+      "score": 0.00011222244785374324,
+      "is_first_party": true
+    },
+    {
+      "host": "pediatrics.duke.edu",
+      "score": 0.00011222244785374324,
+      "is_first_party": true
+    },
+    {
+      "host": "sites.nicholas.duke.edu",
+      "score": 0.00011222244785374324,
+      "is_first_party": true
+    },
+    {
+      "host": "trentcenter.duke.edu",
+      "score": 0.00011222244785374324,
+      "is_first_party": true
+    },
+    {
+      "host": "architect.duke.edu",
+      "score": 0.0001110707712114047,
+      "is_first_party": true
+    },
+    {
+      "host": "maps.oit.duke.edu",
+      "score": 0.0001110707712114047,
+      "is_first_party": true
+    },
+    {
+      "host": "stratplan.duke.edu",
+      "score": 0.0001110707712114047,
+      "is_first_party": true
+    },
+    {
+      "host": "newsoffice.duke.edu",
+      "score": 0.00011081291160579975,
+      "is_first_party": true
+    },
+    {
+      "host": "styleguide.duke.edu",
+      "score": 0.00011081291160579975,
+      "is_first_party": true
+    },
+    {
+      "host": "aaas.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "aahvs.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "cfar.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "covid-exposure-modeler-data-devils.cloud.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "crtp.mc.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "culturalanthropology.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "dtmi.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "english.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "genome.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "neuro.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "oceanography.ml.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "religiousstudies.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "scied.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "sites.biology.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "stat.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "users.cs.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "womenstudies.duke.edu",
+      "score": 0.00010978297267923279,
+      "is_first_party": true
+    },
+    {
+      "host": "andersnoren.se",
+      "score": 0.00010721204213109423,
+      "is_first_party": false
+    },
+    {
+      "host": "www.wordpress.org",
+      "score": 0.00010721204213109423,
+      "is_first_party": false
+    },
+    {
+      "host": "inventedatduke2026.eventbrite.com",
+      "score": 0.00010605327293003619,
+      "is_first_party": false
+    },
+    {
+      "host": "nscverifications.org",
+      "score": 0.00010472778987509903,
+      "is_first_party": false
+    },
+    {
+      "host": "duke.box.com",
+      "score": 0.00010191830664444788,
+      "is_first_party": false
+    },
+    {
+      "host": "youtu.be",
+      "score": 9.675982974849307e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "performancemanager4.successfactors.com",
+      "score": 8.755674905575092e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "youtube.com",
+      "score": 8.637346011436328e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ae.marketscreener.com",
+      "score": 8.117225630352654e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "duke.joinhandshake.com",
+      "score": 8.117225630352654e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.factcheck.org",
+      "score": 8.117225630352654e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "duke.service-now.com",
+      "score": 7.903987542219911e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "eepurl.com",
+      "score": 7.658688863470894e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "duke.us12.list-manage.com",
+      "score": 7.297610888932731e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.workinthetriangle.com",
+      "score": 7.20835394808982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "wordpress.org",
+      "score": 7.069484688311626e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "duke.us17.list-manage.com",
+      "score": 7.056711869778918e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "dukechronicle.com",
+      "score": 7.056711869778918e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "durhamcountylibrary.org",
+      "score": 7.056711869778918e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "soundcloud.com",
+      "score": 7.000643244682873e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "form.asana.com",
+      "score": 6.72045891318773e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "scholar.google.com",
+      "score": 6.72045891318773e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.axios.com",
+      "score": 6.72045891318773e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cbs17.com",
+      "score": 6.72045891318773e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dukegwht.org",
+      "score": 6.72045891318773e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.sbir.gov",
+      "score": 6.72045891318773e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.surveymonkey.com",
+      "score": 6.72045891318773e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.who.int",
+      "score": 6.72045891318773e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "creativecommons.org",
+      "score": 6.51531314060303e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "duke.on.worldcat.org",
+      "score": 6.51531314060303e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "experts.exeter.ac.uk",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "journals.plos.org",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "labs.psych.ucsb.edu",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "pressroom.cancer.org",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "psych.ucsb.edu",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "psychology.osu.edu",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "slate.com",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "teams.microsoft.com",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cancer.org",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cisa.gov",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.crowdstrike.com",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dukevtrl.com",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.huffpost.com",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.imclab.org",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.macfound.org",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.msn.com",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nih.gov",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.npr.org",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.statista.com",
+      "score": 6.503035537061899e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "plus.google.com",
+      "score": 6.339593690143084e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.sciencedirect.com",
+      "score": 5.908543601647184e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "maps.app.goo.gl",
+      "score": 5.674219506922934e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.givecampus.com",
+      "score": 5.624391494875823e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "duke.us14.list-manage.com",
+      "score": 5.460228640819686e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "linkedin.com",
+      "score": 5.306566607955209e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.businesswire.com",
+      "score": 5.306566607955209e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "sceneonradio.org",
+      "score": 5.0180403577990794e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "dconc.gov",
+      "score": 4.970607271424543e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "disabilityrightsnc.org",
+      "score": 4.970607271424543e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "uscode.house.gov",
+      "score": 4.970607271424543e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dpi.nc.gov",
+      "score": 4.970607271424543e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.law.cornell.edu",
+      "score": 4.970607271424543e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ncleg.gov",
+      "score": 4.970607271424543e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.newsobserver.com",
+      "score": 4.970607271424543e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "pcpi.app.link",
+      "score": 4.071694819549639e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "facebook.com",
+      "score": 4.0651193784612605e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "instructions.humandemo.zone",
+      "score": 4.0651193784612605e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nature.com",
+      "score": 4.0651193784612605e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "bit.ly",
+      "score": 3.564637435196471e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "oie-duke-gme-advocate.symplicity.com",
+      "score": 2.962990592955651e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.youvisit.com",
+      "score": 2.9185583018583643e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "doi.org",
+      "score": 2.683422691961493e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "dukeuniversity.policytech.com",
+      "score": 1.825890915888907e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "t.e2ma.net",
+      "score": 1.4814952964778255e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "calendly.com",
+      "score": 1.1965888034878009e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "music.amazon.com",
+      "score": 1.1426409492304481e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "open.spotify.com",
+      "score": 1.1426409492304481e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "podcasts.apple.com",
+      "score": 1.1426409492304481e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "tunein.com",
+      "score": 1.1426409492304481e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.deezer.com",
+      "score": 1.1426409492304481e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.iheart.com",
+      "score": 1.1426409492304481e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "docs.google.com",
+      "score": 9.757900698041793e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "duke-br.sona-systems.com",
+      "score": 9.568265898859479e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "giving.dukehealth.org",
+      "score": 9.129454579444535e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "static.goduke.com",
+      "score": 9.129454579444535e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "drupal.org",
+      "score": 8.995513373295612e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "link.springer.com",
+      "score": 7.318425523531345e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "abc11.com",
+      "score": 4.878950349020897e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "cjil.uchicago.edu",
+      "score": 4.878950349020897e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "dukeuniversityregistrar.formstack.com",
+      "score": 4.878950349020897e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "noveldialogue.org",
+      "score": 4.878950349020897e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "wwnorton.com",
+      "score": 4.878950349020897e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bronwendickey.com",
+      "score": 4.878950349020897e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nytimes.com",
+      "score": 4.878950349020897e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.visitnc.com",
+      "score": 4.878950349020897e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.yalejreg.com",
+      "score": 4.878950349020897e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "colorlib.com",
+      "score": 3.727273706682357e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dukeupress.edu",
+      "score": 3.727273706682357e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dukealumni.com",
+      "score": 3.469414101077424e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "academic.oup.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "arxiv.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "assistant professor of the practice of medical education",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "brianhare.net",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "c2g2.net",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "cabezalab.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "cacm.acm.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "catwarren.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "cires1.colorado.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "comforcare.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "cvm.ncsu.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "duke.us3.list-manage.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "el.ladlab.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "evanheplersmith.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "gcrinstitute.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "health.ucdavis.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "hollymenninger.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "huler.weebly.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "keith.seas.harvard.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "login.mailchimp.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "mitrofflab.weebly.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "msande.stanford.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "musicandmemory.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "onlinelibrary.wiley.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "papers.ssrn.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "paywallthemovie.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "prodduke-my.sharepoint.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "prospectivehealth.blogspot.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "robdunnlab.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "seanbcarroll.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "secasc.ncsu.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "sethbaum.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "sinnott-armstrong.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "socant.chass.ncsu.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "ssrn.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "technosociology.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "theprovidersdoc.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "uwaterloo.ca",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "whyy.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "workthatmatters.ncsu.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.acus.gov",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.amazon.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.apa.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.appstate.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.arkansasbusiness.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cambridge.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.eventbrite.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.fastcompany.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.felipedebrigard.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.law.unc.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.lawsontrek.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mayoclinic.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.med.unc.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.moffittcaspi.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mpmlab.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nicolelislab.net",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nightschoolbar.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nyuelj.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.orinstarn.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.peterubel.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.politifact.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.project-syndicate.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.researchgate.net",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.rff.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.rtp.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.science.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.telegraph.co.uk",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.theregreview.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.txstate.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.vanessawoods.net",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.wabauer.com",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.yourwildlife.org",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "yalebooks.yale.edu",
+      "score": 2.4394751745104484e-06,
+      "is_first_party": false
+    }
+  ]
+}

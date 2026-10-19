@@ -1,0 +1,55 @@
+{
+  "query": "duke university total undergraduate enrollment site:duke.edu",
+  "results": [
+    {
+      "title": "Duke Facts",
+      "url": "https://facts.duke.edu/",
+      "snippet": "East Campus served as home of the Woman’s College of Duke University until 1972, when the men’s and women’s undergraduate colleges merged. Both men and women undergraduates now enroll in either the Trinity College of Arts &amp; Sciences or the Pratt School of Engineering."
+    },
+    {
+      "title": "Duke Undergraduate Profile | Office of the University Registrar",
+      "url": "https://registrar.duke.edu/data-reporting/data-visualizations/public-dashboards/duke-undergraduate-profile/",
+      "snippet": "EnrollmentEnrollment SnapshotsAll data are sourced from university census date extracts (captured on the fourth Friday from the start of classes and only for the Fall and"
+    },
+    {
+      "title": "Public Dashboards | Office of the University Registrar",
+      "url": "https://registrar.duke.edu/data-reporting/analytics/public-dashboards/",
+      "snippet": "Enrollment Snapshots All data are sourced from university census date extracts (captured on the fourth Friday from the start of classes and only for the Fall and Spring semesters). The data depicted in this tool reflect student enrollments (student load &gt;= 0.001 units) in Duke University and/or Duke Kunshan course sections only."
+    },
+    {
+      "title": "Homepage - Duke Undergraduate Admissions",
+      "url": "https://admissions.duke.edu/",
+      "snippet": "<strong>total number of undergraduates</strong> · 54% of undergraduates study away · 7:1 · student-to-faculty ratio · Meet curious, collaborative, and impact-driven students like you. Explore what life is like on campus. See how to make it all possible, with financial support."
+    },
+    {
+      "title": "Duke’s Newest Undergraduates by the Numbers | Duke Today",
+      "url": "https://today.duke.edu/2024/09/dukes-newest-undergraduates-numbers",
+      "snippet": "The demographics of the class show Duke’s efforts to broaden access to the university. Photo by Bill Snead · First-year class reinforces Duke commitment to excellence and diversity ... Robert O. Keohane Professor of Political Science ... The number of first-year undergraduate students at Duke eligible for Pell Grants has doubled over the last two years, to 22 percent of the incoming class."
+    },
+    {
+      "title": "Quick Statistics about Duke University | Duke University Libraries",
+      "url": "https://library.duke.edu/rubenstein/uarchives/history/articles/statistics",
+      "snippet": "These magazines usually include a description of the institution, figures for tuition, enrollment, makeup of the student body, the number of faculty, financial aid data and admissions statistics. Find current facts and statistics about Duke. Figures from 1990 onward are given for the fall semester of the year indicated and were taken from the university&#x27;s annual reports and financial statements."
+    },
+    {
+      "title": "Enrollment Statistics | Office of the University Registrar",
+      "url": "https://registrar.duke.edu/registration/enrollment-statistics/",
+      "snippet": "Enrollment data is available on the Office of the University Registrar’s Tableau Public page. The public may navigate through the various interactive dashboards and view"
+    },
+    {
+      "title": "Our Students - Duke Undergraduate Admissions",
+      "url": "https://admissions.duke.edu/our-students/",
+      "snippet": "While Duke students come from all 50 states and more than 100 countries around the globe, they are united by their curiosity, community-mindedness, and desire to change the world · Great communities—and great universities—celebrate differences. At Duke, we believe that a diverse community ..."
+    },
+    {
+      "title": "Enrollment Snapshots | Office of the University Registrar",
+      "url": "https://registrar.duke.edu/data-reporting/data-visualizations/public-dashboards/enrollment-snapshots/",
+      "snippet": "Enrollment Snapshots - Office of the University Registrar"
+    },
+    {
+      "title": "Common Data Set 2021-2022 - Provost | Office - Duke University",
+      "url": "https://provost.duke.edu/sites/default/files/CDS%202021-22%20FINAL_2.pdf",
+      "snippet": "Enrollment by Racial/Ethnic Category. Provide numbers of undergraduate students for each of the following categories as of the institution’s official ... Complete the “Total Undergraduates” column only if you cannot provide data for the first two columns."
+    }
+  ]
+}

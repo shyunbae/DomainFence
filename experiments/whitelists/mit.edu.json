@@ -1,0 +1,2240 @@
+{
+  "seed": "mit.edu",
+  "aliases": [],
+  "crawl_date": "2026-10-18",
+  "crawl_stats": {
+    "total_nodes": 445,
+    "first_party_hosts": 223,
+    "external_hosts": 222,
+    "total_edge_weight": 19596,
+    "subdomains": 222,
+    "pages_crawled": 500
+  },
+  "ranking": [
+    {
+      "host": "mit.edu",
+      "score": 0.36025209677824355,
+      "is_first_party": true
+    },
+    {
+      "host": "news.mit.edu",
+      "score": 0.08370785801234688,
+      "is_first_party": true
+    },
+    {
+      "host": "learn.mit.edu",
+      "score": 0.038074360786829936,
+      "is_first_party": true
+    },
+    {
+      "host": "oge.mit.edu",
+      "score": 0.026301110736521107,
+      "is_first_party": true
+    },
+    {
+      "host": "hr.mit.edu",
+      "score": 0.024000461134800238,
+      "is_first_party": true
+    },
+    {
+      "host": "doingwell.mit.edu",
+      "score": 0.022026995573813022,
+      "is_first_party": true
+    },
+    {
+      "host": "web.mit.edu",
+      "score": 0.019570542857468697,
+      "is_first_party": true
+    },
+    {
+      "host": "listart.mit.edu",
+      "score": 0.015855613841549297,
+      "is_first_party": true
+    },
+    {
+      "host": "openlearning.mit.edu",
+      "score": 0.015385821839469425,
+      "is_first_party": true
+    },
+    {
+      "host": "whereis.mit.edu",
+      "score": 0.014811605256498923,
+      "is_first_party": true
+    },
+    {
+      "host": "accessibility.mit.edu",
+      "score": 0.014532304294514976,
+      "is_first_party": true
+    },
+    {
+      "host": "studentlife.mit.edu",
+      "score": 0.013264528483146137,
+      "is_first_party": true
+    },
+    {
+      "host": "alum.mit.edu",
+      "score": 0.013134958079455014,
+      "is_first_party": true
+    },
+    {
+      "host": "d-lab.mit.edu",
+      "score": 0.011102870952879575,
+      "is_first_party": true
+    },
+    {
+      "host": "outreach.mit.edu",
+      "score": 0.011045082903594246,
+      "is_first_party": true
+    },
+    {
+      "host": "executive.mit.edu",
+      "score": 0.00842315420415023,
+      "is_first_party": true
+    },
+    {
+      "host": "mitadmissions.org",
+      "score": 0.008044551419790576,
+      "is_first_party": false
+    },
+    {
+      "host": "prolearn.mit.edu",
+      "score": 0.007613705851003778,
+      "is_first_party": true
+    },
+    {
+      "host": "calendar.mit.edu",
+      "score": 0.007189585586887551,
+      "is_first_party": true
+    },
+    {
+      "host": "professional.mit.edu",
+      "score": 0.007169615215614461,
+      "is_first_party": true
+    },
+    {
+      "host": "registrar.mit.edu",
+      "score": 0.00694397125832664,
+      "is_first_party": true
+    },
+    {
+      "host": "catalog.mit.edu",
+      "score": 0.006756817742988582,
+      "is_first_party": true
+    },
+    {
+      "host": "micromasters.mit.edu",
+      "score": 0.006133773866666538,
+      "is_first_party": true
+    },
+    {
+      "host": "ocw.mit.edu",
+      "score": 0.005931233564075683,
+      "is_first_party": true
+    },
+    {
+      "host": "tll.mit.edu",
+      "score": 0.005887932720372023,
+      "is_first_party": true
+    },
+    {
+      "host": "misti.mit.edu",
+      "score": 0.0054910224367004075,
+      "is_first_party": true
+    },
+    {
+      "host": "www.google.com",
+      "score": 0.005231208512073112,
+      "is_first_party": false
+    },
+    {
+      "host": "giving.mit.edu",
+      "score": 0.0050379470312334335,
+      "is_first_party": true
+    },
+    {
+      "host": "www.facebook.com",
+      "score": 0.005006770958589778,
+      "is_first_party": false
+    },
+    {
+      "host": "sandbox.mit.edu",
+      "score": 0.004981704511018309,
+      "is_first_party": true
+    },
+    {
+      "host": "xpro.mit.edu",
+      "score": 0.004945884763772761,
+      "is_first_party": true
+    },
+    {
+      "host": "pkgcenter.mit.edu",
+      "score": 0.004842945815377535,
+      "is_first_party": true
+    },
+    {
+      "host": "mailchi.mp",
+      "score": 0.004427257839929383,
+      "is_first_party": false
+    },
+    {
+      "host": "urop.mit.edu",
+      "score": 0.004357321296375481,
+      "is_first_party": true
+    },
+    {
+      "host": "arts.mit.edu",
+      "score": 0.004134087363892725,
+      "is_first_party": true
+    },
+    {
+      "host": "facts.mit.edu",
+      "score": 0.004134087363892725,
+      "is_first_party": true
+    },
+    {
+      "host": "health.mit.edu",
+      "score": 0.00413016795403788,
+      "is_first_party": true
+    },
+    {
+      "host": "edgerton.mit.edu",
+      "score": 0.0040463614950067344,
+      "is_first_party": true
+    },
+    {
+      "host": "dmse.mit.edu",
+      "score": 0.004025713967189274,
+      "is_first_party": true
+    },
+    {
+      "host": "www.youtube.com",
+      "score": 0.003943722054294212,
+      "is_first_party": false
+    },
+    {
+      "host": "lemelson.mit.edu",
+      "score": 0.0038542412627575627,
+      "is_first_party": true
+    },
+    {
+      "host": "upop.mit.edu",
+      "score": 0.0038227813059422792,
+      "is_first_party": true
+    },
+    {
+      "host": "neet.mit.edu",
+      "score": 0.0035689247347770307,
+      "is_first_party": true
+    },
+    {
+      "host": "twitter.com",
+      "score": 0.0034882379602329825,
+      "is_first_party": false
+    },
+    {
+      "host": "glasslab.mit.edu",
+      "score": 0.003438447916486338,
+      "is_first_party": true
+    },
+    {
+      "host": "engineering.mit.edu",
+      "score": 0.003403645381191811,
+      "is_first_party": true
+    },
+    {
+      "host": "raise.mit.edu",
+      "score": 0.0032102899033454543,
+      "is_first_party": true
+    },
+    {
+      "host": "tsl.mit.edu",
+      "score": 0.0031985767101600673,
+      "is_first_party": true
+    },
+    {
+      "host": "www.mitrecsports.com",
+      "score": 0.0030421216540567103,
+      "is_first_party": false
+    },
+    {
+      "host": "project-manus.mit.edu",
+      "score": 0.003024840484183005,
+      "is_first_party": true
+    },
+    {
+      "host": "www.instagram.com",
+      "score": 0.002721893488679364,
+      "is_first_party": false
+    },
+    {
+      "host": "gismaps.mit.edu",
+      "score": 0.002526347065815623,
+      "is_first_party": true
+    },
+    {
+      "host": "understanding.mit.edu",
+      "score": 0.0024899780253540534,
+      "is_first_party": true
+    },
+    {
+      "host": "www.linkedin.com",
+      "score": 0.0024660582296945747,
+      "is_first_party": false
+    },
+    {
+      "host": "appinventor.mit.edu",
+      "score": 0.0023436326595608916,
+      "is_first_party": true
+    },
+    {
+      "host": "mitsloan.mit.edu",
+      "score": 0.0022608711157389217,
+      "is_first_party": true
+    },
+    {
+      "host": "ki.mit.edu",
+      "score": 0.0021910563612144124,
+      "is_first_party": true
+    },
+    {
+      "host": "sfs.mit.edu",
+      "score": 0.0021836477747949304,
+      "is_first_party": true
+    },
+    {
+      "host": "ir.mit.edu",
+      "score": 0.0021510724075265303,
+      "is_first_party": true
+    },
+    {
+      "host": "go.microsoft.com",
+      "score": 0.002147395006012781,
+      "is_first_party": false
+    },
+    {
+      "host": "ihq.mit.edu",
+      "score": 0.0021415254146866665,
+      "is_first_party": true
+    },
+    {
+      "host": "mitpe.mit.edu",
+      "score": 0.0021380932613543706,
+      "is_first_party": true
+    },
+    {
+      "host": "solve.mit.edu",
+      "score": 0.0021380932613543706,
+      "is_first_party": true
+    },
+    {
+      "host": "spectrum.mit.edu",
+      "score": 0.0021380932613543706,
+      "is_first_party": true
+    },
+    {
+      "host": "www.technologyreview.com",
+      "score": 0.002121312224894433,
+      "is_first_party": false
+    },
+    {
+      "host": "mbta.com",
+      "score": 0.0020460843077149556,
+      "is_first_party": false
+    },
+    {
+      "host": "www.boston.gov",
+      "score": 0.0020190795001992323,
+      "is_first_party": false
+    },
+    {
+      "host": "firstyear.mit.edu",
+      "score": 0.001993951252285925,
+      "is_first_party": true
+    },
+    {
+      "host": "www.mbta.com",
+      "score": 0.0019143599923369611,
+      "is_first_party": false
+    },
+    {
+      "host": "support.learn.mit.edu",
+      "score": 0.0016997667844540457,
+      "is_first_party": true
+    },
+    {
+      "host": "advising.mit.edu",
+      "score": 0.0015408461654837404,
+      "is_first_party": true
+    },
+    {
+      "host": "atlas.mit.edu",
+      "score": 0.0014692673314106275,
+      "is_first_party": true
+    },
+    {
+      "host": "socialmediahub.mit.edu",
+      "score": 0.0012984859088121343,
+      "is_first_party": true
+    },
+    {
+      "host": "shass.mit.edu",
+      "score": 0.0012477227517790166,
+      "is_first_party": true
+    },
+    {
+      "host": "computing.mit.edu",
+      "score": 0.001217488958830324,
+      "is_first_party": true
+    },
+    {
+      "host": "entrepreneurship.mit.edu",
+      "score": 0.0012139405303133416,
+      "is_first_party": true
+    },
+    {
+      "host": "deshpande.mit.edu",
+      "score": 0.001197127688278214,
+      "is_first_party": true
+    },
+    {
+      "host": "science.mit.edu",
+      "score": 0.0011966709929484745,
+      "is_first_party": true
+    },
+    {
+      "host": "icorps.mit.edu",
+      "score": 0.0011936955349459181,
+      "is_first_party": true
+    },
+    {
+      "host": "vms.mit.edu",
+      "score": 0.0011936955349459181,
+      "is_first_party": true
+    },
+    {
+      "host": "sap.mit.edu",
+      "score": 0.0011915306664860054,
+      "is_first_party": true
+    },
+    {
+      "host": "president.mit.edu",
+      "score": 0.0011809933535290933,
+      "is_first_party": true
+    },
+    {
+      "host": "hacks.mit.edu",
+      "score": 0.0011690607225283386,
+      "is_first_party": true
+    },
+    {
+      "host": "mitmuseum.mit.edu",
+      "score": 0.0011690607225283386,
+      "is_first_party": true
+    },
+    {
+      "host": "orgchart.mit.edu",
+      "score": 0.0011550350611847747,
+      "is_first_party": true
+    },
+    {
+      "host": "officesdirectory.mit.edu",
+      "score": 0.0011548472180890393,
+      "is_first_party": true
+    },
+    {
+      "host": "alumsso.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "betterworld.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "bootcamp.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "clubsports.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "corporation.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "daper.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "energy.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "graduatehousing.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "intramurals.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "mitguidetoresidences.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "mitxpro.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "oel.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "oeop.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "scratch.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "tlo.mit.edu",
+      "score": 0.0011420559150126155,
+      "is_first_party": true
+    },
+    {
+      "host": "mit.co1.qualtrics.com",
+      "score": 0.0010775589926382463,
+      "is_first_party": false
+    },
+    {
+      "host": "bluebikes.com",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "cambridgeusa.org",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "en.parkopedia.com",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "help.bluebikes.com",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "mos.org",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "store.thecoop.com",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "tools.google.com",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "www.amtrak.com",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bostonducktours.com",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bostonharborcruises.com",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "www.charlesrivertma.org",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "www.jfklibrary.org",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mfa.org",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mlb.com",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nps.gov",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "www.thefreedomtrail.org",
+      "score": 0.0010230421538574778,
+      "is_first_party": false
+    },
+    {
+      "host": "www.engine.xyz",
+      "score": 0.0009960373463417547,
+      "is_first_party": false
+    },
+    {
+      "host": "www.kendallsquare.org",
+      "score": 0.0009960373463417547,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mitathletics.com",
+      "score": 0.0009960373463417547,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mitoffcampus.com",
+      "score": 0.0009960373463417547,
+      "is_first_party": false
+    },
+    {
+      "host": "youtu.be",
+      "score": 0.0009960373463417547,
+      "is_first_party": false
+    },
+    {
+      "host": "mites.mit.edu",
+      "score": 0.0009843914335794476,
+      "is_first_party": true
+    },
+    {
+      "host": "careers.mit.edu",
+      "score": 0.0009664566947230058,
+      "is_first_party": true
+    },
+    {
+      "host": "mcgovern.mit.edu",
+      "score": 0.0009184435403302564,
+      "is_first_party": true
+    },
+    {
+      "host": "x.com",
+      "score": 0.0008798502906334159,
+      "is_first_party": false
+    },
+    {
+      "host": "elo.mit.edu",
+      "score": 0.0008018818915174293,
+      "is_first_party": true
+    },
+    {
+      "host": "mad.mit.edu",
+      "score": 0.0006948554597416817,
+      "is_first_party": true
+    },
+    {
+      "host": "openlearning-intranet.mit.edu",
+      "score": 0.0006798123876134783,
+      "is_first_party": true
+    },
+    {
+      "host": "whereis-beta.mit.edu",
+      "score": 0.0005916774879106026,
+      "is_first_party": true
+    },
+    {
+      "host": "gue.mit.edu",
+      "score": 0.0005827679524265203,
+      "is_first_party": true
+    },
+    {
+      "host": "instagram.com",
+      "score": 0.0005240768811697045,
+      "is_first_party": false
+    },
+    {
+      "host": "execbrochures.mit.edu",
+      "score": 0.0004917986205398887,
+      "is_first_party": true
+    },
+    {
+      "host": "idp.mit.edu",
+      "score": 0.00047354453616225,
+      "is_first_party": true
+    },
+    {
+      "host": "www.reddit.com",
+      "score": 0.0004283118236812577,
+      "is_first_party": false
+    },
+    {
+      "host": "canvas.mit.edu",
+      "score": 0.00041291547814216966,
+      "is_first_party": true
+    },
+    {
+      "host": "idhr.mit.edu",
+      "score": 0.00039168828435629937,
+      "is_first_party": true
+    },
+    {
+      "host": "wwww.mit.edu",
+      "score": 0.00039168828435629937,
+      "is_first_party": true
+    },
+    {
+      "host": "www.teachlabpodcast.com",
+      "score": 0.00038341913129867747,
+      "is_first_party": false
+    },
+    {
+      "host": "comms.mit.edu",
+      "score": 0.0003777426763418502,
+      "is_first_party": true
+    },
+    {
+      "host": "ist.mit.edu",
+      "score": 0.0003767434694768763,
+      "is_first_party": true
+    },
+    {
+      "host": "www.tiktok.com",
+      "score": 0.00037672336235247325,
+      "is_first_party": false
+    },
+    {
+      "host": "institute-events.mit.edu",
+      "score": 0.00035775513455302103,
+      "is_first_party": true
+    },
+    {
+      "host": "eduapps.mit.edu",
+      "score": 0.0003517809632334412,
+      "is_first_party": true
+    },
+    {
+      "host": "ai2.appinventor.mit.edu",
+      "score": 0.0003357412125469046,
+      "is_first_party": true
+    },
+    {
+      "host": "mit.service-now.com",
+      "score": 0.000327525967491389,
+      "is_first_party": false
+    },
+    {
+      "host": "odl.mit.edu",
+      "score": 0.00032580159580589845,
+      "is_first_party": true
+    },
+    {
+      "host": "libraries.mit.edu",
+      "score": 0.00031829839509436457,
+      "is_first_party": true
+    },
+    {
+      "host": "elx.mit.edu",
+      "score": 0.0003165733017494285,
+      "is_first_party": true
+    },
+    {
+      "host": "design.mit.edu",
+      "score": 0.00029413726135736596,
+      "is_first_party": true
+    },
+    {
+      "host": "media.mit.edu",
+      "score": 0.00029265576799080437,
+      "is_first_party": true
+    },
+    {
+      "host": "lmit-pie.mit.edu",
+      "score": 0.00028028517004437313,
+      "is_first_party": true
+    },
+    {
+      "host": "maps.google.com",
+      "score": 0.0002633194503547179,
+      "is_first_party": false
+    },
+    {
+      "host": "copytech.mit.edu",
+      "score": 0.0002626969259382261,
+      "is_first_party": true
+    },
+    {
+      "host": "m.mit.edu",
+      "score": 0.00025743329848079645,
+      "is_first_party": true
+    },
+    {
+      "host": "calendar.google.com",
+      "score": 0.0002513543326517467,
+      "is_first_party": false
+    },
+    {
+      "host": "learn-xpro.mit.edu",
+      "score": 0.00025111861990945747,
+      "is_first_party": true
+    },
+    {
+      "host": "mpc-web.mit.edu",
+      "score": 0.0002504000232833029,
+      "is_first_party": true
+    },
+    {
+      "host": "make.mit.edu",
+      "score": 0.00024792654638667195,
+      "is_first_party": true
+    },
+    {
+      "host": "student.mit.edu",
+      "score": 0.00023128251614205,
+      "is_first_party": true
+    },
+    {
+      "host": "k12maker.mit.edu",
+      "score": 0.00023043420271074786,
+      "is_first_party": true
+    },
+    {
+      "host": "tlc.mit.edu",
+      "score": 0.00022725267142630537,
+      "is_first_party": true
+    },
+    {
+      "host": "goo.gl",
+      "score": 0.0002195761475765258,
+      "is_first_party": false
+    },
+    {
+      "host": "ll.mit.edu",
+      "score": 0.00021483370938650288,
+      "is_first_party": true
+    },
+    {
+      "host": "creativecommons.org",
+      "score": 0.0002137261372946964,
+      "is_first_party": false
+    },
+    {
+      "host": "cee.mit.edu",
+      "score": 0.00021091429953165765,
+      "is_first_party": true
+    },
+    {
+      "host": "xpro.zendesk.com",
+      "score": 0.00021020010247719284,
+      "is_first_party": false
+    },
+    {
+      "host": "summit.appinventor.mit.edu",
+      "score": 0.00020925944996287558,
+      "is_first_party": true
+    },
+    {
+      "host": "www.edx.org",
+      "score": 0.0002028707902083488,
+      "is_first_party": false
+    },
+    {
+      "host": "aiandeducation.mit.edu",
+      "score": 0.00020214204943719679,
+      "is_first_party": true
+    },
+    {
+      "host": "stat.mit.edu",
+      "score": 0.00019793515335949833,
+      "is_first_party": true
+    },
+    {
+      "host": "legatum.mit.edu",
+      "score": 0.00019765818860416362,
+      "is_first_party": true
+    },
+    {
+      "host": "policies.mit.edu",
+      "score": 0.00019311854278205356,
+      "is_first_party": true
+    },
+    {
+      "host": "www.nature.com",
+      "score": 0.0001920045064071183,
+      "is_first_party": false
+    },
+    {
+      "host": "mitxonline.mit.edu",
+      "score": 0.00018720440865841197,
+      "is_first_party": true
+    },
+    {
+      "host": "exec.mit.edu",
+      "score": 0.0001866985747730996,
+      "is_first_party": true
+    },
+    {
+      "host": "cis.mit.edu",
+      "score": 0.0001852908169572647,
+      "is_first_party": true
+    },
+    {
+      "host": "architecture.mit.edu",
+      "score": 0.000184956007187339,
+      "is_first_party": true
+    },
+    {
+      "host": "ctl.mit.edu",
+      "score": 0.000184956007187339,
+      "is_first_party": true
+    },
+    {
+      "host": "meche.mit.edu",
+      "score": 0.000184956007187339,
+      "is_first_party": true
+    },
+    {
+      "host": "mitx-micromasters.zendesk.com",
+      "score": 0.00017978302713503742,
+      "is_first_party": false
+    },
+    {
+      "host": "yangtan.mit.edu",
+      "score": 0.00017900998722569442,
+      "is_first_party": true
+    },
+    {
+      "host": "community.appinventor.mit.edu",
+      "score": 0.00017763900931686827,
+      "is_first_party": true
+    },
+    {
+      "host": "experientialethics.mit.edu",
+      "score": 0.00017543516042203952,
+      "is_first_party": true
+    },
+    {
+      "host": "cmrae.mit.edu",
+      "score": 0.0001754090143474756,
+      "is_first_party": true
+    },
+    {
+      "host": "aeroastro.mit.edu",
+      "score": 0.00017197686101517968,
+      "is_first_party": true
+    },
+    {
+      "host": "civildiscourse.mit.edu",
+      "score": 0.00017197686101517968,
+      "is_first_party": true
+    },
+    {
+      "host": "concourse.mit.edu",
+      "score": 0.00017197686101517968,
+      "is_first_party": true
+    },
+    {
+      "host": "eaps.mit.edu",
+      "score": 0.00017197686101517968,
+      "is_first_party": true
+    },
+    {
+      "host": "eecs.mit.edu",
+      "score": 0.00017197686101517968,
+      "is_first_party": true
+    },
+    {
+      "host": "farm.mit.edu",
+      "score": 0.00017197686101517968,
+      "is_first_party": true
+    },
+    {
+      "host": "idss.mit.edu",
+      "score": 0.00017197686101517968,
+      "is_first_party": true
+    },
+    {
+      "host": "nse.mit.edu",
+      "score": 0.00017197686101517968,
+      "is_first_party": true
+    },
+    {
+      "host": "pk12.mit.edu",
+      "score": 0.00017197686101517968,
+      "is_first_party": true
+    },
+    {
+      "host": "seashell.mit.edu",
+      "score": 0.00017197686101517968,
+      "is_first_party": true
+    },
+    {
+      "host": "sustainable.mit.edu",
+      "score": 0.00017197686101517968,
+      "is_first_party": true
+    },
+    {
+      "host": "wi.mit.edu",
+      "score": 0.00017197686101517968,
+      "is_first_party": true
+    },
+    {
+      "host": "registrar.scripts.mit.edu",
+      "score": 0.00017094295932530633,
+      "is_first_party": true
+    },
+    {
+      "host": "sites.mit.edu",
+      "score": 0.00017094295932530633,
+      "is_first_party": true
+    },
+    {
+      "host": "studentformsandpetitions.mit.edu",
+      "score": 0.00017094295932530633,
+      "is_first_party": true
+    },
+    {
+      "host": "studentveteransuccess.mit.edu",
+      "score": 0.00017094295932530633,
+      "is_first_party": true
+    },
+    {
+      "host": "brand.mit.edu",
+      "score": 0.00016970489222929442,
+      "is_first_party": true
+    },
+    {
+      "host": "bsf.mit.edu",
+      "score": 0.00016728482151491032,
+      "is_first_party": true
+    },
+    {
+      "host": "postdocs.mit.edu",
+      "score": 0.00016661148866463647,
+      "is_first_party": true
+    },
+    {
+      "host": "designx.mit.edu",
+      "score": 0.00016626356403828455,
+      "is_first_party": true
+    },
+    {
+      "host": "hkinnovationnode.mit.edu",
+      "score": 0.00016626356403828455,
+      "is_first_party": true
+    },
+    {
+      "host": "innovation.mit.edu",
+      "score": 0.00016626356403828455,
+      "is_first_party": true
+    },
+    {
+      "host": "shed.mit.edu",
+      "score": 0.00016626356403828455,
+      "is_first_party": true
+    },
+    {
+      "host": "philosophy.mit.edu",
+      "score": 0.00016624557284153357,
+      "is_first_party": true
+    },
+    {
+      "host": "kb.mit.edu",
+      "score": 0.00016535152580181493,
+      "is_first_party": true
+    },
+    {
+      "host": "2009.mit.edu",
+      "score": 0.00016291712469786556,
+      "is_first_party": true
+    },
+    {
+      "host": "economics.mit.edu",
+      "score": 0.00016291712469786556,
+      "is_first_party": true
+    },
+    {
+      "host": "polisci.mit.edu",
+      "score": 0.00016093101055611572,
+      "is_first_party": true
+    },
+    {
+      "host": "www.mommasgrocery.com",
+      "score": 0.00016048943413626333,
+      "is_first_party": false
+    },
+    {
+      "host": "acl.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "asa.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "bcs.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "biology.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "ccc.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "cheme.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "compass.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "csail.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "dusp.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "education.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "esg.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "events.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "foramerica.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "hillel.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "icampusprize.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "ilp.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "imes.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "jwafs.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "lids.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "mitgenerativeaiweek.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "mithic.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "mitstory.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "mvp.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "people.csail.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "seagrant.mit.edu",
+      "score": 0.00015899771484302033,
+      "is_first_party": true
+    },
+    {
+      "host": "catalog-dev.mit.edu",
+      "score": 0.00015880987174728467,
+      "is_first_party": true
+    },
+    {
+      "host": "app.bloombergconnects.org",
+      "score": 0.00015855613842316794,
+      "is_first_party": false
+    },
+    {
+      "host": "calendar.yahoo.com",
+      "score": 0.00015855613842316794,
+      "is_first_party": false
+    },
+    {
+      "host": "outlook.live.com",
+      "score": 0.00015855613842316794,
+      "is_first_party": false
+    },
+    {
+      "host": "outlook.office.com",
+      "score": 0.00015855613842316794,
+      "is_first_party": false
+    },
+    {
+      "host": "libcal.mit.edu",
+      "score": 0.0001580782395880938,
+      "is_first_party": true
+    },
+    {
+      "host": "aia.mit.edu",
+      "score": 0.0001577767982353967,
+      "is_first_party": true
+    },
+    {
+      "host": "jclinic.mit.edu",
+      "score": 0.0001577767982353967,
+      "is_first_party": true
+    },
+    {
+      "host": "picower.mit.edu",
+      "score": 0.0001577767982353967,
+      "is_first_party": true
+    },
+    {
+      "host": "breakerspace.mit.edu",
+      "score": 0.00015288287533545285,
+      "is_first_party": true
+    },
+    {
+      "host": "gradadmissions.mit.edu",
+      "score": 0.00015288287533545285,
+      "is_first_party": true
+    },
+    {
+      "host": "medical.mit.edu",
+      "score": 0.00015288287533545285,
+      "is_first_party": true
+    },
+    {
+      "host": "commencement.mit.edu",
+      "score": 0.00015248860833852175,
+      "is_first_party": true
+    },
+    {
+      "host": "conferences.mit.edu",
+      "score": 0.00015248860833852175,
+      "is_first_party": true
+    },
+    {
+      "host": "ocwtogo.mit.edu",
+      "score": 0.00015188765892706576,
+      "is_first_party": true
+    },
+    {
+      "host": "cmsw.mit.edu",
+      "score": 0.0001513840177162523,
+      "is_first_party": true
+    },
+    {
+      "host": "police.mit.edu",
+      "score": 0.00015020918351903525,
+      "is_first_party": true
+    },
+    {
+      "host": "cci.mit.edu",
+      "score": 0.00014993797852570623,
+      "is_first_party": true
+    },
+    {
+      "host": "free-expression.mit.edu",
+      "score": 0.00014993797852570623,
+      "is_first_party": true
+    },
+    {
+      "host": "ipc.mit.edu",
+      "score": 0.00014993797852570623,
+      "is_first_party": true
+    },
+    {
+      "host": "compton.mit.edu",
+      "score": 0.0001498851600970518,
+      "is_first_party": true
+    },
+    {
+      "host": "music.mit.edu",
+      "score": 0.0001498851600970518,
+      "is_first_party": true
+    },
+    {
+      "host": "realtalk.mit.edu",
+      "score": 0.0001498851600970518,
+      "is_first_party": true
+    },
+    {
+      "host": "cse.mit.edu",
+      "score": 0.00014945072200315694,
+      "is_first_party": true
+    },
+    {
+      "host": "gradapply.mit.edu",
+      "score": 0.00014945072200315694,
+      "is_first_party": true
+    },
+    {
+      "host": "kavfellow.mit.edu",
+      "score": 0.00014945072200315694,
+      "is_first_party": true
+    },
+    {
+      "host": "madmec.mit.edu",
+      "score": 0.00014945072200315694,
+      "is_first_party": true
+    },
+    {
+      "host": "metalslab.mit.edu",
+      "score": 0.00014945072200315694,
+      "is_first_party": true
+    },
+    {
+      "host": "metlab.mit.edu",
+      "score": 0.00014945072200315694,
+      "is_first_party": true
+    },
+    {
+      "host": "nanousers.mit.edu",
+      "score": 0.00014945072200315694,
+      "is_first_party": true
+    },
+    {
+      "host": "odge.mit.edu",
+      "score": 0.00014945072200315694,
+      "is_first_party": true
+    },
+    {
+      "host": "ome.mit.edu",
+      "score": 0.00014945072200315694,
+      "is_first_party": true
+    },
+    {
+      "host": "pda.mit.edu",
+      "score": 0.00014945072200315694,
+      "is_first_party": true
+    },
+    {
+      "host": "polymerscience.mit.edu",
+      "score": 0.00014945072200315694,
+      "is_first_party": true
+    },
+    {
+      "host": "vpf.mit.edu",
+      "score": 0.00014945072200315694,
+      "is_first_party": true
+    },
+    {
+      "host": "linkedinlearning.mit.edu",
+      "score": 0.00014865038239957583,
+      "is_first_party": true
+    },
+    {
+      "host": "mitnano.mit.edu",
+      "score": 0.0001479518643839564,
+      "is_first_party": true
+    },
+    {
+      "host": "libguides.mit.edu",
+      "score": 0.00014765718456906943,
+      "is_first_party": true
+    },
+    {
+      "host": "www.eventbrite.com",
+      "score": 0.00013081050885024759,
+      "is_first_party": false
+    },
+    {
+      "host": "www.appinventorfoundation.org",
+      "score": 0.00013076588006913812,
+      "is_first_party": false
+    },
+    {
+      "host": "luma.com",
+      "score": 0.00010521253557970055,
+      "is_first_party": false
+    },
+    {
+      "host": "tslredesign.wpengine.com",
+      "score": 0.0001045688539905484,
+      "is_first_party": false
+    },
+    {
+      "host": "www.thechemicalengineer.com",
+      "score": 0.00010327923986660516,
+      "is_first_party": false
+    },
+    {
+      "host": "github.com",
+      "score": 9.243501765384204e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.zendesk.com",
+      "score": 8.498833923632828e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "79140767.flowpaper.com",
+      "score": 8.136001220447713e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.naceweb.org",
+      "score": 8.123410275544435e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.twitter.com",
+      "score": 8.097998146969416e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "event.on24.com",
+      "score": 7.169615215976664e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "docs.google.com",
+      "score": 6.937490775238975e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ocw-openmatters.org",
+      "score": 6.45599928182521e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "bsky.app",
+      "score": 5.732443182356592e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mailchimp.com",
+      "score": 5.400961503144614e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mit.us8.list-manage.com",
+      "score": 5.370664054940488e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.forbes.com",
+      "score": 5.19165846886373e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mass.gov",
+      "score": 5.19165846886373e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nobelprize.org",
+      "score": 5.19165846886373e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.washingtonpost.com",
+      "score": 5.19165846886373e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "how mit sandbox has turned student ideas into $8.7 billion in global impact 08.28.26 | mit news | mit sandbox",
+      "score": 5.163961993330258e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "lithiosinc.com",
+      "score": 5.163961993330258e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mit100k.org",
+      "score": 5.163961993330258e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.robigo.bio",
+      "score": 5.163961993330258e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "sites.google.com",
+      "score": 5.1436606818272375e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.threads.com",
+      "score": 4.840846590020076e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "videojs.com",
+      "score": 4.5715320368345864e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mitathletics.com",
+      "score": 4.5291249475272563e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "forms.gle",
+      "score": 4.2167270711122306e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mit.imodules.com",
+      "score": 4.118583998755092e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "scx-static-assets.s3.amazonaws.com",
+      "score": 4.045400834134514e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "gizmodo.com",
+      "score": 3.8937438516477975e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ieeexplore.ieee.org",
+      "score": 3.8937438516477975e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bostonglobe.com",
+      "score": 3.8937438516477975e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nytimes.com",
+      "score": 3.8937438516477975e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.theguardian.com",
+      "score": 3.8937438516477975e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "misti.typeform.com",
+      "score": 3.733895257330829e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "about.google",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "adeanet.org",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "dayofai.org",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "learningthroughplay.com",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "microsoft.com",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mysurestart.com",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.adb.org",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.amazonfutureengineer.com",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dpworld.com",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dubaiheightsacademy.com",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.hkjc.com",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nichd.nih.gov",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nsf.gov",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.technovation.org",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.westeamahead.org",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.worldbank.org",
+      "score": 3.5904558131116296e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "risingt.com",
+      "score": 3.4856284663516134e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.appinventor.org",
+      "score": 3.1620440646007264e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bostonedu.net",
+      "score": 3.1620440646007264e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "us6.campaign-archive.com",
+      "score": 3.070899349048193e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.flickr.com",
+      "score": 2.9485134003417266e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "news.gallup.com",
+      "score": 2.941659175117847e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "eepurl.com",
+      "score": 2.685332027470244e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ppubs.uspto.gov",
+      "score": 2.685332027470244e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "advanced.onlinelibrary.wiley.com",
+      "score": 2.595829234431865e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "doi.org",
+      "score": 2.595829234431865e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mitfuturefest.org",
+      "score": 2.595829234431865e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "soundcloud.com",
+      "score": 2.595829234431865e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.biotech.senate.gov",
+      "score": 2.595829234431865e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.judahcohen.org",
+      "score": 2.595829234431865e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.npr.org",
+      "score": 2.595829234431865e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pnas.org",
+      "score": 2.595829234431865e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.popsci.com",
+      "score": 2.595829234431865e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.sciencedirect.com",
+      "score": 2.595829234431865e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.scientificamerican.com",
+      "score": 2.595829234431865e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.theverge.com",
+      "score": 2.595829234431865e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mitocw.zendesk.com",
+      "score": 2.347636102481895e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "powerforms.docusign.net",
+      "score": 2.059291999377546e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "calendly.com",
+      "score": 2.0340003051119282e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "hemi-makers.org",
+      "score": 2.024499536742354e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "dailynous.com",
+      "score": 2.022700417067257e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.jeffreysaviano.com",
+      "score": 2.022700417067257e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.thebalancecareers.com",
+      "score": 2.022700417067257e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.wallstreetmojo.com",
+      "score": 2.022700417067257e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mit.zoom.us",
+      "score": 1.9332957130953914e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "na2.docusign.net",
+      "score": 1.716076666147955e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.addtoany.com",
+      "score": 1.3728613329183639e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "apnews.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "archive.computerhistory.org",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "common%20ground%20for%20computing%20and%20ai%20education",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "curiositymission.org",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "dl.acm.org",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "draper.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "elpais.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "innovation.masstech.org",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "kaitbecker.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "kendallsquare.org",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "kotakondo.github.io",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mit-museum.prezly.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mit.whoi.edu",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mitgovlab.org",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "nemicroelectronics.org",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "riag.ri.gov",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "techcrunch.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "thebulletin.org",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "urbanrisklab.org",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "wwnorton.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bloomberg.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ca1.uscourts.gov",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.chabadmit.org",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cnbc.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cnn.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.collectspace.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dezeen.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.draper.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.earth.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.encoratherapeutics.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.entrepreneur.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.idsa.org",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.masslive.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.newscientist.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.quantamagazine.org",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.smithsonianmag.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.wired.com",
+      "score": 1.2979146172159325e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mastodon.social",
+      "score": 1.1738180512409475e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "facebook.com",
+      "score": 1.1031221906691927e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "linkedin.com",
+      "score": 1.1031221906691927e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "vimeo.com",
+      "score": 1.1031221906691927e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "youtube.com",
+      "score": 9.681693180040151e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "buytickets.at",
+      "score": 9.666478565476957e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "campuspress.com",
+      "score": 6.470039667660728e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "wordpress.org",
+      "score": 6.470039667660728e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "chalk-radio.simplecast.com",
+      "score": 5.869090256204738e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.oeglobal.org",
+      "score": 5.869090256204738e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "wkf.ms",
+      "score": 5.7998871392861745e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.emtech-future.com",
+      "score": 5.7998871392861745e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "malegislature.gov",
+      "score": 5.26362745742965e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.w3.org",
+      "score": 5.26362745742965e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "tickets.mitmuseum.org",
+      "score": 3.866591426190783e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.localist.com",
+      "score": 3.866591426190783e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "opusdesign.us",
+      "score": 3.5165631052573737e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "careers.peopleclick.com",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "engine.xyz",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "mit.quickbase.com",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "swhudson@mit.edu",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "veronicaroblesculturalcenter.org",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.abet.org",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.artisansasylum.com",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cgsnet.org",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.gemfellowship.org",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.imperial.ac.uk",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.material.t.u-tokyo.ac.jp",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.materials.ox.ac.uk",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pathwaystoscience.org",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.thetriennial.org",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.u-tokyo.ac.jp",
+      "score": 3.4321533322959097e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "amara.org",
+      "score": 2.631813728714825e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "blog.hubspot.com",
+      "score": 2.631813728714825e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "dev.twitter.com",
+      "score": 2.631813728714825e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.3playmedia.com",
+      "score": 2.631813728714825e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.headliner.app",
+      "score": 2.631813728714825e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.rev.com",
+      "score": 2.631813728714825e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www2.ed.gov",
+      "score": 2.631813728714825e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "airtable.com",
+      "score": 1.9332957130953914e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "events.blackthorn.io",
+      "score": 1.9332957130953914e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "lp.constantcontactpages.com",
+      "score": 1.9332957130953914e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "project-manus.libcal.com",
+      "score": 1.9332957130953914e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "mit.libapps.com",
+      "score": 1.6386158982083997e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.springshare.com",
+      "score": 1.6386158982083997e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.eeoc.gov",
+      "score": 1.5588011194594312e-06,
+      "is_first_party": false
+    }
+  ]
+}
