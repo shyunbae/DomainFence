@@ -1,0 +1,2260 @@
+{
+  "seed": "washington.edu",
+  "aliases": [],
+  "crawl_date": "2026-10-18",
+  "crawl_stats": {
+    "total_nodes": 449,
+    "first_party_hosts": 128,
+    "external_hosts": 321,
+    "total_edge_weight": 9261,
+    "subdomains": 127,
+    "pages_crawled": 500
+  },
+  "ranking": [
+    {
+      "host": "washington.edu",
+      "score": 0.6258235970043549,
+      "is_first_party": true
+    },
+    {
+      "host": "jsis.washington.edu",
+      "score": 0.02200036125716244,
+      "is_first_party": true
+    },
+    {
+      "host": "registrar.washington.edu",
+      "score": 0.016167843144676435,
+      "is_first_party": true
+    },
+    {
+      "host": "dental.washington.edu",
+      "score": 0.015566236885443325,
+      "is_first_party": true
+    },
+    {
+      "host": "magazine.washington.edu",
+      "score": 0.012136927869684299,
+      "is_first_party": true
+    },
+    {
+      "host": "admit.washington.edu",
+      "score": 0.010390434111803102,
+      "is_first_party": true
+    },
+    {
+      "host": "sop.washington.edu",
+      "score": 0.008079509211164244,
+      "is_first_party": true
+    },
+    {
+      "host": "music.washington.edu",
+      "score": 0.007696277282661523,
+      "is_first_party": true
+    },
+    {
+      "host": "artsci.washington.edu",
+      "score": 0.007000551539769938,
+      "is_first_party": true
+    },
+    {
+      "host": "uw.edu",
+      "score": 0.006827786069642495,
+      "is_first_party": false
+    },
+    {
+      "host": "gohuskies.com",
+      "score": 0.006352657617571081,
+      "is_first_party": false
+    },
+    {
+      "host": "hub.washington.edu",
+      "score": 0.006253382654961506,
+      "is_first_party": true
+    },
+    {
+      "host": "www.addtoany.com",
+      "score": 0.0056291011372446124,
+      "is_first_party": false
+    },
+    {
+      "host": "depts.washington.edu",
+      "score": 0.005056858297337989,
+      "is_first_party": true
+    },
+    {
+      "host": "sph.washington.edu",
+      "score": 0.005043539521108446,
+      "is_first_party": true
+    },
+    {
+      "host": "www.tacoma.uw.edu",
+      "score": 0.004635175665014184,
+      "is_first_party": false
+    },
+    {
+      "host": "grad.uw.edu",
+      "score": 0.004498282089634096,
+      "is_first_party": false
+    },
+    {
+      "host": "hfs.uw.edu",
+      "score": 0.004420701443673772,
+      "is_first_party": false
+    },
+    {
+      "host": "phys.washington.edu",
+      "score": 0.004401430731937301,
+      "is_first_party": true
+    },
+    {
+      "host": "cs.washington.edu",
+      "score": 0.0042663459785135666,
+      "is_first_party": true
+    },
+    {
+      "host": "www.uwb.edu",
+      "score": 0.004202496188206748,
+      "is_first_party": false
+    },
+    {
+      "host": "engr.washington.edu",
+      "score": 0.004031484993296137,
+      "is_first_party": true
+    },
+    {
+      "host": "www.uwmedicine.org",
+      "score": 0.004024399598828602,
+      "is_first_party": false
+    },
+    {
+      "host": "my.uw.edu",
+      "score": 0.003933574479902827,
+      "is_first_party": false
+    },
+    {
+      "host": "finance.uw.edu",
+      "score": 0.0038779848144691767,
+      "is_first_party": false
+    },
+    {
+      "host": "huskylink.washington.edu",
+      "score": 0.0035982829526041175,
+      "is_first_party": true
+    },
+    {
+      "host": "www.pce.uw.edu",
+      "score": 0.003418846709722224,
+      "is_first_party": false
+    },
+    {
+      "host": "education.uw.edu",
+      "score": 0.0032836423300593573,
+      "is_first_party": false
+    },
+    {
+      "host": "lib.uw.edu",
+      "score": 0.0032168182606573258,
+      "is_first_party": false
+    },
+    {
+      "host": "www.facebook.com",
+      "score": 0.0029852205793781386,
+      "is_first_party": false
+    },
+    {
+      "host": "www.youtube.com",
+      "score": 0.0029132421504942455,
+      "is_first_party": false
+    },
+    {
+      "host": "careers.uw.edu",
+      "score": 0.002718448656650083,
+      "is_first_party": false
+    },
+    {
+      "host": "directory.uw.edu",
+      "score": 0.0026601802506574673,
+      "is_first_party": false
+    },
+    {
+      "host": "hr.uw.edu",
+      "score": 0.0026027340876340443,
+      "is_first_party": false
+    },
+    {
+      "host": "law.washington.edu",
+      "score": 0.0025482820018820768,
+      "is_first_party": true
+    },
+    {
+      "host": "policy.uw.edu",
+      "score": 0.0025469219835529164,
+      "is_first_party": false
+    },
+    {
+      "host": "www.linkedin.com",
+      "score": 0.002401154442827538,
+      "is_first_party": false
+    },
+    {
+      "host": "www.uw.edu",
+      "score": 0.002386282429772795,
+      "is_first_party": false
+    },
+    {
+      "host": "arts.washington.edu",
+      "score": 0.0023084876125806127,
+      "is_first_party": true
+    },
+    {
+      "host": "it.uw.edu",
+      "score": 0.0022517703948435365,
+      "is_first_party": false
+    },
+    {
+      "host": "instagram.com",
+      "score": 0.002169000264580283,
+      "is_first_party": false
+    },
+    {
+      "host": "transportation.uw.edu",
+      "score": 0.002031456612502302,
+      "is_first_party": false
+    },
+    {
+      "host": "wellbeing.uw.edu",
+      "score": 0.0020021980156849804,
+      "is_first_party": false
+    },
+    {
+      "host": "research.washington.edu",
+      "score": 0.00191302159047347,
+      "is_first_party": true
+    },
+    {
+      "host": "ap.washington.edu",
+      "score": 0.0016784757097549443,
+      "is_first_party": true
+    },
+    {
+      "host": "thewholeu.uw.edu",
+      "score": 0.0016418211650296786,
+      "is_first_party": false
+    },
+    {
+      "host": "artsevents.washington.edu",
+      "score": 0.0016043610918152946,
+      "is_first_party": true
+    },
+    {
+      "host": "www.instagram.com",
+      "score": 0.0015998046829285265,
+      "is_first_party": false
+    },
+    {
+      "host": "register.uw.edu",
+      "score": 0.0015137925982102766,
+      "is_first_party": false
+    },
+    {
+      "host": "myplan.uw.edu",
+      "score": 0.0015080068724949837,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pinterest.com",
+      "score": 0.0014730606201814353,
+      "is_first_party": false
+    },
+    {
+      "host": "x.com",
+      "score": 0.0014730606201814353,
+      "is_first_party": false
+    },
+    {
+      "host": "astro.washington.edu",
+      "score": 0.0014439298290364186,
+      "is_first_party": true
+    },
+    {
+      "host": "advising.uw.edu",
+      "score": 0.0014360557380779617,
+      "is_first_party": false
+    },
+    {
+      "host": "drama.washington.edu",
+      "score": 0.0014273692330299614,
+      "is_first_party": true
+    },
+    {
+      "host": "ischool.uw.edu",
+      "score": 0.0014128038955986417,
+      "is_first_party": false
+    },
+    {
+      "host": "botanicgardens.uw.edu",
+      "score": 0.0014072752843111531,
+      "is_first_party": false
+    },
+    {
+      "host": "cdn.uw.edu",
+      "score": 0.0014072752843111531,
+      "is_first_party": false
+    },
+    {
+      "host": "en.wikipedia.org",
+      "score": 0.0014072752843111531,
+      "is_first_party": false
+    },
+    {
+      "host": "uwsurgery.org",
+      "score": 0.0014072752843111531,
+      "is_first_party": false
+    },
+    {
+      "host": "www.continuum.uw.edu",
+      "score": 0.0014072752843111531,
+      "is_first_party": false
+    },
+    {
+      "host": "lib.washington.edu",
+      "score": 0.0013754716157193857,
+      "is_first_party": true
+    },
+    {
+      "host": "myuw.washington.edu",
+      "score": 0.0013495329842886474,
+      "is_first_party": true
+    },
+    {
+      "host": "itconnect.uw.edu",
+      "score": 0.0013029820477188582,
+      "is_first_party": false
+    },
+    {
+      "host": "wd5.myworkdaysite.com",
+      "score": 0.0012665684202327852,
+      "is_first_party": false
+    },
+    {
+      "host": "art.washington.edu",
+      "score": 0.0012513703888959488,
+      "is_first_party": true
+    },
+    {
+      "host": "map.uw.edu",
+      "score": 0.0012447916243406361,
+      "is_first_party": false
+    },
+    {
+      "host": "qcenter.washington.edu",
+      "score": 0.0011450154804982856,
+      "is_first_party": true
+    },
+    {
+      "host": "sdb.admin.uw.edu",
+      "score": 0.0011396466992417633,
+      "is_first_party": false
+    },
+    {
+      "host": "twitter.com",
+      "score": 0.0011073048087145735,
+      "is_first_party": false
+    },
+    {
+      "host": "cei.washington.edu",
+      "score": 0.0009748380675993677,
+      "is_first_party": true
+    },
+    {
+      "host": "rehab.washington.edu",
+      "score": 0.0009748380675993677,
+      "is_first_party": true
+    },
+    {
+      "host": "bioe.uw.edu",
+      "score": 0.0009731504845532875,
+      "is_first_party": false
+    },
+    {
+      "host": "nursing.uw.edu",
+      "score": 0.0009437121341615906,
+      "is_first_party": false
+    },
+    {
+      "host": "environment.uw.edu",
+      "score": 0.000938183522874102,
+      "is_first_party": false
+    },
+    {
+      "host": "evans.uw.edu",
+      "score": 0.000938183522874102,
+      "is_first_party": false
+    },
+    {
+      "host": "foster.uw.edu",
+      "score": 0.000938183522874102,
+      "is_first_party": false
+    },
+    {
+      "host": "socialwork.uw.edu",
+      "score": 0.000938183522874102,
+      "is_first_party": false
+    },
+    {
+      "host": "ubookstore.com",
+      "score": 0.000938183522874102,
+      "is_first_party": false
+    },
+    {
+      "host": "uwimpact.org",
+      "score": 0.000938183522874102,
+      "is_first_party": false
+    },
+    {
+      "host": "www.gohuskies.com",
+      "score": 0.000938183522874102,
+      "is_first_party": false
+    },
+    {
+      "host": "www.princetonreview.com",
+      "score": 0.000938183522874102,
+      "is_first_party": false
+    },
+    {
+      "host": "uwconnect.uw.edu",
+      "score": 0.0009197461450877736,
+      "is_first_party": false
+    },
+    {
+      "host": "sites.uw.edu",
+      "score": 0.0009004775649388143,
+      "is_first_party": false
+    },
+    {
+      "host": "jewishstudies.washington.edu",
+      "score": 0.0008437036628904386,
+      "is_first_party": true
+    },
+    {
+      "host": "iss.washington.edu",
+      "score": 0.0008206234257509077,
+      "is_first_party": true
+    },
+    {
+      "host": "www.law.uw.edu",
+      "score": 0.0007649406525821757,
+      "is_first_party": false
+    },
+    {
+      "host": "be.uw.edu",
+      "score": 0.000763981947585148,
+      "is_first_party": false
+    },
+    {
+      "host": "www.summer.uw.edu",
+      "score": 0.0007613622761139327,
+      "is_first_party": false
+    },
+    {
+      "host": "ais.washington.edu",
+      "score": 0.0007402921868808423,
+      "is_first_party": true
+    },
+    {
+      "host": "bothell.washington.edu",
+      "score": 0.0007402921868808423,
+      "is_first_party": true
+    },
+    {
+      "host": "deohs.washington.edu",
+      "score": 0.0007402921868808423,
+      "is_first_party": true
+    },
+    {
+      "host": "dirac.astro.washington.edu",
+      "score": 0.0007402921868808423,
+      "is_first_party": true
+    },
+    {
+      "host": "globalhealth.washington.edu",
+      "score": 0.0007402921868808423,
+      "is_first_party": true
+    },
+    {
+      "host": "history.washington.edu",
+      "score": 0.0007402921868808423,
+      "is_first_party": true
+    },
+    {
+      "host": "myuwgiving.gifts.washington.edu",
+      "score": 0.0007402921868808423,
+      "is_first_party": true
+    },
+    {
+      "host": "rad.washington.edu",
+      "score": 0.0007402921868808423,
+      "is_first_party": true
+    },
+    {
+      "host": "police.uw.edu",
+      "score": 0.00073245902752857,
+      "is_first_party": false
+    },
+    {
+      "host": "facilities.uw.edu",
+      "score": 0.0007167005458635113,
+      "is_first_party": false
+    },
+    {
+      "host": "www.seattletimes.com",
+      "score": 0.000709166253443065,
+      "is_first_party": false
+    },
+    {
+      "host": "apps.leg.wa.gov",
+      "score": 0.0007036376421555766,
+      "is_first_party": false
+    },
+    {
+      "host": "cele.uw.edu",
+      "score": 0.0007036376421555766,
+      "is_first_party": false
+    },
+    {
+      "host": "discover.uw.edu",
+      "score": 0.0007036376421555766,
+      "is_first_party": false
+    },
+    {
+      "host": "maps.app.goo.gl",
+      "score": 0.0007036376421555766,
+      "is_first_party": false
+    },
+    {
+      "host": "pinboard.in",
+      "score": 0.0007036376421555766,
+      "is_first_party": false
+    },
+    {
+      "host": "rubinobservatory.org",
+      "score": 0.0007036376421555766,
+      "is_first_party": false
+    },
+    {
+      "host": "www.copyright.gov",
+      "score": 0.0007036376421555766,
+      "is_first_party": false
+    },
+    {
+      "host": "meanycenter.org",
+      "score": 0.0006797001845743498,
+      "is_first_party": false
+    },
+    {
+      "host": "iship.washington.edu",
+      "score": 0.0006475122445589172,
+      "is_first_party": true
+    },
+    {
+      "host": "dance.washington.edu",
+      "score": 0.0006412271239594645,
+      "is_first_party": true
+    },
+    {
+      "host": "dxarts.washington.edu",
+      "score": 0.0006338234393951021,
+      "is_first_party": true
+    },
+    {
+      "host": "uwnetid.sharepoint.com",
+      "score": 0.0005467125361131395,
+      "is_first_party": false
+    },
+    {
+      "host": "aa.washington.edu",
+      "score": 0.0005407132678415021,
+      "is_first_party": true
+    },
+    {
+      "host": "cheme.washington.edu",
+      "score": 0.0005407132678415021,
+      "is_first_party": true
+    },
+    {
+      "host": "hcde.washington.edu",
+      "score": 0.0005407132678415021,
+      "is_first_party": true
+    },
+    {
+      "host": "ise.washington.edu",
+      "score": 0.0005407132678415021,
+      "is_first_party": true
+    },
+    {
+      "host": "me.washington.edu",
+      "score": 0.0005407132678415021,
+      "is_first_party": true
+    },
+    {
+      "host": "mse.washington.edu",
+      "score": 0.0005407132678415021,
+      "is_first_party": true
+    },
+    {
+      "host": "ticketing.artsevents.washington.edu",
+      "score": 0.0005369437021496329,
+      "is_first_party": true
+    },
+    {
+      "host": "students.washington.edu",
+      "score": 0.0005341215114594468,
+      "is_first_party": true
+    },
+    {
+      "host": "be.washington.edu",
+      "score": 0.0005319587671532587,
+      "is_first_party": true
+    },
+    {
+      "host": "henryart.org",
+      "score": 0.0005280134589480815,
+      "is_first_party": false
+    },
+    {
+      "host": "doem.washington.edu",
+      "score": 0.0005246938833109084,
+      "is_first_party": true
+    },
+    {
+      "host": "www.burkemuseum.org",
+      "score": 0.000522484847660593,
+      "is_first_party": false
+    },
+    {
+      "host": "math.washington.edu",
+      "score": 0.0005201365330457211,
+      "is_first_party": true
+    },
+    {
+      "host": "english.washington.edu",
+      "score": 0.0005112749174498052,
+      "is_first_party": true
+    },
+    {
+      "host": "runsignup.com",
+      "score": 0.0005068162552180528,
+      "is_first_party": false
+    },
+    {
+      "host": "acms.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "aes.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "amath.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "anthropology.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "asa.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "asian.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "biology.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "biostat.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "careers.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "ce.engr.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "chid.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "cinema.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "classics.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "com.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "econ.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "epi.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "ess.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "frenchitalian.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "fyp.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "geography.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "german.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "grad.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "gs.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "gwss.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "ial.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "immunology.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "iphg.biostat.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "linguistics.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "lsj.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "microbiology.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "myhr.admin.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "nelc.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "nrotc.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "ocean.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "ophthalmology.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "orthop.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "phil.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "polisci.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "psych.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "scandinavian.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "sdb.admin.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "slavic.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "soc.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "spanport.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "sphsc.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "stat.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "teaching.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "wholeu.admin.washington.edu",
+      "score": 0.0005057463061623167,
+      "is_first_party": true
+    },
+    {
+      "host": "urldefense.com",
+      "score": 0.0005013309075940432,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nondegree.uw.edu",
+      "score": 0.0004979131468100445,
+      "is_first_party": false
+    },
+    {
+      "host": "as.admin.uw.edu",
+      "score": 0.0004978722152038597,
+      "is_first_party": false
+    },
+    {
+      "host": "www.uwhs.uw.edu",
+      "score": 0.00048352291992664003,
+      "is_first_party": false
+    },
+    {
+      "host": "armyrotc.uw.edu",
+      "score": 0.00048348198832045533,
+      "is_first_party": false
+    },
+    {
+      "host": "larch.be.uw.edu",
+      "score": 0.0004821979919325219,
+      "is_first_party": false
+    },
+    {
+      "host": "events.uw.edu",
+      "score": 0.0004746203727245395,
+      "is_first_party": false
+    },
+    {
+      "host": "doi.org",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "familymedicine.uw.edu",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "medicine.uw.edu",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "sefs.uw.edu",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "simpsoncenter.org",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "sustainability.uw.edu",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "www.collegeprice.org",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ielp.uw.edu",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "www.osher.uw.edu",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "www.usnews.com",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "www.uwifc.com",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "www.uwpanhellenic.com",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "www.youth-teen.uw.edu",
+      "score": 0.000469091761437051,
+      "is_first_party": false
+    },
+    {
+      "host": "apps.registrar.washington.edu",
+      "score": 0.00041510269427783486,
+      "is_first_party": true
+    },
+    {
+      "host": "honors.uw.edu",
+      "score": 0.00039328862410400496,
+      "is_first_party": false
+    },
+    {
+      "host": "studentdata.washington.edu",
+      "score": 0.00035922643265803546,
+      "is_first_party": true
+    },
+    {
+      "host": "isc.uw.edu",
+      "score": 0.0003523583592415238,
+      "is_first_party": false
+    },
+    {
+      "host": "wsac.wa.gov",
+      "score": 0.00033548212693327944,
+      "is_first_party": false
+    },
+    {
+      "host": "internal.cs.washington.edu",
+      "score": 0.0003287622362726767,
+      "is_first_party": true
+    },
+    {
+      "host": "intranet.cs.washington.edu",
+      "score": 0.0003287622362726767,
+      "is_first_party": true
+    },
+    {
+      "host": "mycse.cs.washington.edu",
+      "score": 0.0003287622362726767,
+      "is_first_party": true
+    },
+    {
+      "host": "i2d3.washington.edu",
+      "score": 0.0003232275680965073,
+      "is_first_party": true
+    },
+    {
+      "host": "bsky.app",
+      "score": 0.0003139513243023901,
+      "is_first_party": false
+    },
+    {
+      "host": "ce.washington.edu",
+      "score": 0.0003127205023707121,
+      "is_first_party": true
+    },
+    {
+      "host": "phys-office.phys.washington.edu",
+      "score": 0.00030552350913862355,
+      "is_first_party": true
+    },
+    {
+      "host": "calendar.washington.edu",
+      "score": 0.0003013906268043467,
+      "is_first_party": true
+    },
+    {
+      "host": "apps.admit.washington.edu",
+      "score": 0.00030006274242296927,
+      "is_first_party": true
+    },
+    {
+      "host": "gitlab.cs.washington.edu",
+      "score": 0.000299981330858234,
+      "is_first_party": true
+    },
+    {
+      "host": "maps.cs.washington.edu",
+      "score": 0.000299981330858234,
+      "is_first_party": true
+    },
+    {
+      "host": "reserve.cs.washington.edu",
+      "score": 0.000299981330858234,
+      "is_first_party": true
+    },
+    {
+      "host": "ta.cs.washington.edu",
+      "score": 0.000299981330858234,
+      "is_first_party": true
+    },
+    {
+      "host": "uwnetid.washington.edu",
+      "score": 0.0002999808792105999,
+      "is_first_party": true
+    },
+    {
+      "host": "admin.artsci.washington.edu",
+      "score": 0.0002998084485690975,
+      "is_first_party": true
+    },
+    {
+      "host": "studentaid.gov",
+      "score": 0.0002922705146768817,
+      "is_first_party": false
+    },
+    {
+      "host": "nstp.uw.edu",
+      "score": 0.00029214771985832766,
+      "is_first_party": false
+    },
+    {
+      "host": "canvas.uw.edu",
+      "score": 0.00028657302337124166,
+      "is_first_party": false
+    },
+    {
+      "host": "c21.washington.edu",
+      "score": 0.00028653022599685096,
+      "is_first_party": true
+    },
+    {
+      "host": "tickets.artsevents.washington.edu",
+      "score": 0.0002862690102846837,
+      "is_first_party": true
+    },
+    {
+      "host": "academicsupport.washington.edu",
+      "score": 0.0002856315839333802,
+      "is_first_party": true
+    },
+    {
+      "host": "wwwudev.cac.washington.edu",
+      "score": 0.0002855906523271955,
+      "is_first_party": true
+    },
+    {
+      "host": "hsasf.hsa.washington.edu",
+      "score": 0.00028550443700644433,
+      "is_first_party": true
+    },
+    {
+      "host": "sharepoint.washington.edu",
+      "score": 0.00028550443700644433,
+      "is_first_party": true
+    },
+    {
+      "host": "f2.washington.edu",
+      "score": 0.0002788653257203211,
+      "is_first_party": true
+    },
+    {
+      "host": "www.sos.wa.gov",
+      "score": 0.00027771656136873856,
+      "is_first_party": false
+    },
+    {
+      "host": "faculty.washington.edu",
+      "score": 0.0002767290367312797,
+      "is_first_party": true
+    },
+    {
+      "host": "sites.math.washington.edu",
+      "score": 0.0002767290367312797,
+      "is_first_party": true
+    },
+    {
+      "host": "webservices.washington.edu",
+      "score": 0.00027575777570897856,
+      "is_first_party": true
+    },
+    {
+      "host": "www.ece.uw.edu",
+      "score": 0.0002695128423977109,
+      "is_first_party": false
+    },
+    {
+      "host": "identity.uw.edu",
+      "score": 0.0002514823059317715,
+      "is_first_party": false
+    },
+    {
+      "host": "transfer.uw.edu",
+      "score": 0.00024897703920811456,
+      "is_first_party": false
+    },
+    {
+      "host": "dawgpath.uw.edu",
+      "score": 0.00024893610760192987,
+      "is_first_party": false
+    },
+    {
+      "host": "techfee.uw.edu",
+      "score": 0.00024893610760192987,
+      "is_first_party": false
+    },
+    {
+      "host": "arch.be.uw.edu",
+      "score": 0.0002476521112139965,
+      "is_first_party": false
+    },
+    {
+      "host": "cm.be.uw.edu",
+      "score": 0.0002476521112139965,
+      "is_first_party": false
+    },
+    {
+      "host": "re.be.uw.edu",
+      "score": 0.0002476521112139965,
+      "is_first_party": false
+    },
+    {
+      "host": "urbdp.be.uw.edu",
+      "score": 0.0002476521112139965,
+      "is_first_party": false
+    },
+    {
+      "host": "uw.joinhandshake.com",
+      "score": 0.00024221078099505538,
+      "is_first_party": false
+    },
+    {
+      "host": "afrotc.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "anesthesiology.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "atmos.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "bime.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "c2.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "collegiatemobile.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "councilofpresidents.org",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "create.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "dawgdaze.fyp.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "dawgdaze.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "derm.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "dlmp.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "education.uwmedicine.org",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "em.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "employeehelp.workday.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "envstudies.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "expd.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "fish.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "form.jotform.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "globalhealth.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "goo.gl",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "marinebiology.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "mcb-seattle.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "medgen.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "nbio.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "nephrology.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "neurosurgery.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "noirlab.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "nutr.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "obgyn.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "otolaryngology.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "pcc.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "pce.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "pepsi.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "pharmacology.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "psych.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "psychiatry.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "quantitative.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "radiationoncology.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "rightasrain.uwmedicine.org",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "science.nasa.gov",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "smea.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "svs.gsfc.nasa.gov",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "tripplanner.kingcounty.gov",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "tylerchestermusic.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "uwapress.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "uwfoundationboard.org",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "uwmedres.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "uwpanhellenic.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "wa.gov",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "windermerecup.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "wsdot.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "wsdot.wa.gov",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.alanhamptonmusic.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.alaskaair.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.andrewbird.net",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.asuw.org",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bigtenplus.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.brooksrunning.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.collegefactual.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.collegesimply.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dailyuw.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.forbes.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.fws.gov",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.gofevo.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.imdb.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.inlander.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.king5.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.madisoncunningham.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mha.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.peds.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.physicaltherapy.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.science.org",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.seattle.gov",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.socialsciencesonline.uw.edu",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.spokesman.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.thedailyworld.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.thenewstribune.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.topuniversities.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.tricitiesbusinessnews.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ubookstore.com",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "www.wsac.wa.gov",
+      "score": 0.0002345458807185255,
+      "is_first_party": false
+    },
+    {
+      "host": "app.leg.wa.gov",
+      "score": 0.00023024363013446987,
+      "is_first_party": false
+    },
+    {
+      "host": "open.spotify.com",
+      "score": 0.00018390903127979714,
+      "is_first_party": false
+    },
+    {
+      "host": "helpcenter.readyeducation.com",
+      "score": 0.00017991414764863454,
+      "is_first_party": false
+    },
+    {
+      "host": "www.readyeducation.com",
+      "score": 0.00017991414764863454,
+      "is_first_party": false
+    },
+    {
+      "host": "uw.kualibuild.com",
+      "score": 0.00015829249571744803,
+      "is_first_party": false
+    },
+    {
+      "host": "seattle.admissions.uw.edu",
+      "score": 0.00012988042640630138,
+      "is_first_party": false
+    },
+    {
+      "host": "linkedin.com",
+      "score": 0.0001126524522427073,
+      "is_first_party": false
+    },
+    {
+      "host": "soundcloud.com",
+      "score": 0.0001126524522427073,
+      "is_first_party": false
+    },
+    {
+      "host": "www.apsia.org",
+      "score": 0.0001126524522427073,
+      "is_first_party": false
+    },
+    {
+      "host": "guides.lib.uw.edu",
+      "score": 0.0001040605489429095,
+      "is_first_party": false
+    },
+    {
+      "host": "lib.law.uw.edu",
+      "score": 0.00010217168404433175,
+      "is_first_party": false
+    },
+    {
+      "host": "www.tiktok.com",
+      "score": 9.59755372308376e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "facebook.com",
+      "score": 9.521959400715473e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.thecenterforpediatricdentistry.com",
+      "score": 9.383901664015764e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "tour.concept3d.com",
+      "score": 7.215579244794521e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "secure.cecredentialtrust.com",
+      "score": 7.195113441702183e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "slate.asa.uw.edu",
+      "score": 7.195113441702183e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "tacoma.uw.edu",
+      "score": 6.578533587028206e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "uwmedicine.org",
+      "score": 6.578533587028206e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "foodsystems.uw.edu",
+      "score": 6.038040272111106e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.parchment.com",
+      "score": 5.756090753361747e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.studentclearinghouse.org",
+      "score": 5.756090753361747e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "search.lib.uw.edu",
+      "score": 4.896967009078094e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "artsci.uw.edu",
+      "score": 4.483300481268913e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "cal.lib.uw.edu",
+      "score": 4.284846132943332e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "artsevents.uw.edu",
+      "score": 3.8063285670482236e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "kemi.uw.edu",
+      "score": 3.4966961679185406e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "xpai.engr.uw.edu",
+      "score": 3.4966961679185406e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "youtube.com",
+      "score": 3.472923188665394e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "admit.uw.edu",
+      "score": 2.8862316979178087e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mor.uw.edu",
+      "score": 2.8862316979178087e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "new.expo.uw.edu",
+      "score": 2.8862316979178087e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "uwadmissions.pathwayu.com",
+      "score": 2.8862316979178087e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.waspacegrant.org",
+      "score": 2.8862316979178087e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "academictechnologies.asa.uw.edu",
+      "score": 2.8780453766808734e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "app.powerbi.com",
+      "score": 2.8780453766808734e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "dol.wa.gov",
+      "score": 2.8780453766808734e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "portal.paradigm-corp.com",
+      "score": 2.8780453766808734e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "voter.votewa.gov",
+      "score": 2.8780453766808734e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.uscis.gov",
+      "score": 2.8780453766808734e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.artsci.uw.edu",
+      "score": 2.860802312530632e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "students.lifewiseac.com",
+      "score": 2.501751854057656e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.flickr.com",
+      "score": 2.3313049375525046e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.google.com",
+      "score": 2.3313049375525046e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "eventactions.com",
+      "score": 2.2864092973506067e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "law-uw.12twenty.com",
+      "score": 2.0434336808866348e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "music.amazon.com",
+      "score": 2.0434336808866348e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "podcasts.apple.com",
+      "score": 2.0434336808866348e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "uwlaw.libsyn.com",
+      "score": 2.0434336808866348e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "fineartslibraries.ds.lib.uw.edu",
+      "score": 1.836362628404285e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.elliottbaybook.com",
+      "score": 1.6585833862465593e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "bigfuture.collegeboard.org",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "consumer.ftc.gov",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "nondegree.uw.edu",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "robinsoncenter.uw.edu",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "support.google.com",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "udistrictseattle.com",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "visitseattle.org",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.benefits.va.gov",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.fastweb.com",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.finaid.org",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.get.wa.gov",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.portseattle.org",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "zeemee.app.link",
+      "score": 1.4431158489589043e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "25live.collegenet.com",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "about.usps.com",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "apps.registrar.uw.edu",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "eventservices.uw.edu",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "go.oncehub.com",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "lawfilesext.leg.wa.gov",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "notify.uw.edu",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "nsldsfap.ed.gov",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "nwccu.org",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "portal.continuum.uw.edu",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "registration.parchment.com",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "safe.apps.mil",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "uwashington.qualtrics.com",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "uwt.az1.qualtrics.com",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "washington.campusgroups.com",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "washington.zoom.us",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aacrao.org",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.congress.gov",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.degreereg.uw.edu",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.waacrao.org",
+      "score": 1.4390226883404367e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "bookings.cloud.microsoft",
+      "score": 1.430401156265316e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "neurology.uw.edu",
+      "score": 1.430401156265316e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "facstaff.grad.uw.edu",
+      "score": 1.3433886257830917e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "hsl.uw.edu",
+      "score": 1.2242417522695234e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "americanarchive.org",
+      "score": 1.1057222574977062e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "thegoodcoffee.company",
+      "score": 1.1057222574977062e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "art.uw.edu",
+      "score": 7.664900276529901e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "c21.uw.edu",
+      "score": 7.664900276529901e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "dance.uw.edu",
+      "score": 7.664900276529901e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "drama.uw.edu",
+      "score": 7.664900276529901e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "dxarts.uw.edu",
+      "score": 7.664900276529901e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.henryart.org",
+      "score": 7.664900276529901e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.seattleopera.org",
+      "score": 7.664900276529901e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.seattlerep.org",
+      "score": 7.664900276529901e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.seattlesymphony.org",
+      "score": 7.664900276529901e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.teentix.org",
+      "score": 7.664900276529901e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "housingfutures.be.uw.edu",
+      "score": 6.553115247735489e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "intranet.be.uw.edu",
+      "score": 6.553115247735489e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "library.uwb.edu",
+      "score": 6.121208761347617e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "washington.libwizard.com",
+      "score": 6.121208761347617e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "2024.uwdesignshow.com",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "2025.uwdesignshow.com",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "academic.oup.com",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "beaversnw.org",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "donnamiscolta.com",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "go.uw.edu",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "historylink.org",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "mweditions.com",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "somo.social",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "theroyalroomseattle.com",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "wac.net",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.blackembodiments.org",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bychristineday.com",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.earshot.org",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.jaskeimig.com",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.kuow.org",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.panyixuanpan.com",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.penguinrandomhouse.com",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.seattleshistory.com",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.spl.org",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.thomasnelson.com",
+      "score": 5.528611287488531e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "biportal.uw.edu",
+      "score": 4.557350265187349e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "metadata.uw.edu",
+      "score": 4.557350265187349e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "uw.kuali.co",
+      "score": 4.557350265187349e-06,
+      "is_first_party": false
+    }
+  ]
+}

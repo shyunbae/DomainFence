@@ -1,0 +1,2925 @@
+{
+  "seed": "upenn.edu",
+  "aliases": [],
+  "crawl_date": "2026-10-18",
+  "crawl_stats": {
+    "total_nodes": 582,
+    "first_party_hosts": 254,
+    "external_hosts": 328,
+    "total_edge_weight": 10879,
+    "subdomains": 253,
+    "pages_crawled": 500
+  },
+  "ranking": [
+    {
+      "host": "upenn.edu",
+      "score": 0.4854066389286601,
+      "is_first_party": true
+    },
+    {
+      "host": "penntoday.upenn.edu",
+      "score": 0.13398746299615585,
+      "is_first_party": true
+    },
+    {
+      "host": "admissions.upenn.edu",
+      "score": 0.019742152890671105,
+      "is_first_party": true
+    },
+    {
+      "host": "ehrs.upenn.edu",
+      "score": 0.014151686507050674,
+      "is_first_party": true
+    },
+    {
+      "host": "alumni.upenn.edu",
+      "score": 0.013362544794316212,
+      "is_first_party": true
+    },
+    {
+      "host": "tinyurl.com",
+      "score": 0.013239214102502185,
+      "is_first_party": false
+    },
+    {
+      "host": "cms.business-services.upenn.edu",
+      "score": 0.012650837696908697,
+      "is_first_party": true
+    },
+    {
+      "host": "srfs.upenn.edu",
+      "score": 0.01255516335467718,
+      "is_first_party": true
+    },
+    {
+      "host": "sustainability.upenn.edu",
+      "score": 0.012345116288974004,
+      "is_first_party": true
+    },
+    {
+      "host": "facilities.upenn.edu",
+      "score": 0.011948756546079587,
+      "is_first_party": true
+    },
+    {
+      "host": "isc.upenn.edu",
+      "score": 0.00938838890626135,
+      "is_first_party": true
+    },
+    {
+      "host": "hr.upenn.edu",
+      "score": 0.00775250407701731,
+      "is_first_party": true
+    },
+    {
+      "host": "research.upenn.edu",
+      "score": 0.00747402499907312,
+      "is_first_party": true
+    },
+    {
+      "host": "publicsafety.upenn.edu",
+      "score": 0.007325468214019878,
+      "is_first_party": true
+    },
+    {
+      "host": "global.upenn.edu",
+      "score": 0.005869108128564733,
+      "is_first_party": true
+    },
+    {
+      "host": "giving.upenn.edu",
+      "score": 0.005449895239520116,
+      "is_first_party": true
+    },
+    {
+      "host": "wellness.upenn.edu",
+      "score": 0.005314080638704962,
+      "is_first_party": true
+    },
+    {
+      "host": "catalog.upenn.edu",
+      "score": 0.004695005465760916,
+      "is_first_party": true
+    },
+    {
+      "host": "oacp.upenn.edu",
+      "score": 0.004341100208569011,
+      "is_first_party": true
+    },
+    {
+      "host": "provost.upenn.edu",
+      "score": 0.0040166597039240845,
+      "is_first_party": true
+    },
+    {
+      "host": "www.instagram.com",
+      "score": 0.0038707968609443724,
+      "is_first_party": false
+    },
+    {
+      "host": "workday.upenn.edu",
+      "score": 0.003712935848564027,
+      "is_first_party": true
+    },
+    {
+      "host": "www.facebook.com",
+      "score": 0.0036520825675127105,
+      "is_first_party": false
+    },
+    {
+      "host": "president.upenn.edu",
+      "score": 0.003479809600709316,
+      "is_first_party": true
+    },
+    {
+      "host": "accessibility.web-resources.upenn.edu",
+      "score": 0.0033730209472176568,
+      "is_first_party": true
+    },
+    {
+      "host": "www.youtube.com",
+      "score": 0.003288940698208829,
+      "is_first_party": false
+    },
+    {
+      "host": "archives.upenn.edu",
+      "score": 0.003157910748466102,
+      "is_first_party": true
+    },
+    {
+      "host": "cetli.upenn.edu",
+      "score": 0.0031304665456182434,
+      "is_first_party": true
+    },
+    {
+      "host": "sas.upenn.edu",
+      "score": 0.0030336491999322737,
+      "is_first_party": true
+    },
+    {
+      "host": "vpul.upenn.edu",
+      "score": 0.002909100563404995,
+      "is_first_party": true
+    },
+    {
+      "host": "pennovation.upenn.edu",
+      "score": 0.002795613064515664,
+      "is_first_party": true
+    },
+    {
+      "host": "nettercenter.upenn.edu",
+      "score": 0.002790799633557251,
+      "is_first_party": true
+    },
+    {
+      "host": "business-services.upenn.edu",
+      "score": 0.002748856903605147,
+      "is_first_party": true
+    },
+    {
+      "host": "library.upenn.edu",
+      "score": 0.0025135862599968183,
+      "is_first_party": true
+    },
+    {
+      "host": "penncard.business-services.upenn.edu",
+      "score": 0.0024988474891993085,
+      "is_first_party": true
+    },
+    {
+      "host": "gsc.upenn.edu",
+      "score": 0.0023980362929368437,
+      "is_first_party": true
+    },
+    {
+      "host": "oeop.upenn.edu",
+      "score": 0.0023354851689440146,
+      "is_first_party": true
+    },
+    {
+      "host": "almanac.upenn.edu",
+      "score": 0.0022807866204067385,
+      "is_first_party": true
+    },
+    {
+      "host": "design.upenn.edu",
+      "score": 0.0022561642573302085,
+      "is_first_party": true
+    },
+    {
+      "host": "finance.upenn.edu",
+      "score": 0.0022175705661483303,
+      "is_first_party": true
+    },
+    {
+      "host": "investments.upenn.edu",
+      "score": 0.0022022023455616755,
+      "is_first_party": true
+    },
+    {
+      "host": "pci.upenn.edu",
+      "score": 0.0021376822317986746,
+      "is_first_party": true
+    },
+    {
+      "host": "recreation.upenn.edu",
+      "score": 0.0021353657287038036,
+      "is_first_party": true
+    },
+    {
+      "host": "in-principle-and-practice.upenn.edu",
+      "score": 0.002080015538939888,
+      "is_first_party": true
+    },
+    {
+      "host": "www.linkedin.com",
+      "score": 0.0020742846895720544,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pennmedicine.org",
+      "score": 0.002044982541169187,
+      "is_first_party": false
+    },
+    {
+      "host": "nursing.upenn.edu",
+      "score": 0.0019156879543194196,
+      "is_first_party": true
+    },
+    {
+      "host": "transportation.upenn.edu",
+      "score": 0.001695148814710083,
+      "is_first_party": true
+    },
+    {
+      "host": "vet.upenn.edu",
+      "score": 0.0016007303524767612,
+      "is_first_party": true
+    },
+    {
+      "host": "pennpep.upenn.edu",
+      "score": 0.0015284209740267876,
+      "is_first_party": true
+    },
+    {
+      "host": "pennpip.upenn.edu",
+      "score": 0.0015284209740267876,
+      "is_first_party": true
+    },
+    {
+      "host": "pennandphilly.upenn.edu",
+      "score": 0.0014995438133321621,
+      "is_first_party": true
+    },
+    {
+      "host": "budget.upenn.edu",
+      "score": 0.001484646253590361,
+      "is_first_party": true
+    },
+    {
+      "host": "pikprofessors.upenn.edu",
+      "score": 0.001479931823850356,
+      "is_first_party": true
+    },
+    {
+      "host": "portal.apps.upenn.edu",
+      "score": 0.0014171021158968606,
+      "is_first_party": true
+    },
+    {
+      "host": "pennsway.upenn.edu",
+      "score": 0.0013926219281468473,
+      "is_first_party": true
+    },
+    {
+      "host": "instagram.com",
+      "score": 0.0013524181763936976,
+      "is_first_party": false
+    },
+    {
+      "host": "university-communications.upenn.edu",
+      "score": 0.0013480188795734736,
+      "is_first_party": true
+    },
+    {
+      "host": "www.flickr.com",
+      "score": 0.0013468833624088149,
+      "is_first_party": false
+    },
+    {
+      "host": "www.thedp.com",
+      "score": 0.0013401358326930084,
+      "is_first_party": false
+    },
+    {
+      "host": "www.threads.com",
+      "score": 0.0013108678097068958,
+      "is_first_party": false
+    },
+    {
+      "host": "www.threads.net",
+      "score": 0.0013108678097068958,
+      "is_first_party": false
+    },
+    {
+      "host": "dental.upenn.edu",
+      "score": 0.001260254049465972,
+      "is_first_party": true
+    },
+    {
+      "host": "med.upenn.edu",
+      "score": 0.0012362662843170044,
+      "is_first_party": true
+    },
+    {
+      "host": "residential-services.business-services.upenn.edu",
+      "score": 0.0011842861221848877,
+      "is_first_party": true
+    },
+    {
+      "host": "medley.isc-seo.upenn.edu",
+      "score": 0.0011802571792128742,
+      "is_first_party": true
+    },
+    {
+      "host": "osa.vpul.upenn.edu",
+      "score": 0.0011522148714236324,
+      "is_first_party": true
+    },
+    {
+      "host": "platthouse.universitylife.upenn.edu",
+      "score": 0.0011522148714236324,
+      "is_first_party": true
+    },
+    {
+      "host": "www.myworkday.com",
+      "score": 0.0011057450252052944,
+      "is_first_party": false
+    },
+    {
+      "host": "asc.upenn.edu",
+      "score": 0.0011042376713523588,
+      "is_first_party": true
+    },
+    {
+      "host": "www.pennathletics.com",
+      "score": 0.0010042630479742936,
+      "is_first_party": false
+    },
+    {
+      "host": "icaphila.org",
+      "score": 0.001002762846761978,
+      "is_first_party": false
+    },
+    {
+      "host": "www.penn.museum",
+      "score": 0.001002762846761978,
+      "is_first_party": false
+    },
+    {
+      "host": "giving.aws.cloud.upenn.edu",
+      "score": 0.001001307497398236,
+      "is_first_party": true
+    },
+    {
+      "host": "www.arthurrossgallery.org",
+      "score": 0.0009831508572801719,
+      "is_first_party": false
+    },
+    {
+      "host": "www.shopsatpenn.com",
+      "score": 0.0009831508572801719,
+      "is_first_party": false
+    },
+    {
+      "host": "twitter.com",
+      "score": 0.000981186687353133,
+      "is_first_party": false
+    },
+    {
+      "host": "provider.www.upenn.edu",
+      "score": 0.0009516027411268228,
+      "is_first_party": true
+    },
+    {
+      "host": "law.upenn.edu",
+      "score": 0.0009436273897414776,
+      "is_first_party": true
+    },
+    {
+      "host": "gse.upenn.edu",
+      "score": 0.0009325370970392475,
+      "is_first_party": true
+    },
+    {
+      "host": "postdocs.upenn.edu",
+      "score": 0.0009186449825180565,
+      "is_first_party": true
+    },
+    {
+      "host": "www2.isc.upenn.edu",
+      "score": 0.0009172901349395356,
+      "is_first_party": true
+    },
+    {
+      "host": "wharton.upenn.edu",
+      "score": 0.000888062922852276,
+      "is_first_party": true
+    },
+    {
+      "host": "www.google.com",
+      "score": 0.0008820060741739668,
+      "is_first_party": false
+    },
+    {
+      "host": "seas.upenn.edu",
+      "score": 0.0008753035722682105,
+      "is_first_party": true
+    },
+    {
+      "host": "sp2.upenn.edu",
+      "score": 0.0008753035722682105,
+      "is_first_party": true
+    },
+    {
+      "host": "challengeresponse.apps.upenn.edu",
+      "score": 0.000874258928126519,
+      "is_first_party": true
+    },
+    {
+      "host": "ai.upenn.edu",
+      "score": 0.0008504080690201448,
+      "is_first_party": true
+    },
+    {
+      "host": "mail.business-services.upenn.edu",
+      "score": 0.0008470848245466908,
+      "is_first_party": true
+    },
+    {
+      "host": "chaplain.upenn.edu",
+      "score": 0.000835588211699138,
+      "is_first_party": true
+    },
+    {
+      "host": "alumni.wharton.upenn.edu",
+      "score": 0.000824497918996908,
+      "is_first_party": true
+    },
+    {
+      "host": "cg.cis.upenn.edu",
+      "score": 0.000824497918996908,
+      "is_first_party": true
+    },
+    {
+      "host": "curf.upenn.edu",
+      "score": 0.000824497918996908,
+      "is_first_party": true
+    },
+    {
+      "host": "giving.wharton.upenn.edu",
+      "score": 0.000824497918996908,
+      "is_first_party": true
+    },
+    {
+      "host": "path.at.upenn.edu",
+      "score": 0.000824497918996908,
+      "is_first_party": true
+    },
+    {
+      "host": "secretary.upenn.edu",
+      "score": 0.000824497918996908,
+      "is_first_party": true
+    },
+    {
+      "host": "snfpaideia.upenn.edu",
+      "score": 0.000824497918996908,
+      "is_first_party": true
+    },
+    {
+      "host": "campusexpress.upenn.edu",
+      "score": 0.0008049912613035017,
+      "is_first_party": true
+    },
+    {
+      "host": "ask.admissions.upenn.edu",
+      "score": 0.0008023028804996968,
+      "is_first_party": true
+    },
+    {
+      "host": "csa.upenn.edu",
+      "score": 0.0007809134724661596,
+      "is_first_party": true
+    },
+    {
+      "host": "climate.upenn.edu",
+      "score": 0.0007705935658643098,
+      "is_first_party": true
+    },
+    {
+      "host": "homeownership.business-services.upenn.edu",
+      "score": 0.0007595441434171746,
+      "is_first_party": true
+    },
+    {
+      "host": "pennathletics.com",
+      "score": 0.0007407028318054649,
+      "is_first_party": false
+    },
+    {
+      "host": "billypenn.com",
+      "score": 0.0006752730683595505,
+      "is_first_party": false
+    },
+    {
+      "host": "pennlivearts.org",
+      "score": 0.0006750458943352538,
+      "is_first_party": false
+    },
+    {
+      "host": "pennclubs.com",
+      "score": 0.0006554339048534479,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pennelectricracing.com",
+      "score": 0.0006554339048534479,
+      "is_first_party": false
+    },
+    {
+      "host": "universitylife.upenn.edu",
+      "score": 0.0006247896813362975,
+      "is_first_party": true
+    },
+    {
+      "host": "familycenter.upenn.edu",
+      "score": 0.0006011954032092531,
+      "is_first_party": true
+    },
+    {
+      "host": "upenn.bncollege.com",
+      "score": 0.0005935609515319402,
+      "is_first_party": false
+    },
+    {
+      "host": "belonging.upenn.edu",
+      "score": 0.0005889464940884047,
+      "is_first_party": true
+    },
+    {
+      "host": "procurement.upenn.edu",
+      "score": 0.0005824714185013836,
+      "is_first_party": true
+    },
+    {
+      "host": "ecards.business-services.upenn.edu",
+      "score": 0.0005631324464499166,
+      "is_first_party": true
+    },
+    {
+      "host": "platform.onlinelearning.upenn.edu",
+      "score": 0.0005567185025998962,
+      "is_first_party": true
+    },
+    {
+      "host": "stories.isc.upenn.edu",
+      "score": 0.0005402328779139706,
+      "is_first_party": true
+    },
+    {
+      "host": "writing.upenn.edu",
+      "score": 0.0005360049455337959,
+      "is_first_party": true
+    },
+    {
+      "host": "branding.web-resources.upenn.edu",
+      "score": 0.0005257889677775678,
+      "is_first_party": true
+    },
+    {
+      "host": "aarc.upenn.edu",
+      "score": 0.0005245066983257591,
+      "is_first_party": true
+    },
+    {
+      "host": "accounts.pennkey.upenn.edu",
+      "score": 0.0005216614711349896,
+      "is_first_party": true
+    },
+    {
+      "host": "home.www.upenn.edu",
+      "score": 0.0005216614711349896,
+      "is_first_party": true
+    },
+    {
+      "host": "pvp.universitylife.upenn.edu",
+      "score": 0.0005078712592724139,
+      "is_first_party": true
+    },
+    {
+      "host": "sis.universitylife.upenn.edu",
+      "score": 0.0005053265153459304,
+      "is_first_party": true
+    },
+    {
+      "host": "caps.wellness.upenn.edu",
+      "score": 0.0005045112680754284,
+      "is_first_party": true
+    },
+    {
+      "host": "directory.apps.upenn.edu",
+      "score": 0.00050403296687203,
+      "is_first_party": true
+    },
+    {
+      "host": "upenn.box.com",
+      "score": 0.0005035344512748352,
+      "is_first_party": false
+    },
+    {
+      "host": "nrotc.universitylife.upenn.edu",
+      "score": 0.000502326112921299,
+      "is_first_party": true
+    },
+    {
+      "host": "ogc.upenn.edu",
+      "score": 0.000502326112921299,
+      "is_first_party": true
+    },
+    {
+      "host": "ppsa.upenn.edu",
+      "score": 0.000502326112921299,
+      "is_first_party": true
+    },
+    {
+      "host": "hosted.apps.upenn.edu",
+      "score": 0.0005010245866402655,
+      "is_first_party": true
+    },
+    {
+      "host": "ulife.vpul.upenn.edu",
+      "score": 0.0004997813689948154,
+      "is_first_party": true
+    },
+    {
+      "host": "iacuc.upenn.edu",
+      "score": 0.0004990974696650552,
+      "is_first_party": true
+    },
+    {
+      "host": "ular.upenn.edu",
+      "score": 0.0004990974696650552,
+      "is_first_party": true
+    },
+    {
+      "host": "vpse.upenn.edu",
+      "score": 0.0004981590060767923,
+      "is_first_party": true
+    },
+    {
+      "host": "arts.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "bio.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "ccat.sas.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "cinemastudies.sas.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "cis.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "college.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "cph.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "creative.writing.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "elp.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "entrepreneurship.wharton.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "esg.wharton.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "evp.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "fisher.wharton.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "foxleadership.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "home.vpul.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "huntsman.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "lsm.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "nets.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "newman.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "omnia.sas.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "purchasing.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "research.seas.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "summer.sas.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "ugradadm.seas.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "valuing-grad-students.www.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "viper.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "wolfhumanities.upenn.edu",
+      "score": 0.000496780966570184,
+      "is_first_party": true
+    },
+    {
+      "host": "optout.aboutads.info",
+      "score": 0.0004915754286400859,
+      "is_first_party": false
+    },
+    {
+      "host": "optout.networkadvertising.org",
+      "score": 0.0004915754286400859,
+      "is_first_party": false
+    },
+    {
+      "host": "tools.google.com",
+      "score": 0.0004915754286400859,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aboutads.info",
+      "score": 0.0004915754286400859,
+      "is_first_party": false
+    },
+    {
+      "host": "www.allaboutcookies.org",
+      "score": 0.0004915754286400859,
+      "is_first_party": false
+    },
+    {
+      "host": "key.admissions.upenn.edu",
+      "score": 0.0004856834473215784,
+      "is_first_party": true
+    },
+    {
+      "host": "dining.business-services.upenn.edu",
+      "score": 0.0004564512417501667,
+      "is_first_party": true
+    },
+    {
+      "host": "live.staticflickr.com",
+      "score": 0.00045306076611934014,
+      "is_first_party": false
+    },
+    {
+      "host": "mail.pennmedicine.upenn.edu",
+      "score": 0.0004386847908088266,
+      "is_first_party": true
+    },
+    {
+      "host": "titleixoffice.upenn.edu",
+      "score": 0.00043188907732582594,
+      "is_first_party": true
+    },
+    {
+      "host": "live-penn-provost-wp.pantheonsite.io",
+      "score": 0.00040707301231530864,
+      "is_first_party": false
+    },
+    {
+      "host": "ombuds.upenn.edu",
+      "score": 0.00040291333295673995,
+      "is_first_party": true
+    },
+    {
+      "host": "jobs.hr.upenn.edu",
+      "score": 0.00039914015645872963,
+      "is_first_party": true
+    },
+    {
+      "host": "www.tiktok.com",
+      "score": 0.0003834560500359906,
+      "is_first_party": false
+    },
+    {
+      "host": "facultysenate.upenn.edu",
+      "score": 0.00037157997290520836,
+      "is_first_party": true
+    },
+    {
+      "host": "secure.ethicspoint.com",
+      "score": 0.0003537812509600789,
+      "is_first_party": false
+    },
+    {
+      "host": "docs.google.com",
+      "score": 0.0003473289419085299,
+      "is_first_party": false
+    },
+    {
+      "host": "bit.ly",
+      "score": 0.0003459675271681285,
+      "is_first_party": false
+    },
+    {
+      "host": "thepenngazette.com",
+      "score": 0.00033714581190673386,
+      "is_first_party": false
+    },
+    {
+      "host": "centerforcivilrights.upenn.edu",
+      "score": 0.0003321388718842099,
+      "is_first_party": true
+    },
+    {
+      "host": "campusphilly.org",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "christianunion.org",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "pennmuslimlife.org",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "pennrelays.com",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "rainn.org",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "travel.state.gov",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "upenn.technologypublisher.com",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "wqhsradio.org",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.annenbergcenter.org",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.campusnature.com",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.citysearch.com",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.discoverphl.com",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.hilton.com",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.marriott.com",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.oncolink.org",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pennhillel.org",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pennpress.org",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.phila.gov",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.sachsarts.org",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.upennca.org",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.uwishunu.com",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.visitphilly.com",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "xpn.org",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "youtu.be",
+      "score": 0.00032771695242672395,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nacacnet.org",
+      "score": 0.0003166194331781184,
+      "is_first_party": false
+    },
+    {
+      "host": "www.youvisit.com",
+      "score": 0.0003166194331781184,
+      "is_first_party": false
+    },
+    {
+      "host": "uphs.upenn.edu",
+      "score": 0.00031452189304277326,
+      "is_first_party": true
+    },
+    {
+      "host": "faculty.upenn.edu",
+      "score": 0.00031379971999954883,
+      "is_first_party": true
+    },
+    {
+      "host": "gmail.seas.upenn.edu",
+      "score": 0.00030387440247614327,
+      "is_first_party": true
+    },
+    {
+      "host": "uphsxnet.uphs.upenn.edu",
+      "score": 0.0003027358186927609,
+      "is_first_party": true
+    },
+    {
+      "host": "pennconnects.upenn.edu",
+      "score": 0.00029665751998411575,
+      "is_first_party": true
+    },
+    {
+      "host": "idp.pennkey.upenn.edu",
+      "score": 0.00029408309105473834,
+      "is_first_party": true
+    },
+    {
+      "host": "urldefense.com",
+      "score": 0.00029264283585675243,
+      "is_first_party": false
+    },
+    {
+      "host": "apps.srfs.upenn.edu",
+      "score": 0.0002781692450583875,
+      "is_first_party": true
+    },
+    {
+      "host": "careerservices.upenn.edu",
+      "score": 0.0002645154645391435,
+      "is_first_party": true
+    },
+    {
+      "host": "hireit.isc.upenn.edu",
+      "score": 0.0002618562300860877,
+      "is_first_party": true
+    },
+    {
+      "host": "inside.isc.upenn.edu",
+      "score": 0.0002618562300860877,
+      "is_first_party": true
+    },
+    {
+      "host": "status.isc.upenn.edu",
+      "score": 0.0002618562300860877,
+      "is_first_party": true
+    },
+    {
+      "host": "pasef.provost.upenn.edu",
+      "score": 0.0002609837266017556,
+      "is_first_party": true
+    },
+    {
+      "host": "apps.research.upenn.edu",
+      "score": 0.0002505413108879138,
+      "is_first_party": true
+    },
+    {
+      "host": "ehrs.admin.upenn.edu",
+      "score": 0.00024127529850842918,
+      "is_first_party": true
+    },
+    {
+      "host": "prod.campusexpress.upenn.edu",
+      "score": 0.0002364562813268817,
+      "is_first_party": true
+    },
+    {
+      "host": "environment.upenn.edu",
+      "score": 0.00023590063100133225,
+      "is_first_party": true
+    },
+    {
+      "host": "mypenn.upenn.edu",
+      "score": 0.00022900155017317232,
+      "is_first_party": true
+    },
+    {
+      "host": "aesop.seas.upenn.edu",
+      "score": 0.00022629753891449713,
+      "is_first_party": true
+    },
+    {
+      "host": "afcri.upenn.edu",
+      "score": 0.00022629753891449713,
+      "is_first_party": true
+    },
+    {
+      "host": "africana.sas.upenn.edu",
+      "score": 0.00022629753891449713,
+      "is_first_party": true
+    },
+    {
+      "host": "ai.wharton.upenn.edu",
+      "score": 0.00022629753891449713,
+      "is_first_party": true
+    },
+    {
+      "host": "aisp.upenn.edu",
+      "score": 0.00022629753891449713,
+      "is_first_party": true
+    },
+    {
+      "host": "altinvest.wharton.upenn.edu",
+      "score": 0.00022629753891449713,
+      "is_first_party": true
+    },
+    {
+      "host": "asset.seas.upenn.edu",
+      "score": 0.00022629753891449713,
+      "is_first_party": true
+    },
+    {
+      "host": "bcfg.wharton.upenn.edu",
+      "score": 0.00022629753891449713,
+      "is_first_party": true
+    },
+    {
+      "host": "casi.ssc.upenn.edu",
+      "score": 0.00022629753891449713,
+      "is_first_party": true
+    },
+    {
+      "host": "medicalethicshealthpolicy.med.upenn.edu",
+      "score": 0.00022629753891449713,
+      "is_first_party": true
+    },
+    {
+      "host": "parcc.upenn.edu",
+      "score": 0.00022629753891449713,
+      "is_first_party": true
+    },
+    {
+      "host": "pensionresearchcouncil.wharton.upenn.edu",
+      "score": 0.00022629753891449713,
+      "is_first_party": true
+    },
+    {
+      "host": "giving.apps.upenn.edu",
+      "score": 0.00021728335689972077,
+      "is_first_party": true
+    },
+    {
+      "host": "pennantaccounts.apps.upenn.edu",
+      "score": 0.00021505165496978995,
+      "is_first_party": true
+    },
+    {
+      "host": "courseeval.apps.upenn.edu",
+      "score": 0.00021505165496978992,
+      "is_first_party": true
+    },
+    {
+      "host": "gradfunding.apps.upenn.edu",
+      "score": 0.00021505165496978992,
+      "is_first_party": true
+    },
+    {
+      "host": "impact.upenn.edu",
+      "score": 0.0002138617193484245,
+      "is_first_party": true
+    },
+    {
+      "host": "university-club.business-services.upenn.edu",
+      "score": 0.0002099896546500995,
+      "is_first_party": true
+    },
+    {
+      "host": "reset.uphs.upenn.edu",
+      "score": 0.00020684258772819773,
+      "is_first_party": true
+    },
+    {
+      "host": "webfm1.fres.upenn.edu",
+      "score": 0.00020401157479160115,
+      "is_first_party": true
+    },
+    {
+      "host": "canvas.upenn.edu",
+      "score": 0.00020230977376552948,
+      "is_first_party": true
+    },
+    {
+      "host": "sfs.upenn.edu",
+      "score": 0.00020230977376552948,
+      "is_first_party": true
+    },
+    {
+      "host": "facultyjobs.upenn.edu",
+      "score": 0.00020099681127603547,
+      "is_first_party": true
+    },
+    {
+      "host": "pennfund.upenn.edu",
+      "score": 0.0001990327821583162,
+      "is_first_party": true
+    },
+    {
+      "host": "weingartencenter.universitylife.upenn.edu",
+      "score": 0.0001967897458990351,
+      "is_first_party": true
+    },
+    {
+      "host": "oaaeop.upenn.edu",
+      "score": 0.00019492209622260322,
+      "is_first_party": true
+    },
+    {
+      "host": "orei.upenn.edu",
+      "score": 0.0001912445995479201,
+      "is_first_party": true
+    },
+    {
+      "host": "onlinelearning.upenn.edu",
+      "score": 0.00019049602473177548,
+      "is_first_party": true
+    },
+    {
+      "host": "diversity.upenn.edu",
+      "score": 0.0001893414049190228,
+      "is_first_party": true
+    },
+    {
+      "host": "darrecruiting.upenn.edu",
+      "score": 0.00018867600362526608,
+      "is_first_party": true
+    },
+    {
+      "host": "news.upenn.edu",
+      "score": 0.00018867600362526608,
+      "is_first_party": true
+    },
+    {
+      "host": "portal.hr.upenn.edu",
+      "score": 0.00018867600362526608,
+      "is_first_party": true
+    },
+    {
+      "host": "solutioncenter.upenn.edu",
+      "score": 0.00018867600362526608,
+      "is_first_party": true
+    },
+    {
+      "host": "lgbtcenter.universitylife.upenn.edu",
+      "score": 0.0001856994531968051,
+      "is_first_party": true
+    },
+    {
+      "host": "pwc.universitylife.upenn.edu",
+      "score": 0.0001856994531968051,
+      "is_first_party": true
+    },
+    {
+      "host": "portal.research.upenn.edu",
+      "score": 0.0001853202475826895,
+      "is_first_party": true
+    },
+    {
+      "host": "guides.library.upenn.edu",
+      "score": 0.00018526213733573052,
+      "is_first_party": true
+    },
+    {
+      "host": "uatpenn.apps.upenn.edu",
+      "score": 0.00018423706929569602,
+      "is_first_party": true
+    },
+    {
+      "host": "collegehouses.upenn.edu",
+      "score": 0.0001823394619998194,
+      "is_first_party": true
+    },
+    {
+      "host": "valuing-grad-students.upenn.edu",
+      "score": 0.0001821954016375023,
+      "is_first_party": true
+    },
+    {
+      "host": "campushealth.wellness.upenn.edu",
+      "score": 0.00018182336472752564,
+      "is_first_party": true
+    },
+    {
+      "host": "falconapp.fres.upenn.edu",
+      "score": 0.00018182336472752564,
+      "is_first_party": true
+    },
+    {
+      "host": "nano.upenn.edu",
+      "score": 0.00018182336472752564,
+      "is_first_party": true
+    },
+    {
+      "host": "pwcc.upenn.edu",
+      "score": 0.00018182336472752564,
+      "is_first_party": true
+    },
+    {
+      "host": "supplier-diversity.business-services.upenn.edu",
+      "score": 0.00018182336472752564,
+      "is_first_party": true
+    },
+    {
+      "host": "tririga.fres.upenn.edu",
+      "score": 0.00018182336472752564,
+      "is_first_party": true
+    },
+    {
+      "host": "weblogin.pennkey.upenn.edu",
+      "score": 0.00018182336472752564,
+      "is_first_party": true
+    },
+    {
+      "host": "travel.procurement.upenn.edu",
+      "score": 0.00018085008849347254,
+      "is_first_party": true
+    },
+    {
+      "host": "gic.universitylife.upenn.edu",
+      "score": 0.00018015430684569008,
+      "is_first_party": true
+    },
+    {
+      "host": "lacasa.universitylife.upenn.edu",
+      "score": 0.00018015430684569008,
+      "is_first_party": true
+    },
+    {
+      "host": "lps.upenn.edu",
+      "score": 0.00018015430684569008,
+      "is_first_party": true
+    },
+    {
+      "host": "paach.universitylife.upenn.edu",
+      "score": 0.00018015430684569008,
+      "is_first_party": true
+    },
+    {
+      "host": "bsdsdesk.business-services.upenn.edu",
+      "score": 0.00017929542427011996,
+      "is_first_party": true
+    },
+    {
+      "host": "osl.isc.upenn.edu",
+      "score": 0.00017929542427011996,
+      "is_first_party": true
+    },
+    {
+      "host": "researchservices.upenn.edu",
+      "score": 0.00017867322931530857,
+      "is_first_party": true
+    },
+    {
+      "host": "advising.at.upenn.edu",
+      "score": 0.00017849287362347005,
+      "is_first_party": true
+    },
+    {
+      "host": "banner-appnav-prod.isc-seo.upenn.edu",
+      "score": 0.00017849287362347005,
+      "is_first_party": true
+    },
+    {
+      "host": "banner-prod-ssb.isc-seo.upenn.edu",
+      "score": 0.00017849287362347005,
+      "is_first_party": true
+    },
+    {
+      "host": "courses.at.upenn.edu",
+      "score": 0.00017849287362347005,
+      "is_first_party": true
+    },
+    {
+      "host": "courses.upenn.edu",
+      "score": 0.00017849287362347005,
+      "is_first_party": true
+    },
+    {
+      "host": "pennant.at.upenn.edu",
+      "score": 0.00017849287362347005,
+      "is_first_party": true
+    },
+    {
+      "host": "pennantgeneral.apps.upenn.edu",
+      "score": 0.00017849287362347005,
+      "is_first_party": true
+    },
+    {
+      "host": "pennparents.upenn.edu",
+      "score": 0.00017679431564870441,
+      "is_first_party": true
+    },
+    {
+      "host": "shs.wellness.upenn.edu",
+      "score": 0.00017679431564870441,
+      "is_first_party": true
+    },
+    {
+      "host": "ogca.upenn.edu",
+      "score": 0.00017631601444530605,
+      "is_first_party": true
+    },
+    {
+      "host": "benapps.isc-seo.upenn.edu",
+      "score": 0.00017605423520320487,
+      "is_first_party": true
+    },
+    {
+      "host": "ctl.upenn.edu",
+      "score": 0.00017538569463547418,
+      "is_first_party": true
+    },
+    {
+      "host": "supporting-our-community.upenn.edu",
+      "score": 0.00017538569463547418,
+      "is_first_party": true
+    },
+    {
+      "host": "childrenscenter.upenn.edu",
+      "score": 0.0001746091604945751,
+      "is_first_party": true
+    },
+    {
+      "host": "gapsa.upenn.edu",
+      "score": 0.0001746091604945751,
+      "is_first_party": true
+    },
+    {
+      "host": "ira.upenn.edu",
+      "score": 0.0001746091604945751,
+      "is_first_party": true
+    },
+    {
+      "host": "leadership.wharton.upenn.edu",
+      "score": 0.0001746091604945751,
+      "is_first_party": true
+    },
+    {
+      "host": "makuu.universitylife.upenn.edu",
+      "score": 0.0001746091604945751,
+      "is_first_party": true
+    },
+    {
+      "host": "mba.wharton.upenn.edu",
+      "score": 0.0001746091604945751,
+      "is_first_party": true
+    },
+    {
+      "host": "sec.upenn.edu",
+      "score": 0.0001746091604945751,
+      "is_first_party": true
+    },
+    {
+      "host": "benhelps.upenn.edu",
+      "score": 0.00017377844388346506,
+      "is_first_party": true
+    },
+    {
+      "host": "aries.apps.upenn.edu",
+      "score": 0.0001736970203332024,
+      "is_first_party": true
+    },
+    {
+      "host": "inteum.pci.upenn.edu",
+      "score": 0.0001736970203332024,
+      "is_first_party": true
+    },
+    {
+      "host": "pennera.upenn.edu",
+      "score": 0.0001736970203332024,
+      "is_first_party": true
+    },
+    {
+      "host": "penners.isc-seo.upenn.edu",
+      "score": 0.0001736970203332024,
+      "is_first_party": true
+    },
+    {
+      "host": "pennws.isc-seo.upenn.edu",
+      "score": 0.0001736970203332024,
+      "is_first_party": true
+    },
+    {
+      "host": "polaris.ular.upenn.edu",
+      "score": 0.0001736970203332024,
+      "is_first_party": true
+    },
+    {
+      "host": "researchnotebooks.upenn.edu",
+      "score": 0.0001736970203332024,
+      "is_first_party": true
+    },
+    {
+      "host": "shepherd.apps.upenn.edu",
+      "score": 0.0001736970203332024,
+      "is_first_party": true
+    },
+    {
+      "host": "bobiprod.isc-seo.upenn.edu",
+      "score": 0.00017142122901346257,
+      "is_first_party": true
+    },
+    {
+      "host": "button.provost.upenn.edu",
+      "score": 0.00017142122901346257,
+      "is_first_party": true
+    },
+    {
+      "host": "linkedinlearning.upenn.edu",
+      "score": 0.00017142122901346257,
+      "is_first_party": true
+    },
+    {
+      "host": "missioncontinuity.upenn.edu",
+      "score": 0.00017142122901346257,
+      "is_first_party": true
+    },
+    {
+      "host": "payrollreallocations.upenn.edu",
+      "score": 0.00017142122901346257,
+      "is_first_party": true
+    },
+    {
+      "host": "secureshare.apps.upenn.edu",
+      "score": 0.00017142122901346257,
+      "is_first_party": true
+    },
+    {
+      "host": "supplierdiversity.procurement.upenn.edu",
+      "score": 0.00017142122901346257,
+      "is_first_party": true
+    },
+    {
+      "host": "tririgaprod.isc-seo.upenn.edu",
+      "score": 0.00017142122901346257,
+      "is_first_party": true
+    },
+    {
+      "host": "irb.upenn.edu",
+      "score": 0.00017138051723833124,
+      "is_first_party": true
+    },
+    {
+      "host": "osa.universitylife.upenn.edu",
+      "score": 0.0001705642153557758,
+      "is_first_party": true
+    },
+    {
+      "host": "spaceandevents.universitylife.upenn.edu",
+      "score": 0.0001705642153557758,
+      "is_first_party": true
+    },
+    {
+      "host": "apply.interfolio.com",
+      "score": 0.0001684409897384386,
+      "is_first_party": false
+    },
+    {
+      "host": "upenn.co1.qualtrics.com",
+      "score": 0.0001673716802164864,
+      "is_first_party": false
+    },
+    {
+      "host": "pennsolutioncenter.freshdesk.com",
+      "score": 0.00013610513923370304,
+      "is_first_party": false
+    },
+    {
+      "host": "outlook.office.com",
+      "score": 0.0001348103883326832,
+      "is_first_party": false
+    },
+    {
+      "host": "mailchi.mp",
+      "score": 0.00011818248744637993,
+      "is_first_party": false
+    },
+    {
+      "host": "wave.webaim.org",
+      "score": 0.00011338686234589299,
+      "is_first_party": false
+    },
+    {
+      "host": "www.apple.com",
+      "score": 0.0001096763440389597,
+      "is_first_party": false
+    },
+    {
+      "host": "www.microsoft.com",
+      "score": 0.0001096763440389597,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mozilla.com",
+      "score": 0.0001096763440389597,
+      "is_first_party": false
+    },
+    {
+      "host": "community.canvaslms.com",
+      "score": 9.718873915362256e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.w3.org",
+      "score": 9.718873915362256e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "pennalumni.smugmug.com",
+      "score": 8.990630404456835e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "pope.tech",
+      "score": 8.099061596135214e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.accessibilityassociation.org",
+      "score": 8.099061596135214e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aetna.com",
+      "score": 7.844795792722393e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.preservationalliance.com",
+      "score": 7.655610350439336e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "penn.bioraft.com",
+      "score": 7.221128436496905e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "upenn.app.box.com",
+      "score": 6.782052709079283e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cdc.gov",
+      "score": 6.546331222079035e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "preservationalliance.com",
+      "score": 6.379675292032781e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.arborday.org",
+      "score": 6.379675292032781e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "upenn.imodules.com",
+      "score": 5.993753602971222e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pennclub.org",
+      "score": 5.993753602971222e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "conlab.org",
+      "score": 5.723352477103704e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ahead-penn.org",
+      "score": 5.723352477103704e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.annenbergpublicpolicycenter.org",
+      "score": 5.723352477103704e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "penn.aimsparking.com",
+      "score": 5.1795155108111354e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "aiapa.org",
+      "score": 5.103740233626225e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.usgbc.org",
+      "score": 5.103740233626225e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "acrobat.adobe.com",
+      "score": 4.849532867324104e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "hwkn.com",
+      "score": 4.849532867324104e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "land-collective.com",
+      "score": 4.849532867324104e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "luma.com",
+      "score": 4.849532867324104e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "moranstudio.com",
+      "score": 4.849532867324104e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "view.ceros.com",
+      "score": 4.849532867324104e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ottoarchive.com",
+      "score": 4.849532867324104e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "penn-auth.aimsparking.com",
+      "score": 4.1563744981451496e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "upenn-gsc.libcal.com",
+      "score": 3.996727155439044e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ibxweb.healthsparq.com",
+      "score": 3.9223978963611964e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.eeoc.gov",
+      "score": 3.881602445780501e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "greenbuildingunited.org",
+      "score": 3.827805175219668e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aiaphiladelphia.org",
+      "score": 3.827805175219668e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bizjournals.com",
+      "score": 3.827805175219668e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "maphub.net",
+      "score": 3.7940573447627524e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "accessibilityinsights.io",
+      "score": 3.2396246384540855e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "alphagov.github.io",
+      "score": 3.2396246384540855e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "calendly.com",
+      "score": 3.2396246384540855e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "codepen.io",
+      "score": 3.2396246384540855e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "contrast-triangle.com",
+      "score": 3.2396246384540855e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "css-tricks.com",
+      "score": 3.2396246384540855e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "developer.paciellogroup.com",
+      "score": 3.2396246384540855e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "github.com",
+      "score": 3.2396246384540855e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "home.barclays",
+      "score": 3.2396246384540855e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "cs-radio.simplecast.com",
+      "score": 2.996876801485611e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pbc.guru",
+      "score": 2.996876801485611e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "auth.tiaa.org",
+      "score": 2.9040848961815943e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.centos.org",
+      "score": 2.890163976343018e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.va.gov",
+      "score": 2.7725731755575008e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "archinect.com",
+      "score": 2.5518701168131123e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "archpaper.com",
+      "score": 2.5518701168131123e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "bicyclecoalition.org",
+      "score": 2.5518701168131123e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "gbca.com",
+      "score": 2.5518701168131123e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "safety.fhwa.dot.gov",
+      "score": 2.5518701168131123e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "technical.ly",
+      "score": 2.5518701168131123e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.acementor.org",
+      "score": 2.5518701168131123e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aianys.org",
+      "score": 2.5518701168131123e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.architectmagazine.com",
+      "score": 2.5518701168131123e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.gobrick.com",
+      "score": 2.5518701168131123e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.paonecall.org",
+      "score": 2.5518701168131123e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.universitycity.org",
+      "score": 2.4085991787143688e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "goo.gl",
+      "score": 2.0462820253319712e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "upenn.us13.list-manage.com",
+      "score": 1.998363577719522e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "app.e2ma.net",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "chronicle.com",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "finders.ibx.com",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "participant.wageworks.com",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "signup.e2ma.net",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "teams.microsoft.com",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "wd1.myworkdaysite.com",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.davisvision.com",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.forbes.com",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.healthequity.com",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.hercjobs.org",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.metlife.com",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.vsp.com",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.worldatwork.org",
+      "score": 1.9611989481805982e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "get.adobe.com",
+      "score": 1.8304496935180562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dol.gov",
+      "score": 1.6635439053345007e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "a11y-style-guide.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "a11ysupport.io",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "accessibility.blog.gov.uk",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "accessibility.georgetown.edu",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "accessible-colors.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "accessible-pdf.info",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "amberwilson.co.uk",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "bitsofco.de",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "blog.benmyers.dev",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "blog.pope.tech",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "chrispederick.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "developer.mozilla.org",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "isner.github.io",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "it.cornell.edu",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "leonardocolor.io",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "medium.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "sbctc.instructure.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "udlguidelines.cast.org",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "validator.w3.org",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "whocanuse.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.24a11y.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.adobe.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.deque.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.digitala11y.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.doi.gov",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.drupal.org",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.hemingwayapp.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.hhs.gov",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.html5accessibility.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.lullabot.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nngroup.com",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.rgd.ca",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.section508.gov",
+      "score": 1.6198123192270427e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "netsecure.adp.com",
+      "score": 1.5173055152235923e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.workday.com",
+      "score": 1.5173055152235923e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "apache.org",
+      "score": 1.445081988171509e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "centos.org",
+      "score": 1.445081988171509e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "httpd.apache.org",
+      "score": 1.445081988171509e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.internic.net",
+      "score": 1.445081988171509e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "app.jawntpass.com",
+      "score": 1.3854581660483831e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "penntransit.tripshot.com",
+      "score": 1.3854581660483831e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "calendar.google.com",
+      "score": 1.3131387494042214e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "nc-sara.org",
+      "score": 1.3131387494042214e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "pa-brebes.go.id",
+      "score": 1.3131387494042214e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "sdfrportal.sandiego.gov",
+      "score": 1.3131387494042214e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.education.pa.gov",
+      "score": 1.3131387494042214e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ed.gov",
+      "score": 1.2797146652960978e-05,
+      "is_first_party": false
+    },
+    {
+      "host": ", the home of penn's department of management and technology,",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "aashe.link",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "acementorphilly.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "aiaphiladelphia.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "aiapv.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "americasgardencapital.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "arbnet.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "arborday.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "architizer.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "bikeleague.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "born.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "boyawards.interiordesign.net",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "carpentershall.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "chi-athenaeum.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "design.museaward.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "docomomo-us.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "dvgbc.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "dvoc.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "enr.construction.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "http",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "international-sustainable-campus-network.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "leadership in energy and environmental design",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "live-upe.pantheonsite.io",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "macchapter.cmaanet.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "members.gbca.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "mydigitalpublication.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "myemail.constantcontact.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "new.usgbc.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "no-smoke.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "oaa.on.ca",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "online.wsj.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "pasolarcenter.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "penn museum phase 1",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "philadelphia.citybizlist.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "philadelphia.uli.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "philly.curbed.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "phoenixawards.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "potomacasla.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "preservationpa.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "shopsatpenn.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "travel.nationalgeographic.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ucityhistorical.wpcomstaging.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "university meeting and guest house",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "upenn.bplogix.net",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "whmyers.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "whyy.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aashe.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aia.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aiadallas.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aiapa.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aiava.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aisc.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.arbnet.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.archpaper.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.asla.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bicyclecoalition.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.buzzfeed.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.chi-athenaeum.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.codaworx.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.docomomo-us.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dvgbc.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.enr.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.fastcodesign.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.gbca.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.icri.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.iida.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.insightintodiversity.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.internationalarchitectureawards.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.njasla.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pabigtrees.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.philadelphiainteriordesignawards.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.phillytrib.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.princetonreview.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.sara-national.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.seaony.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.sierraclub.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.sustainablesites.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.traditionalbuilding.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.wallpaper.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.wired.com",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.woodworksinnovationnetwork.org",
+      "score": 1.2759350584065562e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.charities.org",
+      "score": 1.2592857861579217e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "upenn.zoom.us",
+      "score": 1.1090292702230005e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pa.gov",
+      "score": 1.1090292702230005e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "app.member.virginpulse.com",
+      "score": 9.428859480009958e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "iam-api.interfolio.com",
+      "score": 9.428859480009958e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "curator.io",
+      "score": 9.12528737070228e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "upenn-frc.libcal.com",
+      "score": 9.12528737070228e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bluemountain.com",
+      "score": 8.547546062809926e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.paperlesspost.com",
+      "score": 8.547546062809926e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.punchbowl.com",
+      "score": 8.547546062809926e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "grants.nih.gov",
+      "score": 7.252000301845975e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aamc.org",
+      "score": 7.252000301845975e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aau.edu",
+      "score": 7.252000301845975e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.acenet.edu",
+      "score": 7.252000301845975e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.penncobalt.com",
+      "score": 7.252000301845975e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.whitehouse.gov",
+      "score": 7.252000301845975e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.universityhonorcouncil.org",
+      "score": 6.321680492014114e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "university-of-pennsylvania.cafebonappetit.com",
+      "score": 5.79079933597285e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bamco.com",
+      "score": 5.79079933597285e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "benefits.va.gov",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "dbhids.org",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "nvf.org",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "philadelphiabar.org",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "postings.govdocs.com",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "projecthome.org",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "recruitmilitary.com",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "sites.google.com",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "studentveterans.org",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "troopstoteachers.mil",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.accreditedschoolsonline.org",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.acp-usa.org",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ada.gov",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.asbestos.com",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.collegefactual.com",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.federalregister.gov",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.jevshumanservices.org",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.justice.gov",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.osc.gov",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pennlawveterans.org",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.philafound.org",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.phrc.pa.gov",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.thesierragroup.com",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.whartonveterans.org",
+      "score": 5.545146351115002e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "performancemanager4.successfactors.com",
+      "score": 4.633006189742311e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "benhelps.freshservice.com",
+      "score": 2.3572148700024894e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "planning-a183374.pbcs.us2.oraclecloud.com",
+      "score": 2.3572148700024894e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "upenndar-compass.my.salesforce.com",
+      "score": 2.3572148700024894e-06,
+      "is_first_party": false
+    }
+  ]
+}

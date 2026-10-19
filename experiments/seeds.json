@@ -1,0 +1,10 @@
+[
+  {"seed": "cmu.edu", "aliases": []},
+  {"seed": "stanford.edu", "aliases": []},
+  {"seed": "mit.edu", "aliases": []},
+  {"seed": "umich.edu", "aliases": []},
+  {"seed": "berkeley.edu", "aliases": []},
+  {"seed": "upenn.edu", "aliases": []},
+  {"seed": "washington.edu", "aliases": []},
+  {"seed": "duke.edu", "aliases": []}
+]

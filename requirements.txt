@@ -3,3 +3,8 @@ beautifulsoup4
 numpy
 openai
 python-dotenv
+playwright
+anthropic
+matplotlib
+pytest
+pytest-asyncio

@@ -1,0 +1,1990 @@
+{
+  "seed": "cmu.edu",
+  "aliases": [],
+  "crawl_date": "2026-10-18",
+  "crawl_stats": {
+    "total_nodes": 395,
+    "first_party_hosts": 134,
+    "external_hosts": 261,
+    "total_edge_weight": 12871,
+    "subdomains": 133,
+    "pages_crawled": 500
+  },
+  "ranking": [
+    {
+      "host": "cmu.edu",
+      "score": 0.6197311019988972,
+      "is_first_party": true
+    },
+    {
+      "host": "bookstore.web.cmu.edu",
+      "score": 0.039737579201403736,
+      "is_first_party": true
+    },
+    {
+      "host": "www.instagram.com",
+      "score": 0.018502862755143176,
+      "is_first_party": false
+    },
+    {
+      "host": "www.facebook.com",
+      "score": 0.013715410576737336,
+      "is_first_party": false
+    },
+    {
+      "host": "heinz.cmu.edu",
+      "score": 0.01302825264609062,
+      "is_first_party": true
+    },
+    {
+      "host": "athletics.cmu.edu",
+      "score": 0.01218018326868401,
+      "is_first_party": true
+    },
+    {
+      "host": "x.com",
+      "score": 0.009391179076948253,
+      "is_first_party": false
+    },
+    {
+      "host": "cs.cmu.edu",
+      "score": 0.00900913769510309,
+      "is_first_party": true
+    },
+    {
+      "host": "library.cmu.edu",
+      "score": 0.008936025137655209,
+      "is_first_party": true
+    },
+    {
+      "host": "ini.cmu.edu",
+      "score": 0.008924010371931518,
+      "is_first_party": true
+    },
+    {
+      "host": "www.linkedin.com",
+      "score": 0.008682542551521165,
+      "is_first_party": false
+    },
+    {
+      "host": "coursecatalog.web.cmu.edu",
+      "score": 0.008417149865316276,
+      "is_first_party": true
+    },
+    {
+      "host": "hcii.cmu.edu",
+      "score": 0.008223309365196763,
+      "is_first_party": true
+    },
+    {
+      "host": "www.youtube.com",
+      "score": 0.007713191306490983,
+      "is_first_party": false
+    },
+    {
+      "host": "design.cmu.edu",
+      "score": 0.0077093391125020675,
+      "is_first_party": true
+    },
+    {
+      "host": "ideate.cmu.edu",
+      "score": 0.007561771010831239,
+      "is_first_party": true
+    },
+    {
+      "host": "drama.cmu.edu",
+      "score": 0.007479766951768752,
+      "is_first_party": true
+    },
+    {
+      "host": "engineering.cmu.edu",
+      "score": 0.007088676823542445,
+      "is_first_party": true
+    },
+    {
+      "host": "qatar.cmu.edu",
+      "score": 0.006414729418009731,
+      "is_first_party": true
+    },
+    {
+      "host": "events.cmu.edu",
+      "score": 0.005416992377893932,
+      "is_first_party": true
+    },
+    {
+      "host": "community.cmu.edu",
+      "score": 0.004581896144335029,
+      "is_first_party": true
+    },
+    {
+      "host": "enr-apps.as.cmu.edu",
+      "score": 0.0038424748758789,
+      "is_first_party": true
+    },
+    {
+      "host": "tartanconnect.cmu.edu",
+      "score": 0.003838998211486,
+      "is_first_party": true
+    },
+    {
+      "host": "etc.cmu.edu",
+      "score": 0.003413213825219168,
+      "is_first_party": true
+    },
+    {
+      "host": "bsky.app",
+      "score": 0.0031975714827037044,
+      "is_first_party": false
+    },
+    {
+      "host": "twitter.com",
+      "score": 0.0031641780059374473,
+      "is_first_party": false
+    },
+    {
+      "host": "ml.cmu.edu",
+      "score": 0.0031411018690839895,
+      "is_first_party": true
+    },
+    {
+      "host": "compbio.cmu.edu",
+      "score": 0.0030729192948932174,
+      "is_first_party": true
+    },
+    {
+      "host": "africa.engineering.cmu.edu",
+      "score": 0.0030120797929941217,
+      "is_first_party": true
+    },
+    {
+      "host": "oli.cmu.edu",
+      "score": 0.0029068885726879655,
+      "is_first_party": true
+    },
+    {
+      "host": "www.visitpittsburgh.com",
+      "score": 0.0025580298696081622,
+      "is_first_party": false
+    },
+    {
+      "host": "miami.cmu.edu",
+      "score": 0.0024763767548683516,
+      "is_first_party": true
+    },
+    {
+      "host": "cbd.cmu.edu",
+      "score": 0.0024549137413613807,
+      "is_first_party": true
+    },
+    {
+      "host": "privacy.cs.cmu.edu",
+      "score": 0.0024408509630622775,
+      "is_first_party": true
+    },
+    {
+      "host": "givenow.cmu.edu",
+      "score": 0.002309656027287467,
+      "is_first_party": true
+    },
+    {
+      "host": "mse.s3d.cmu.edu",
+      "score": 0.0021360833972978266,
+      "is_first_party": true
+    },
+    {
+      "host": "execed.s3d.cmu.edu",
+      "score": 0.0018574608240483007,
+      "is_first_party": true
+    },
+    {
+      "host": "www.usnews.com",
+      "score": 0.0018426003026696303,
+      "is_first_party": false
+    },
+    {
+      "host": "sv.cmu.edu",
+      "score": 0.0018101223285493164,
+      "is_first_party": true
+    },
+    {
+      "host": "s3.andrew.cmu.edu",
+      "score": 0.0016278060821687962,
+      "is_first_party": true
+    },
+    {
+      "host": "cit.cmu.edu",
+      "score": 0.0015283141393213498,
+      "is_first_party": true
+    },
+    {
+      "host": "www.google.com",
+      "score": 0.0015135028726331792,
+      "is_first_party": false
+    },
+    {
+      "host": "research.cmu.edu",
+      "score": 0.0014954346326794652,
+      "is_first_party": true
+    },
+    {
+      "host": "www.nsf.gov",
+      "score": 0.0014689536235949784,
+      "is_first_party": false
+    },
+    {
+      "host": "www.princetonreview.com",
+      "score": 0.001461731354061807,
+      "is_first_party": false
+    },
+    {
+      "host": "youtube.com",
+      "score": 0.001461731354061807,
+      "is_first_party": false
+    },
+    {
+      "host": "computing.cs.cmu.edu",
+      "score": 0.0013800727866448233,
+      "is_first_party": true
+    },
+    {
+      "host": "scholars.cmu.edu",
+      "score": 0.0013686239562988767,
+      "is_first_party": true
+    },
+    {
+      "host": "s3.as.cmu.edu",
+      "score": 0.001364674195630395,
+      "is_first_party": true
+    },
+    {
+      "host": "ai.cmu.edu",
+      "score": 0.0013438495844514925,
+      "is_first_party": true
+    },
+    {
+      "host": "soa.cmu.edu",
+      "score": 0.001318674302975219,
+      "is_first_party": true
+    },
+    {
+      "host": "ri.cmu.edu",
+      "score": 0.0012971553699473917,
+      "is_first_party": true
+    },
+    {
+      "host": "magazine.cs.cmu.edu",
+      "score": 0.0012815626691484814,
+      "is_first_party": true
+    },
+    {
+      "host": "giving.cmu.edu",
+      "score": 0.0011705705463806327,
+      "is_first_party": true
+    },
+    {
+      "host": "cnbc.cmu.edu",
+      "score": 0.0011563378285793361,
+      "is_first_party": true
+    },
+    {
+      "host": "exec.cs.cmu.edu",
+      "score": 0.0011492509080791463,
+      "is_first_party": true
+    },
+    {
+      "host": "scsdean.cs.cmu.edu",
+      "score": 0.0011401581139994328,
+      "is_first_party": true
+    },
+    {
+      "host": "architecture.cmu.edu",
+      "score": 0.001135957883717493,
+      "is_first_party": true
+    },
+    {
+      "host": "www.givecampus.com",
+      "score": 0.001111026218776588,
+      "is_first_party": false
+    },
+    {
+      "host": "www.animationcareerreview.com",
+      "score": 0.0010962985155463555,
+      "is_first_party": false
+    },
+    {
+      "host": "www.flickr.com",
+      "score": 0.0010137644192084485,
+      "is_first_party": false
+    },
+    {
+      "host": "s3d.cmu.edu",
+      "score": 0.0009810425612013852,
+      "is_first_party": true
+    },
+    {
+      "host": "ms-product-management.cmu.edu",
+      "score": 0.0009784445018555256,
+      "is_first_party": true
+    },
+    {
+      "host": "cfa.cmu.edu",
+      "score": 0.0009606373956842484,
+      "is_first_party": true
+    },
+    {
+      "host": "email.cmu.edu",
+      "score": 0.0009532414644597666,
+      "is_first_party": true
+    },
+    {
+      "host": "www.lunargala.org",
+      "score": 0.0009135820962886293,
+      "is_first_party": false
+    },
+    {
+      "host": "offcampus.housing.cmu.edu",
+      "score": 0.0009043209630130719,
+      "is_first_party": true
+    },
+    {
+      "host": "cee.engineering.cmu.edu",
+      "score": 0.0008784986173140654,
+      "is_first_party": true
+    },
+    {
+      "host": "alumni.cmu.edu",
+      "score": 0.0008749988389338503,
+      "is_first_party": true
+    },
+    {
+      "host": "academy.cs.cmu.edu",
+      "score": 0.0007771038828663767,
+      "is_first_party": true
+    },
+    {
+      "host": "kilthub.cmu.edu",
+      "score": 0.0007743046048691757,
+      "is_first_party": true
+    },
+    {
+      "host": "cheme.engineering.cmu.edu",
+      "score": 0.0007705250452020409,
+      "is_first_party": true
+    },
+    {
+      "host": "energy.cmu.edu",
+      "score": 0.0007705250452020409,
+      "is_first_party": true
+    },
+    {
+      "host": "epp.engineering.cmu.edu",
+      "score": 0.0007705250452020409,
+      "is_first_party": true
+    },
+    {
+      "host": "www.threads.com",
+      "score": 0.0007374445146952393,
+      "is_first_party": false
+    },
+    {
+      "host": "nam.edu",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "nationalbook.org",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aaas.org",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.amacad.org",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.epa.gov",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.fi.edu",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.gf.org",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.hollywoodreporter.com",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.hondafoundation.jp",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.macfound.org",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nae.edu",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nasonline.org",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.springcarnival.org",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.timeshighereducation.com",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "www.uspto.gov",
+      "score": 0.0007308656770309035,
+      "is_first_party": false
+    },
+    {
+      "host": "sei.cmu.edu",
+      "score": 0.0007205452894460005,
+      "is_first_party": true
+    },
+    {
+      "host": "www.threads.net",
+      "score": 0.0007041155960686778,
+      "is_first_party": false
+    },
+    {
+      "host": "ece.cmu.edu",
+      "score": 0.0007023610357206754,
+      "is_first_party": true
+    },
+    {
+      "host": "meche.engineering.cmu.edu",
+      "score": 0.0006957821980563396,
+      "is_first_party": true
+    },
+    {
+      "host": "rainier.accessiblelearning.com",
+      "score": 0.0006909579207400061,
+      "is_first_party": false
+    },
+    {
+      "host": "building.cs.cmu.edu",
+      "score": 0.0006788138230834926,
+      "is_first_party": true
+    },
+    {
+      "host": "csd.cmu.edu",
+      "score": 0.0006733335155806808,
+      "is_first_party": true
+    },
+    {
+      "host": "guides.library.cmu.edu",
+      "score": 0.000670348307075619,
+      "is_first_party": true
+    },
+    {
+      "host": "cylab.cmu.edu",
+      "score": 0.0006219896780036655,
+      "is_first_party": true
+    },
+    {
+      "host": "servicenow.cmu.edu",
+      "score": 0.0006002744494796943,
+      "is_first_party": true
+    },
+    {
+      "host": "labs.bio.cmu.edu",
+      "score": 0.0005950308954774865,
+      "is_first_party": true
+    },
+    {
+      "host": "admission.cmu.edu",
+      "score": 0.000587808625944315,
+      "is_first_party": true
+    },
+    {
+      "host": "art.cmu.edu",
+      "score": 0.000587808625944315,
+      "is_first_party": true
+    },
+    {
+      "host": "cbdr.cmu.edu",
+      "score": 0.000587808625944315,
+      "is_first_party": true
+    },
+    {
+      "host": "click.connect.cmu.edu",
+      "score": 0.000587808625944315,
+      "is_first_party": true
+    },
+    {
+      "host": "particulate-matter.cmu.edu",
+      "score": 0.000587808625944315,
+      "is_first_party": true
+    },
+    {
+      "host": "requests.eberly.cmu.edu",
+      "score": 0.000587808625944315,
+      "is_first_party": true
+    },
+    {
+      "host": "cmuportugal.org",
+      "score": 0.0005876222837591928,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mdphd.pitt.edu",
+      "score": 0.0005613069331018494,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.wd115.myworkdayjobs.com",
+      "score": 0.0005481492577731777,
+      "is_first_party": false
+    },
+    {
+      "host": "docs.google.com",
+      "score": 0.0005481492577731777,
+      "is_first_party": false
+    },
+    {
+      "host": "the-tartan.org",
+      "score": 0.0005481492577731777,
+      "is_first_party": false
+    },
+    {
+      "host": "tour.concept3d.com",
+      "score": 0.0005481492577731777,
+      "is_first_party": false
+    },
+    {
+      "host": "www.afrotc.com",
+      "score": 0.0005481492577731777,
+      "is_first_party": false
+    },
+    {
+      "host": "www.wrct.org",
+      "score": 0.0005481492577731777,
+      "is_first_party": false
+    },
+    {
+      "host": "mse.engineering.cmu.edu",
+      "score": 0.0005130657787986138,
+      "is_first_party": true
+    },
+    {
+      "host": "youtu.be",
+      "score": 0.0005014915069541003,
+      "is_first_party": false
+    },
+    {
+      "host": "lti.cs.cmu.edu",
+      "score": 0.0004577229080012758,
+      "is_first_party": true
+    },
+    {
+      "host": "scs.cmu.edu",
+      "score": 0.0004557430252483139,
+      "is_first_party": true
+    },
+    {
+      "host": "digitalcollections.library.cmu.edu",
+      "score": 0.0004494677940334795,
+      "is_first_party": true
+    },
+    {
+      "host": "ai-science-foundry.cmu.edu",
+      "score": 0.00041953674575293204,
+      "is_first_party": true
+    },
+    {
+      "host": "csd.cs.cmu.edu",
+      "score": 0.00041167104435092496,
+      "is_first_party": true
+    },
+    {
+      "host": "bio.cmu.edu",
+      "score": 0.00040509220668658914,
+      "is_first_party": true
+    },
+    {
+      "host": "canvas.cmu.edu",
+      "score": 0.00040509220668658914,
+      "is_first_party": true
+    },
+    {
+      "host": "carnegiebosch.cmu.edu",
+      "score": 0.00040509220668658914,
+      "is_first_party": true
+    },
+    {
+      "host": "code.arc.cmu.edu",
+      "score": 0.00040509220668658914,
+      "is_first_party": true
+    },
+    {
+      "host": "contrib.andrew.cmu.edu",
+      "score": 0.00040509220668658914,
+      "is_first_party": true
+    },
+    {
+      "host": "execed.isri.cmu.edu",
+      "score": 0.00040509220668658914,
+      "is_first_party": true
+    },
+    {
+      "host": "magazine.mcs.cmu.edu",
+      "score": 0.00040509220668658914,
+      "is_first_party": true
+    },
+    {
+      "host": "tepper.cmu.edu",
+      "score": 0.00040509220668658914,
+      "is_first_party": true
+    },
+    {
+      "host": "tepperspectives.cmu.edu",
+      "score": 0.00040509220668658914,
+      "is_first_party": true
+    },
+    {
+      "host": "www.psc.edu",
+      "score": 0.0003792339457129591,
+      "is_first_party": false
+    },
+    {
+      "host": "execonline.cs.cmu.edu",
+      "score": 0.0003786739109355196,
+      "is_first_party": true
+    },
+    {
+      "host": "cmu.joinhandshake.com",
+      "score": 0.00037859051384412344,
+      "is_first_party": false
+    },
+    {
+      "host": "apply.heinz.cmu.edu",
+      "score": 0.0003730426547737672,
+      "is_first_party": true
+    },
+    {
+      "host": "admissions.scs.cmu.edu",
+      "score": 0.0003724228270476379,
+      "is_first_party": true
+    },
+    {
+      "host": "25live.collegenet.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "amturing.acm.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "crawl.trustarts.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "csppgh.squarespace.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "culturaldistrict.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "goldwaterscholarship.gov",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "map.concept3d.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "napawash.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "nces.ed.gov",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "pittsburghparks.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "studioforcreativeinquiry.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "theconversation.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "thetartan.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "us.fulbrightonline.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "wallethub.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "wd5.myworkday.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.apartments.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.aviary.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.backstage.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bloomberg.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bridge-center.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.carnegiemnh.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.carnegiesciencecenter.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.carvt.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.churchillscholarship.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cmoa.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.collegedata.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.energy.gov",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.forbes.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.gatescambridge.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.griffincatalyst.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.heinzhistorycenter.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.marshallscholarship.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mattress.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.napawash.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.niche.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.phipps.conservatory.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pittsburghpa.gov",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pittsburghzoo.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.realtor.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.rhodeshouse.ox.ac.uk",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.shanghairanking.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.topuniversities.com",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.truman.gov",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.udall.gov",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "www.warhol.org",
+      "score": 0.00036543283851545174,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.primo.exlibrisgroup.com",
+      "score": 0.0003624006299996049,
+      "is_first_party": false
+    },
+    {
+      "host": "gradadmissions.engineering.cmu.edu",
+      "score": 0.00034333332243021347,
+      "is_first_party": true
+    },
+    {
+      "host": "cmu.libcal.com",
+      "score": 0.00033281690510167795,
+      "is_first_party": false
+    },
+    {
+      "host": "bme.cmu.edu",
+      "score": 0.0003303493595408878,
+      "is_first_party": true
+    },
+    {
+      "host": "reports-archive.adm.cs.cmu.edu",
+      "score": 0.00031907846964093897,
+      "is_first_party": true
+    },
+    {
+      "host": "apply.etc.cmu.edu",
+      "score": 0.0003110984709642629,
+      "is_first_party": true
+    },
+    {
+      "host": "curator.io",
+      "score": 0.00029571656976640383,
+      "is_first_party": false
+    },
+    {
+      "host": "s3d.cs.cmu.edu",
+      "score": 0.00028424163190957893,
+      "is_first_party": true
+    },
+    {
+      "host": "exhibits.library.cmu.edu",
+      "score": 0.0002815432372247172,
+      "is_first_party": true
+    },
+    {
+      "host": "www.prestosports.com",
+      "score": 0.00027704779864506343,
+      "is_first_party": false
+    },
+    {
+      "host": "lti.cmu.edu",
+      "score": 0.00027500648874355,
+      "is_first_party": true
+    },
+    {
+      "host": "instagram.com",
+      "score": 0.00026878714970386263,
+      "is_first_party": false
+    },
+    {
+      "host": "unilib.library.cmu.edu",
+      "score": 0.00026566713891897976,
+      "is_first_party": true
+    },
+    {
+      "host": "give.cmu.edu",
+      "score": 0.00026493652066570685,
+      "is_first_party": true
+    },
+    {
+      "host": "execed.tepper.cmu.edu",
+      "score": 0.0002614503183055274,
+      "is_first_party": true
+    },
+    {
+      "host": "execprograms.cs.cmu.edu",
+      "score": 0.0002614503183055274,
+      "is_first_party": true
+    },
+    {
+      "host": "apply.online.cmu.edu",
+      "score": 0.00026017932500222417,
+      "is_first_party": true
+    },
+    {
+      "host": "msas.cbd.cmu.edu",
+      "score": 0.00025240043048990805,
+      "is_first_party": true
+    },
+    {
+      "host": "nrec.ri.cmu.edu",
+      "score": 0.0002499780018238779,
+      "is_first_party": true
+    },
+    {
+      "host": "doi.library.cmu.edu",
+      "score": 0.0002445635811023085,
+      "is_first_party": true
+    },
+    {
+      "host": "directory.andrew.cmu.edu",
+      "score": 0.0002429956682157627,
+      "is_first_party": true
+    },
+    {
+      "host": "pdl.cmu.edu",
+      "score": 0.0002421123004218708,
+      "is_first_party": true
+    },
+    {
+      "host": "regalia.fmcs.cmu.edu",
+      "score": 0.0002403709618122362,
+      "is_first_party": true
+    },
+    {
+      "host": "webapps.fmcs.cmu.edu",
+      "score": 0.0002403709618122362,
+      "is_first_party": true
+    },
+    {
+      "host": "cloud.connect.cmu.edu",
+      "score": 0.0002401203241359432,
+      "is_first_party": true
+    },
+    {
+      "host": "help.etc.cmu.edu",
+      "score": 0.0002401203241359432,
+      "is_first_party": true
+    },
+    {
+      "host": "forms.cs.cmu.edu",
+      "score": 0.00023840333603037452,
+      "is_first_party": true
+    },
+    {
+      "host": "rooms.cs.cmu.edu",
+      "score": 0.00023840333603037452,
+      "is_first_party": true
+    },
+    {
+      "host": "illiad.library.cmu.edu",
+      "score": 0.00023716764987782678,
+      "is_first_party": true
+    },
+    {
+      "host": "miller-ica.cmu.edu",
+      "score": 0.00023716764987782678,
+      "is_first_party": true
+    },
+    {
+      "host": "diva.library.cmu.edu",
+      "score": 0.000235533462757535,
+      "is_first_party": true
+    },
+    {
+      "host": "mse.isri.cmu.edu",
+      "score": 0.000235533462757535,
+      "is_first_party": true
+    },
+    {
+      "host": "apps.studentaffairs.cmu.edu",
+      "score": 0.00022977171865334504,
+      "is_first_party": true
+    },
+    {
+      "host": "deco.library.cmu.edu",
+      "score": 0.00022977171865334504,
+      "is_first_party": true
+    },
+    {
+      "host": "findingaids.library.cmu.edu",
+      "score": 0.00022977171865334504,
+      "is_first_party": true
+    },
+    {
+      "host": "makepossible.cmu.edu",
+      "score": 0.00022977171865334504,
+      "is_first_party": true
+    },
+    {
+      "host": "omeka.library.cmu.edu",
+      "score": 0.00022977171865334504,
+      "is_first_party": true
+    },
+    {
+      "host": "metamobility.cmu.edu",
+      "score": 0.00022959805696203475,
+      "is_first_party": true
+    },
+    {
+      "host": "admission.enrollment.cmu.edu",
+      "score": 0.00022895462509319912,
+      "is_first_party": true
+    },
+    {
+      "host": "bootcamps.cs.cmu.edu",
+      "score": 0.00022895462509319912,
+      "is_first_party": true
+    },
+    {
+      "host": "catalyst.cs.cmu.edu",
+      "score": 0.00022895462509319912,
+      "is_first_party": true
+    },
+    {
+      "host": "db.cs.cmu.edu",
+      "score": 0.00022895462509319912,
+      "is_first_party": true
+    },
+    {
+      "host": "delphi.cmu.edu",
+      "score": 0.00022895462509319912,
+      "is_first_party": true
+    },
+    {
+      "host": "lostandfound.andrew.cmu.edu",
+      "score": 0.00022895462509319912,
+      "is_first_party": true
+    },
+    {
+      "host": "metals.hcii.cmu.edu",
+      "score": 0.00022895462509319912,
+      "is_first_party": true
+    },
+    {
+      "host": "mrsd.ri.cmu.edu",
+      "score": 0.00022895462509319912,
+      "is_first_party": true
+    },
+    {
+      "host": "rec.ri.cmu.edu",
+      "score": 0.00022895462509319912,
+      "is_first_party": true
+    },
+    {
+      "host": "sc.cs.cmu.edu",
+      "score": 0.00022895462509319912,
+      "is_first_party": true
+    },
+    {
+      "host": "se-phd.s3d.cmu.edu",
+      "score": 0.00022895462509319912,
+      "is_first_party": true
+    },
+    {
+      "host": "iapp.org",
+      "score": 0.00021098881207417102,
+      "is_first_party": false
+    },
+    {
+      "host": "vimeo.com",
+      "score": 0.0001901123504822076,
+      "is_first_party": false
+    },
+    {
+      "host": "accounts.google.com",
+      "score": 0.00018699417381166033,
+      "is_first_party": false
+    },
+    {
+      "host": "amt-lab.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "chartwellshighered.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "cmist-cmu.bsky.social",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.hracuity.net",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.welcometocollege.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.widencollective.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "cmubuggy.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "cmueats.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "craidl.group",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "dietrich college of humanities and social sciences",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "embodiedcomputations.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "endsexualviolencect.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "flypittsburgh.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "go.oncehub.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "heatmap.news",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "larc.smu.edu.sg",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "online.rainn.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "secure.ethicspoint.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "systemsneurosciencecmu.wordpress.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "taasa.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "transitiondesigninstitute.net",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "travel.state.gov",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "ug2.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "wd115.myworkday.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.2026.lunargala.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ccrl-lab.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.citadel.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cmuems.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.fcasv.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.gatesfoundation.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.glassdoor.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.huntbotanical.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.icasa.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.indeed.com",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.janedoe.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.learnvia.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mcasa.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.njcasa.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nwh.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nyscasa.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.oaesv.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pcar.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.peaceoverviolence.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.providence.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.rideprt.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.smoc.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.thehotline.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.vsdvalliance.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.wcsap.org",
+      "score": 0.00018271641925772587,
+      "is_first_party": false
+    },
+    {
+      "host": "www.carnegiemelloncoursematerials.com",
+      "score": 0.00014396139506698324,
+      "is_first_party": false
+    },
+    {
+      "host": "helpcenter.readyeducation.com",
+      "score": 0.00014187602087073814,
+      "is_first_party": false
+    },
+    {
+      "host": "www.readyeducation.com",
+      "score": 0.00014187602087073814,
+      "is_first_party": false
+    },
+    {
+      "host": "symplectic.co.uk",
+      "score": 0.00011633303629069194,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bppe.ca.gov",
+      "score": 0.00011300015050867794,
+      "is_first_party": false
+    },
+    {
+      "host": "forms.gle",
+      "score": 0.00010550221820248854,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.libanswers.com",
+      "score": 0.00010354303714274426,
+      "is_first_party": false
+    },
+    {
+      "host": "www.commonapp.org",
+      "score": 9.79494611887675e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.walltowall.com",
+      "score": 9.349708690583016e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.twitter.com",
+      "score": 9.133761312695746e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "olihelp.freshdesk.com",
+      "score": 7.885708362787975e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "carnegiemellon.prestosports.com",
+      "score": 7.829611700838747e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "facebook.com",
+      "score": 7.829611700838747e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "bit.ly",
+      "score": 7.479977305060647e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "oakhallcg.com",
+      "score": 7.198069753349162e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "issuu.com",
+      "score": 6.047876750067508e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "sideline.bsnsports.com",
+      "score": 6.0227782314144215e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cochran.com",
+      "score": 5.42050040827298e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "silky-texture-853.notion.site",
+      "score": 5.257138908525317e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.portauthority.org",
+      "score": 5.179488581701538e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.vimeo.com",
+      "score": 4.890252422534125e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.x.com",
+      "score": 4.890252422534125e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "cpcb-gsa.github.io",
+      "score": 4.749057092555426e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "gitlab.com",
+      "score": 4.749057092555426e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.csb.pitt.edu",
+      "score": 4.749057092555426e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "goo.gl",
+      "score": 4.605186365035084e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "gradguard.com",
+      "score": 4.5216048152679545e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.libwizard.com",
+      "score": 4.43755873468904e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "online.fliphtml5.com",
+      "score": 4.288500463864158e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "cmuengineering.acquiadam.com",
+      "score": 4.031917833378339e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "talentsprint.com",
+      "score": 3.9074530876664086e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "eepurl.com",
+      "score": 3.8237667845672366e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nsa.gov",
+      "score": 3.7666716836225986e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "form.jotform.com",
+      "score": 3.599034876674581e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "secure.mbsbooks.com",
+      "score": 3.599034876674581e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.balfour.com",
+      "score": 3.599034876674581e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.science.org",
+      "score": 3.002464306104473e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "airtable.com",
+      "score": 2.9583724897926927e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.libapps.com",
+      "score": 2.1103557816671222e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ai2050.schmidtsciences.org",
+      "score": 1.9736512993007498e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.geekwire.com",
+      "score": 1.9736512993007498e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "account.lenovo.com",
+      "score": 1.7995174383372905e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ambassadored-cmu.verbacollect.com",
+      "score": 1.7995174383372905e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "bookstore.mbsdirect.net",
+      "score": 1.7995174383372905e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu-bookshelf.vitalsource.com",
+      "score": 1.7995174383372905e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "cmustore.poweron.com",
+      "score": 1.7995174383372905e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "signup.e2ma.net",
+      "score": 1.7995174383372905e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.diplomaframe.com",
+      "score": 1.7995174383372905e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dormco.com",
+      "score": 1.7995174383372905e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.identit-e.com",
+      "score": 1.7995174383372905e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.idm.oclc.org",
+      "score": 1.4791862448963463e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ezborrow.reshare.indexdata.com",
+      "score": 1.4791862448963463e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "github.com",
+      "score": 1.4791862448963463e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.library.pitt.edu",
+      "score": 1.4791862448963463e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "learnvia.org",
+      "score": 1.4444539066342914e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.amazon.science",
+      "score": 1.3801107197507289e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "commandline.microsoft.com",
+      "score": 1.3157675328671666e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "sailplatform.org",
+      "score": 1.3157675328671666e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.packard.org",
+      "score": 1.3157675328671666e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.post-gazette.com",
+      "score": 1.3157675328671666e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "choice.fastproducts.org",
+      "score": 9.45088439334022e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "bannedbooksweek.org",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.us15.list-manage.com",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.us20.list-manage.com",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "doi.org",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "getoutthevote.secure-platform.com",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "lor.instructure.com",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "orcid.org",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "press.uchicago.edu",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "us20.campaign-archive.com",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.defer.coffee",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dickbuilds.com",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pa.gov",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.perkinseastman.com",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.proquest.com",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.sciencedirect.com",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.soldiersandsailorshall.org",
+      "score": 7.395931224481732e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "cylabacademy.org",
+      "score": 7.222269533171457e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "futurhandrobotics.com",
+      "score": 7.222269533171457e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "lavoro.bot",
+      "score": 7.222269533171457e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.rareventures.org",
+      "score": 7.222269533171457e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.service-now.com",
+      "score": 6.703210678997527e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "ai-caring.org",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "aiinstitutes.org",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "aiira.iastate.edu",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "cmu.us6.list-manage.com",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "dpfried.github.io",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "icarm.io",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "learnlab.org",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "park.parkmobile.io",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "picoctf.org",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "sigbovik.org",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "static1.squarespace.com",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "teamchiron.ai",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "techwise.talentsprint.com",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "triblive.com",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.alice.org",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.cs2n.org",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.dlib.org",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.fastcompany.com",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.gomobilepittsburgh.com",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.independent.co.uk",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nature.com",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nytimes.com",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pittsburghmagazine.com",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pittsburghparking.com",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.washingtonpost.com",
+      "score": 6.578837664335833e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "centennial.org",
+      "score": 6.0227782314144215e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "flosports.link",
+      "score": 6.0227782314144215e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "prestosports.com",
+      "score": 6.0227782314144215e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "uaasports.info",
+      "score": 6.0227782314144215e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.ncaa.org",
+      "score": 6.0227782314144215e-06,
+      "is_first_party": false
+    }
+  ]
+}

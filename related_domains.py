@@ -211,6 +211,8 @@ class TemplateFilter:
         # Remove elements with template class/id tokens
         # We iterate over a copy since we're modifying during iteration
         for element in soup.find_all(True):  # True matches all tags
+            if element.attrs is None:  # already decomposed along with a removed ancestor
+                continue
             if self._has_template_class_or_id(element):
                 element.decompose()
 
@@ -477,16 +479,12 @@ class RelatedDomainsCrawler:
                     self.host_homepages_queued.add(target_host)
 
         # Also extract individual URLs for BFS (not just hosts)
-        for anchor in soup.find_all("a", href=True):
-            href = anchor.get("href")
-            resolved = resolve_url(href, url, self.crawl_config.allowed_schemes)
-            if not resolved:
-                continue
-
-            target_host = extract_host(resolved, self.seed_apex)
-            if target_host and self._is_first_party(target_host):
-                if resolved not in self.visited_urls:
-                    next_urls.append((resolved, depth + 1))
+        for resolved in first_party_links(
+            soup, url, self.seed_apex, self.crawl_config.alias_domains,
+            self.crawl_config.allowed_schemes,
+        ):
+            if resolved not in self.visited_urls:
+                next_urls.append((resolved, depth + 1))
 
         return next_urls
 
@@ -530,6 +528,55 @@ class RelatedDomainsCrawler:
         print(f"\nCrawl complete. Total pages: {self.total_pages_crawled}")
         return self.graph
 
+
+
+@dataclass(frozen=True)
+class RankedHost:
+    """One host in a PPR ranking."""
+    host: str
+    score: float
+    is_first_party: bool
+
+
+def first_party_links(
+    soup: BeautifulSoup,
+    page_url: str,
+    seed_apex: str,
+    alias_domains: List[str],
+    allowed_schemes: Tuple[str, ...] = ("http", "https"),
+) -> List[str]:
+    """Absolute first-party URLs linked from a page (hrefs resolved against page_url)."""
+    links: List[str] = []
+    for anchor in soup.find_all("a", href=True):
+        resolved = resolve_url(page_url, anchor.get("href"), allowed_schemes)
+        if not resolved:
+            continue
+        host = extract_host(resolved, seed_apex)
+        if host and is_first_party(host, seed_apex, alias_domains):
+            links.append(resolved)
+    return links
+
+
+def rank_graph(graph: DomainGraph, ppr_cfg: PPRConfig) -> List[RankedHost]:
+    """Run PPR on a graph; hosts sorted by score descending."""
+    scores, host_to_index, _ = PersonalizedPageRank(ppr_cfg).compute(graph)
+    ranked = [
+        RankedHost(host, float(scores[i]), host in graph.first_party_hosts)
+        for host, i in host_to_index.items()
+    ]
+    ranked.sort(key=lambda r: (-r.score, r.host))
+    return ranked
+
+
+async def rank_domains(
+    seed: str, crawl_cfg: CrawlConfig, ppr_cfg: PPRConfig
+) -> Tuple[List[RankedHost], Dict[str, int]]:
+    """Crawl seed and rank discovered hosts. Returns (ranking, crawl stats)."""
+    crawler = RelatedDomainsCrawler(crawl_cfg, TemplateFilterConfig())
+    graph = await crawler.crawl()
+    stats = dict(graph.get_stats())
+    stats["pages_crawled"] = crawler.total_pages_crawled
+    return rank_graph(graph, ppr_cfg), stats
 
 
 # Results Reporter ------------------------------------------

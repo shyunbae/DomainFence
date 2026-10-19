@@ -1,0 +1,4560 @@
+{
+  "seed": "stanford.edu",
+  "aliases": [],
+  "crawl_date": "2026-10-18",
+  "crawl_stats": {
+    "total_nodes": 909,
+    "first_party_hosts": 721,
+    "external_hosts": 188,
+    "total_edge_weight": 23694,
+    "subdomains": 720,
+    "pages_crawled": 500
+  },
+  "ranking": [
+    {
+      "host": "stanford.edu",
+      "score": 0.44414433076352655,
+      "is_first_party": true
+    },
+    {
+      "host": "news.stanford.edu",
+      "score": 0.13204282573476653,
+      "is_first_party": true
+    },
+    {
+      "host": "cardinalatwork.stanford.edu",
+      "score": 0.02825156053782648,
+      "is_first_party": true
+    },
+    {
+      "host": "alumni.stanford.edu",
+      "score": 0.01817212469516047,
+      "is_first_party": true
+    },
+    {
+      "host": "uit.stanford.edu",
+      "score": 0.016880615715512456,
+      "is_first_party": true
+    },
+    {
+      "host": "adminguide.stanford.edu",
+      "score": 0.01376467358512326,
+      "is_first_party": true
+    },
+    {
+      "host": "admission.stanford.edu",
+      "score": 0.013346480355008114,
+      "is_first_party": true
+    },
+    {
+      "host": "parents.stanford.edu",
+      "score": 0.01162347119696256,
+      "is_first_party": true
+    },
+    {
+      "host": "med.stanford.edu",
+      "score": 0.010008887048535082,
+      "is_first_party": true
+    },
+    {
+      "host": "engineering.stanford.edu",
+      "score": 0.009408610894427929,
+      "is_first_party": true
+    },
+    {
+      "host": "gsb.stanford.edu",
+      "score": 0.009194911422446111,
+      "is_first_party": true
+    },
+    {
+      "host": "sustainability.stanford.edu",
+      "score": 0.0085414657585565,
+      "is_first_party": true
+    },
+    {
+      "host": "fingate.stanford.edu",
+      "score": 0.007846468074339287,
+      "is_first_party": true
+    },
+    {
+      "host": "law.stanford.edu",
+      "score": 0.0073742192448763315,
+      "is_first_party": true
+    },
+    {
+      "host": "ed.stanford.edu",
+      "score": 0.006940597964908045,
+      "is_first_party": true
+    },
+    {
+      "host": "humsci.stanford.edu",
+      "score": 0.006912637809568449,
+      "is_first_party": true
+    },
+    {
+      "host": "www.instagram.com",
+      "score": 0.006805608957877272,
+      "is_first_party": false
+    },
+    {
+      "host": "doresearch.stanford.edu",
+      "score": 0.0061461980264904915,
+      "is_first_party": true
+    },
+    {
+      "host": "careered.stanford.edu",
+      "score": 0.004906601043285246,
+      "is_first_party": true
+    },
+    {
+      "host": "profiles.stanford.edu",
+      "score": 0.004886168975320486,
+      "is_first_party": true
+    },
+    {
+      "host": "hai.stanford.edu",
+      "score": 0.004800048337555878,
+      "is_first_party": true
+    },
+    {
+      "host": "gradadmissions.stanford.edu",
+      "score": 0.004652427305446814,
+      "is_first_party": true
+    },
+    {
+      "host": "gostanford.com",
+      "score": 0.004001380348255002,
+      "is_first_party": false
+    },
+    {
+      "host": "visit.stanford.edu",
+      "score": 0.003968944526082706,
+      "is_first_party": true
+    },
+    {
+      "host": "stanford.service-now.com",
+      "score": 0.0038643286543098548,
+      "is_first_party": false
+    },
+    {
+      "host": "www.youtube.com",
+      "score": 0.003841676885000914,
+      "is_first_party": false
+    },
+    {
+      "host": "gap.stanford.edu",
+      "score": 0.0037477663151937414,
+      "is_first_party": true
+    },
+    {
+      "host": "continuingstudies.stanford.edu",
+      "score": 0.0035455831875772907,
+      "is_first_party": true
+    },
+    {
+      "host": "emergency.stanford.edu",
+      "score": 0.003523250018897685,
+      "is_first_party": true
+    },
+    {
+      "host": "undergradresearch.stanford.edu",
+      "score": 0.003355493361918633,
+      "is_first_party": true
+    },
+    {
+      "host": "studentservices.stanford.edu",
+      "score": 0.003257175976031422,
+      "is_first_party": true
+    },
+    {
+      "host": "undergrad.stanford.edu",
+      "score": 0.0032028722366420495,
+      "is_first_party": true
+    },
+    {
+      "host": "online.stanford.edu",
+      "score": 0.0030115147137494925,
+      "is_first_party": true
+    },
+    {
+      "host": "financialaid.stanford.edu",
+      "score": 0.002999621951645928,
+      "is_first_party": true
+    },
+    {
+      "host": "events.stanford.edu",
+      "score": 0.0029898022510118512,
+      "is_first_party": true
+    },
+    {
+      "host": "police.stanford.edu",
+      "score": 0.0028992944002967447,
+      "is_first_party": true
+    },
+    {
+      "host": "careersearch.stanford.edu",
+      "score": 0.0028638674938870493,
+      "is_first_party": true
+    },
+    {
+      "host": "facts.stanford.edu",
+      "score": 0.0028376775131987125,
+      "is_first_party": true
+    },
+    {
+      "host": "facultypositions.stanford.edu",
+      "score": 0.002691211324276668,
+      "is_first_party": true
+    },
+    {
+      "host": "bulletin.stanford.edu",
+      "score": 0.002655795621058774,
+      "is_first_party": true
+    },
+    {
+      "host": "www.facebook.com",
+      "score": 0.002624583178621972,
+      "is_first_party": false
+    },
+    {
+      "host": "youtu.be",
+      "score": 0.002514958813086296,
+      "is_first_party": false
+    },
+    {
+      "host": "non-discrimination.stanford.edu",
+      "score": 0.0024129844679606377,
+      "is_first_party": true
+    },
+    {
+      "host": "www.linkedin.com",
+      "score": 0.00206224556969897,
+      "is_first_party": false
+    },
+    {
+      "host": "transportation.stanford.edu",
+      "score": 0.0020466887484761154,
+      "is_first_party": true
+    },
+    {
+      "host": "library.stanford.edu",
+      "score": 0.002011964925633293,
+      "is_first_party": true
+    },
+    {
+      "host": "studentaffairs.stanford.edu",
+      "score": 0.0019352004499641983,
+      "is_first_party": true
+    },
+    {
+      "host": "facultyhandbook.stanford.edu",
+      "score": 0.0019276455620547226,
+      "is_first_party": true
+    },
+    {
+      "host": "openfacultypositions.stanford.edu",
+      "score": 0.0018938602969856455,
+      "is_first_party": true
+    },
+    {
+      "host": "giving.stanford.edu",
+      "score": 0.0018601539362805336,
+      "is_first_party": true
+    },
+    {
+      "host": "community.stanford.edu",
+      "score": 0.0018504975691729347,
+      "is_first_party": true
+    },
+    {
+      "host": "sustainability-accelerator.stanford.edu",
+      "score": 0.0017900457991818365,
+      "is_first_party": true
+    },
+    {
+      "host": "privacyrequest.stanford.edu",
+      "score": 0.001782840900260967,
+      "is_first_party": true
+    },
+    {
+      "host": "drive.google.com",
+      "score": 0.00169788960872478,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordwho.stanford.edu",
+      "score": 0.0016963871404933868,
+      "is_first_party": true
+    },
+    {
+      "host": "woods.stanford.edu",
+      "score": 0.0016168229466224655,
+      "is_first_party": true
+    },
+    {
+      "host": "stanfordmag.org",
+      "score": 0.0015998822228643708,
+      "is_first_party": false
+    },
+    {
+      "host": "tickets.gostanford.com",
+      "score": 0.001599507001963363,
+      "is_first_party": false
+    },
+    {
+      "host": "flissc.stanford.edu",
+      "score": 0.0015981645299714758,
+      "is_first_party": true
+    },
+    {
+      "host": "campus-map.stanford.edu",
+      "score": 0.001513491718892306,
+      "is_first_party": true
+    },
+    {
+      "host": "stanfordhealthcare.org",
+      "score": 0.0014970758974913062,
+      "is_first_party": false
+    },
+    {
+      "host": "privacy.stanford.edu",
+      "score": 0.0014948754684062314,
+      "is_first_party": true
+    },
+    {
+      "host": "hopkinsmarinestation.stanford.edu",
+      "score": 0.001289592102345684,
+      "is_first_party": true
+    },
+    {
+      "host": "sequoia.stanford.edu",
+      "score": 0.0012816539105834014,
+      "is_first_party": true
+    },
+    {
+      "host": "www.stanfordchildrens.org",
+      "score": 0.0012806148114429636,
+      "is_first_party": false
+    },
+    {
+      "host": "summerbridge.stanford.edu",
+      "score": 0.0012702677729159455,
+      "is_first_party": true
+    },
+    {
+      "host": "groups.stanford.edu",
+      "score": 0.0012606560105921582,
+      "is_first_party": true
+    },
+    {
+      "host": "ehs.stanford.edu",
+      "score": 0.001242432844067589,
+      "is_first_party": true
+    },
+    {
+      "host": "x.com",
+      "score": 0.0012220094108500632,
+      "is_first_party": false
+    },
+    {
+      "host": "museum.stanford.edu",
+      "score": 0.0012094283320407007,
+      "is_first_party": true
+    },
+    {
+      "host": "accessibility.stanford.edu",
+      "score": 0.0012069100365514965,
+      "is_first_party": true
+    },
+    {
+      "host": "rec.stanford.edu",
+      "score": 0.0012069100365514965,
+      "is_first_party": true
+    },
+    {
+      "host": "arts.stanford.edu",
+      "score": 0.0012030632211463828,
+      "is_first_party": true
+    },
+    {
+      "host": "farm.stanford.edu",
+      "score": 0.0011729203816840358,
+      "is_first_party": true
+    },
+    {
+      "host": "support.apple.com",
+      "score": 0.0011518617274189392,
+      "is_first_party": false
+    },
+    {
+      "host": "vpge.stanford.edu",
+      "score": 0.0011121882800832305,
+      "is_first_party": true
+    },
+    {
+      "host": "wasc.stanford.edu",
+      "score": 0.0010665214035693192,
+      "is_first_party": true
+    },
+    {
+      "host": "stanfordyou.stanford.edu",
+      "score": 0.0009837743659123213,
+      "is_first_party": true
+    },
+    {
+      "host": "axess.sahr.stanford.edu",
+      "score": 0.0009731930868039808,
+      "is_first_party": true
+    },
+    {
+      "host": "exploredegrees.stanford.edu",
+      "score": 0.0009710937216241892,
+      "is_first_party": true
+    },
+    {
+      "host": "podcasts.apple.com",
+      "score": 0.0008638962955642045,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordchildrens.org",
+      "score": 0.0008638962955642045,
+      "is_first_party": false
+    },
+    {
+      "host": "webmail.stanford.edu",
+      "score": 0.0008586762195764024,
+      "is_first_party": true
+    },
+    {
+      "host": "mailman.stanford.edu",
+      "score": 0.000844856247006716,
+      "is_first_party": true
+    },
+    {
+      "host": "ofweb.stanford.edu",
+      "score": 0.0008435528098814932,
+      "is_first_party": true
+    },
+    {
+      "host": "identity.stanford.edu",
+      "score": 0.0008227820014851634,
+      "is_first_party": true
+    },
+    {
+      "host": "ucomm.stanford.edu",
+      "score": 0.0008227820014851634,
+      "is_first_party": true
+    },
+    {
+      "host": "glo.stanford.edu",
+      "score": 0.0007818770154036452,
+      "is_first_party": true
+    },
+    {
+      "host": "ctl.stanford.edu",
+      "score": 0.0007579099961286466,
+      "is_first_party": true
+    },
+    {
+      "host": "college.stanford.edu",
+      "score": 0.0007354104804155264,
+      "is_first_party": true
+    },
+    {
+      "host": "www.google.com",
+      "score": 0.0007341818813207906,
+      "is_first_party": false
+    },
+    {
+      "host": "cardinalservice.stanford.edu",
+      "score": 0.0007129109647024064,
+      "is_first_party": true
+    },
+    {
+      "host": "accounts.stanford.edu",
+      "score": 0.0007115479673348788,
+      "is_first_party": true
+    },
+    {
+      "host": "archived-bulletin.stanford.edu",
+      "score": 0.0007102512653582754,
+      "is_first_party": true
+    },
+    {
+      "host": "facultysenate.stanford.edu",
+      "score": 0.0007049931491702494,
+      "is_first_party": true
+    },
+    {
+      "host": "helpcenter.stanford.edu",
+      "score": 0.0007032374269449847,
+      "is_first_party": true
+    },
+    {
+      "host": "cecl.stanford.edu",
+      "score": 0.0006959297957470655,
+      "is_first_party": true
+    },
+    {
+      "host": "acceleratelearning.stanford.edu",
+      "score": 0.0006958089340575868,
+      "is_first_party": true
+    },
+    {
+      "host": "twitter.com",
+      "score": 0.0006890474074249072,
+      "is_first_party": false
+    },
+    {
+      "host": "orsl.stanford.edu",
+      "score": 0.0006868843184530146,
+      "is_first_party": true
+    },
+    {
+      "host": "bewell.stanford.edu",
+      "score": 0.0006791513422439989,
+      "is_first_party": true
+    },
+    {
+      "host": "www6.slac.stanford.edu",
+      "score": 0.0006791513422439989,
+      "is_first_party": true
+    },
+    {
+      "host": "advising.stanford.edu",
+      "score": 0.0006592950847565674,
+      "is_first_party": true
+    },
+    {
+      "host": "medicine.stanford.edu",
+      "score": 0.0006414431861239855,
+      "is_first_party": true
+    },
+    {
+      "host": "ai4all.spcs.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "anderson.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "dish.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "diversityandaccess.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "enterpriseeducation.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "exploreintrosems.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "facultydevelopment.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "lsjumb.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "ohs.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "ombuds.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "pai.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "quake06.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "smssp.spcs.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "spcs.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "sumac.spcs.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "summer.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "summerhumanities.spcs.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "trees.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "uco.stanford.edu",
+      "score": 0.0006309791728420272,
+      "is_first_party": true
+    },
+    {
+      "host": "apply.stanford.edu",
+      "score": 0.0006103972226810879,
+      "is_first_party": true
+    },
+    {
+      "host": "postdocs.stanford.edu",
+      "score": 0.0005965292975215413,
+      "is_first_party": true
+    },
+    {
+      "host": "stanforddaily.com",
+      "score": 0.0005876338389686917,
+      "is_first_party": false
+    },
+    {
+      "host": "en.wikipedia.org",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "healthier.stanfordchildrens.org",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "optout.aboutads.info",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordathleticscamps.com",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordnativestud.wixsite.com",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordspeakersbureau.com",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "support.google.com",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "support.microsoft.com",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "support.mozilla.org",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "tools.google.com",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "www.allaboutcookies.org",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "www.hoover.org",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "www.youronlinechoices.eu",
+      "score": 0.0005759308637094696,
+      "is_first_party": false
+    },
+    {
+      "host": "energy.stanford.edu",
+      "score": 0.0005405137340417414,
+      "is_first_party": true
+    },
+    {
+      "host": "alertsu.stanford.edu",
+      "score": 0.000531089406051346,
+      "is_first_party": true
+    },
+    {
+      "host": "techsource.stanford.edu",
+      "score": 0.0005149678456326909,
+      "is_first_party": true
+    },
+    {
+      "host": "resed.stanford.edu",
+      "score": 0.0004883071309578337,
+      "is_first_party": true
+    },
+    {
+      "host": "stanmed.stanford.edu",
+      "score": 0.0004510042590053094,
+      "is_first_party": true
+    },
+    {
+      "host": "trademarks.stanford.edu",
+      "score": 0.00043865396641882973,
+      "is_first_party": true
+    },
+    {
+      "host": "myaccount.stanford.edu",
+      "score": 0.0003909344365210968,
+      "is_first_party": true
+    },
+    {
+      "host": "ose.stanford.edu",
+      "score": 0.00039000329000065683,
+      "is_first_party": true
+    },
+    {
+      "host": "nacc.stanford.edu",
+      "score": 0.00036359616296531387,
+      "is_first_party": true
+    },
+    {
+      "host": "globalhealth.stanford.edu",
+      "score": 0.00035694272276849486,
+      "is_first_party": true
+    },
+    {
+      "host": "mapmaker.stanford.edu",
+      "score": 0.0003519255309292313,
+      "is_first_party": true
+    },
+    {
+      "host": "archaeology.stanford.edu",
+      "score": 0.0003430137409872922,
+      "is_first_party": true
+    },
+    {
+      "host": "ccsre.stanford.edu",
+      "score": 0.0003430137409872922,
+      "is_first_party": true
+    },
+    {
+      "host": "jrbp.stanford.edu",
+      "score": 0.0003430137409872922,
+      "is_first_party": true
+    },
+    {
+      "host": "instagram.com",
+      "score": 0.0003308450547013877,
+      "is_first_party": false
+    },
+    {
+      "host": "oval.stanford.edu",
+      "score": 0.0003128780432760065,
+      "is_first_party": true
+    },
+    {
+      "host": "alumnidirectory.stanford.edu",
+      "score": 0.0002941552130331141,
+      "is_first_party": true
+    },
+    {
+      "host": "stanford.io",
+      "score": 0.0002890330164118297,
+      "is_first_party": false
+    },
+    {
+      "host": "www.stanfordpowwow.com",
+      "score": 0.0002879654318547348,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordsaa.formstack.com",
+      "score": 0.00028692828468066797,
+      "is_first_party": false
+    },
+    {
+      "host": "cop.stanford.edu",
+      "score": 0.0002863724814911105,
+      "is_first_party": true
+    },
+    {
+      "host": "stanford.joinhandshake.com",
+      "score": 0.00028463558562564833,
+      "is_first_party": false
+    },
+    {
+      "host": "mygsb.stanford.edu",
+      "score": 0.000278353300837963,
+      "is_first_party": true
+    },
+    {
+      "host": "www2.ed.gov",
+      "score": 0.00027557563840447795,
+      "is_first_party": false
+    },
+    {
+      "host": "vaden.stanford.edu",
+      "score": 0.00027314180991438097,
+      "is_first_party": true
+    },
+    {
+      "host": "software.stanford.edu",
+      "score": 0.0002654100191301282,
+      "is_first_party": true
+    },
+    {
+      "host": "sis.stanford.edu",
+      "score": 0.0002639109242795558,
+      "is_first_party": true
+    },
+    {
+      "host": "geophysics.stanford.edu",
+      "score": 0.00025057764216682436,
+      "is_first_party": true
+    },
+    {
+      "host": "navigator.stanford.edu",
+      "score": 0.0002490315165523398,
+      "is_first_party": true
+    },
+    {
+      "host": "tomkat.stanford.edu",
+      "score": 0.00024520687547091574,
+      "is_first_party": true
+    },
+    {
+      "host": "fsl.stanford.edu",
+      "score": 0.00024470990003011545,
+      "is_first_party": true
+    },
+    {
+      "host": "astotshandbook.stanford.edu",
+      "score": 0.00023859380861044864,
+      "is_first_party": true
+    },
+    {
+      "host": "hr.stanford.edu",
+      "score": 0.00023569130537959344,
+      "is_first_party": true
+    },
+    {
+      "host": "cee.stanford.edu",
+      "score": 0.00023301021277729412,
+      "is_first_party": true
+    },
+    {
+      "host": "pwr.stanford.edu",
+      "score": 0.00021891189285331571,
+      "is_first_party": true
+    },
+    {
+      "host": "mydevices.stanford.edu",
+      "score": 0.0002179155946513731,
+      "is_first_party": true
+    },
+    {
+      "host": "uitcommunity.stanford.edu",
+      "score": 0.0002179155946513731,
+      "is_first_party": true
+    },
+    {
+      "host": "lbre.stanford.edu",
+      "score": 0.00021680601693066558,
+      "is_first_party": true
+    },
+    {
+      "host": "bechtel.stanford.edu",
+      "score": 0.00021166714599363327,
+      "is_first_party": true
+    },
+    {
+      "host": "searchworks.stanford.edu",
+      "score": 0.0002077178308938437,
+      "is_first_party": true
+    },
+    {
+      "host": "techsource-helpguides.stanford.edu",
+      "score": 0.00020095586540513043,
+      "is_first_party": true
+    },
+    {
+      "host": "familyweekend.stanford.edu",
+      "score": 0.00020034169910309883,
+      "is_first_party": true
+    },
+    {
+      "host": "getsupport.stanford.edu",
+      "score": 0.00020034169910309883,
+      "is_first_party": true
+    },
+    {
+      "host": "tresidder.stanford.edu",
+      "score": 0.00020034169910309883,
+      "is_first_party": true
+    },
+    {
+      "host": "vpsaintranet.stanford.edu",
+      "score": 0.00020034169910309883,
+      "is_first_party": true
+    },
+    {
+      "host": "engineering100.stanford.edu",
+      "score": 0.00019992728125654678,
+      "is_first_party": true
+    },
+    {
+      "host": "bosp.stanford.edu",
+      "score": 0.00019893067262939987,
+      "is_first_party": true
+    },
+    {
+      "host": "insidesdss.stanford.edu",
+      "score": 0.00019854787574892098,
+      "is_first_party": true
+    },
+    {
+      "host": "sustainabilityforum.stanford.edu",
+      "score": 0.0001960848407651226,
+      "is_first_party": true
+    },
+    {
+      "host": "stanforduniversity.qualtrics.com",
+      "score": 0.00019262795192153315,
+      "is_first_party": false
+    },
+    {
+      "host": "cvent.me",
+      "score": 0.00019128552312044534,
+      "is_first_party": false
+    },
+    {
+      "host": "ese.stanford.edu",
+      "score": 0.00019070396440141752,
+      "is_first_party": true
+    },
+    {
+      "host": "orm.stanford.edu",
+      "score": 0.00018291686156131498,
+      "is_first_party": true
+    },
+    {
+      "host": "policies.slac.stanford.edu",
+      "score": 0.00018291686156131498,
+      "is_first_party": true
+    },
+    {
+      "host": "docs.google.com",
+      "score": 0.00018146561861514483,
+      "is_first_party": false
+    },
+    {
+      "host": "explorecourses.stanford.edu",
+      "score": 0.00018063148613860428,
+      "is_first_party": true
+    },
+    {
+      "host": "knight-hennessy.stanford.edu",
+      "score": 0.00017842545508782483,
+      "is_first_party": true
+    },
+    {
+      "host": "stanford.zoom.us",
+      "score": 0.00017532479489839546,
+      "is_first_party": false
+    },
+    {
+      "host": "vpue.stanford.edu",
+      "score": 0.00017391286142707556,
+      "is_first_party": true
+    },
+    {
+      "host": "earthsystems.stanford.edu",
+      "score": 0.00017111487030029485,
+      "is_first_party": true
+    },
+    {
+      "host": "eiper.stanford.edu",
+      "score": 0.00016982779598498048,
+      "is_first_party": true
+    },
+    {
+      "host": "emergency.slac.stanford.edu",
+      "score": 0.00016596543935959554,
+      "is_first_party": true
+    },
+    {
+      "host": "registrar.stanford.edu",
+      "score": 0.00016471369107673114,
+      "is_first_party": true
+    },
+    {
+      "host": "cmgm.stanford.edu",
+      "score": 0.00016414865419751647,
+      "is_first_party": true
+    },
+    {
+      "host": "neurology.stanford.edu",
+      "score": 0.00016414865419751647,
+      "is_first_party": true
+    },
+    {
+      "host": "accountssu.stanford.edu",
+      "score": 0.0001630511256093292,
+      "is_first_party": true
+    },
+    {
+      "host": "stanfordmedicine.box.com",
+      "score": 0.00016286728551881562,
+      "is_first_party": false
+    },
+    {
+      "host": "frosh101.stanford.edu",
+      "score": 0.00016244470042079087,
+      "is_first_party": true
+    },
+    {
+      "host": "fsat.stanford.edu",
+      "score": 0.00016139199918648172,
+      "is_first_party": true
+    },
+    {
+      "host": "forecast7.com",
+      "score": 0.00015875778104652827,
+      "is_first_party": false
+    },
+    {
+      "host": "maps.google.com",
+      "score": 0.00015875778104652827,
+      "is_first_party": false
+    },
+    {
+      "host": "give.stanford.edu",
+      "score": 0.00015749851290601963,
+      "is_first_party": true
+    },
+    {
+      "host": "impact.stanford.edu",
+      "score": 0.00015588550824253657,
+      "is_first_party": true
+    },
+    {
+      "host": "oceans.stanford.edu",
+      "score": 0.0001556878720260488,
+      "is_first_party": true
+    },
+    {
+      "host": "maps.stanford.edu",
+      "score": 0.00015514384499254214,
+      "is_first_party": true
+    },
+    {
+      "host": "lbre-sites-prod.stanford.edu",
+      "score": 0.00015400738306478216,
+      "is_first_party": true
+    },
+    {
+      "host": "earthsystemscience.stanford.edu",
+      "score": 0.0001531395213697063,
+      "is_first_party": true
+    },
+    {
+      "host": "redwoodcity.stanford.edu",
+      "score": 0.00015139264793650073,
+      "is_first_party": true
+    },
+    {
+      "host": "forms.gle",
+      "score": 0.00015008925678641302,
+      "is_first_party": false
+    },
+    {
+      "host": "astotshandbook.sites.stanford.edu",
+      "score": 0.00014941022899991709,
+      "is_first_party": true
+    },
+    {
+      "host": "facultyaffairs.stanford.edu",
+      "score": 0.00014941022899991709,
+      "is_first_party": true
+    },
+    {
+      "host": "naturalcapitalalliance.stanford.edu",
+      "score": 0.00014570694674390984,
+      "is_first_party": true
+    },
+    {
+      "host": "www.stanfordparentsclub.org",
+      "score": 0.00014529338997054133,
+      "is_first_party": false
+    },
+    {
+      "host": "explore-energy.stanford.edu",
+      "score": 0.00014409242531130808,
+      "is_first_party": true
+    },
+    {
+      "host": "partners.vinoshipper.com",
+      "score": 0.00014346414234033398,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordsierra.com",
+      "score": 0.00014346414234033398,
+      "is_first_party": false
+    },
+    {
+      "host": "www.stanfordalumnifanshop.com",
+      "score": 0.00014346414234033398,
+      "is_first_party": false
+    },
+    {
+      "host": "haas.stanford.edu",
+      "score": 0.00014201669197134507,
+      "is_first_party": true
+    },
+    {
+      "host": "cap.stanford.edu",
+      "score": 0.00014175546640146872,
+      "is_first_party": true
+    },
+    {
+      "host": "epsci.stanford.edu",
+      "score": 0.0001416333939460161,
+      "is_first_party": true
+    },
+    {
+      "host": "soco.stanford.edu",
+      "score": 0.00013949839648214082,
+      "is_first_party": true
+    },
+    {
+      "host": "exhibits.stanford.edu",
+      "score": 0.00013738718939419026,
+      "is_first_party": true
+    },
+    {
+      "host": "artsintensive.stanford.edu",
+      "score": 0.0001369801009929366,
+      "is_first_party": true
+    },
+    {
+      "host": "globalscholarships.stanford.edu",
+      "score": 0.0001369801009929366,
+      "is_first_party": true
+    },
+    {
+      "host": "hume.stanford.edu",
+      "score": 0.0001369801009929366,
+      "is_first_party": true
+    },
+    {
+      "host": "introsems.stanford.edu",
+      "score": 0.0001369801009929366,
+      "is_first_party": true
+    },
+    {
+      "host": "summerfellows.stanford.edu",
+      "score": 0.0001369801009929366,
+      "is_first_party": true
+    },
+    {
+      "host": "vpuefacstaff.stanford.edu",
+      "score": 0.0001369801009929366,
+      "is_first_party": true
+    },
+    {
+      "host": "ways.stanford.edu",
+      "score": 0.0001369801009929366,
+      "is_first_party": true
+    },
+    {
+      "host": "neuroscience.stanford.edu",
+      "score": 0.00013583014217310768,
+      "is_first_party": true
+    },
+    {
+      "host": "esos.stanford.edu",
+      "score": 0.00013531293332347925,
+      "is_first_party": true
+    },
+    {
+      "host": "goto.stanford.edu",
+      "score": 0.0001347634230223572,
+      "is_first_party": true
+    },
+    {
+      "host": "president.stanford.edu",
+      "score": 0.0001336419505102895,
+      "is_first_party": true
+    },
+    {
+      "host": "provost.stanford.edu",
+      "score": 0.0001336419505102895,
+      "is_first_party": true
+    },
+    {
+      "host": "axess.stanford.edu",
+      "score": 0.0001297408921663284,
+      "is_first_party": true
+    },
+    {
+      "host": "obgyn.stanford.edu",
+      "score": 0.00012778187250919682,
+      "is_first_party": true
+    },
+    {
+      "host": "inside-studentservices.stanford.edu",
+      "score": 0.00012721319002072888,
+      "is_first_party": true
+    },
+    {
+      "host": "earth.stanford.edu",
+      "score": 0.00012715802718212717,
+      "is_first_party": true
+    },
+    {
+      "host": "biox.stanford.edu",
+      "score": 0.00012673844675102776,
+      "is_first_party": true
+    },
+    {
+      "host": "lane.stanford.edu",
+      "score": 0.00012485920680252417,
+      "is_first_party": true
+    },
+    {
+      "host": "medicalgiving.stanford.edu",
+      "score": 0.00012380659551295596,
+      "is_first_party": true
+    },
+    {
+      "host": "helpsu.stanford.edu",
+      "score": 0.00011898258534693621,
+      "is_first_party": true
+    },
+    {
+      "host": "stanfordearthinterns.wordpress.com",
+      "score": 0.00011835988799259887,
+      "is_first_party": false
+    },
+    {
+      "host": "brnw.ch",
+      "score": 0.00011826578035188498,
+      "is_first_party": false
+    },
+    {
+      "host": "humanperformance.stanford.edu",
+      "score": 0.00011764675132894787,
+      "is_first_party": true
+    },
+    {
+      "host": "approaching.stanford.edu",
+      "score": 0.00011744566899455074,
+      "is_first_party": true
+    },
+    {
+      "host": "sustainabilityleadership.stanford.edu",
+      "score": 0.00011740528244345361,
+      "is_first_party": true
+    },
+    {
+      "host": "events-help.stanford.edu",
+      "score": 0.00011733585603045674,
+      "is_first_party": true
+    },
+    {
+      "host": "casbs.stanford.edu",
+      "score": 0.00011651028940118786,
+      "is_first_party": true
+    },
+    {
+      "host": "chemh.stanford.edu",
+      "score": 0.00011651028940118786,
+      "is_first_party": true
+    },
+    {
+      "host": "fsi.stanford.edu",
+      "score": 0.00011651028940118786,
+      "is_first_party": true
+    },
+    {
+      "host": "ginzton.stanford.edu",
+      "score": 0.00011651028940118786,
+      "is_first_party": true
+    },
+    {
+      "host": "glam.stanford.edu",
+      "score": 0.00011651028940118786,
+      "is_first_party": true
+    },
+    {
+      "host": "kipac.stanford.edu",
+      "score": 0.00011651028940118786,
+      "is_first_party": true
+    },
+    {
+      "host": "longevity.stanford.edu",
+      "score": 0.00011651028940118786,
+      "is_first_party": true
+    },
+    {
+      "host": "siepr.stanford.edu",
+      "score": 0.00011651028940118786,
+      "is_first_party": true
+    },
+    {
+      "host": "simes.stanford.edu",
+      "score": 0.00011651028940118786,
+      "is_first_party": true
+    },
+    {
+      "host": "ultrafast.stanford.edu",
+      "score": 0.00011651028940118786,
+      "is_first_party": true
+    },
+    {
+      "host": "marlowe-research.stanford.edu",
+      "score": 0.0001159444447652303,
+      "is_first_party": true
+    },
+    {
+      "host": "graddiversity.stanford.edu",
+      "score": 0.00011588774313019444,
+      "is_first_party": true
+    },
+    {
+      "host": "italic.stanford.edu",
+      "score": 0.00011448058527981653,
+      "is_first_party": true
+    },
+    {
+      "host": "orientation.stanford.edu",
+      "score": 0.00011448058527981653,
+      "is_first_party": true
+    },
+    {
+      "host": "sle.stanford.edu",
+      "score": 0.00011448058527981653,
+      "is_first_party": true
+    },
+    {
+      "host": "studentlearning.stanford.edu",
+      "score": 0.00011448058527981653,
+      "is_first_party": true
+    },
+    {
+      "host": "guides.library.stanford.edu",
+      "score": 0.00011151619266240766,
+      "is_first_party": true
+    },
+    {
+      "host": "apply.interfolio.com",
+      "score": 0.00011101939672467857,
+      "is_first_party": false
+    },
+    {
+      "host": "web.stanford.edu",
+      "score": 0.00011028230212223401,
+      "is_first_party": true
+    },
+    {
+      "host": "sesur.stanford.edu",
+      "score": 0.00010939595606874268,
+      "is_first_party": true
+    },
+    {
+      "host": "ecmform.stanford.edu",
+      "score": 0.00010929679123977673,
+      "is_first_party": true
+    },
+    {
+      "host": "mindovermoney.stanford.edu",
+      "score": 0.00010929679123977673,
+      "is_first_party": true
+    },
+    {
+      "host": "sustainabilitycareers.stanford.edu",
+      "score": 0.00010912547657959505,
+      "is_first_party": true
+    },
+    {
+      "host": "openminds.stanford.edu",
+      "score": 0.00010775424506335603,
+      "is_first_party": true
+    },
+    {
+      "host": "chemistry.stanford.edu",
+      "score": 0.00010570125860506763,
+      "is_first_party": true
+    },
+    {
+      "host": "history.stanford.edu",
+      "score": 0.00010570125860506763,
+      "is_first_party": true
+    },
+    {
+      "host": "insidehs.stanford.edu",
+      "score": 0.00010570125860506763,
+      "is_first_party": true
+    },
+    {
+      "host": "earthworks.stanford.edu",
+      "score": 0.00010344935215814334,
+      "is_first_party": true
+    },
+    {
+      "host": "momentum.stanford.edu",
+      "score": 0.00010209549726774311,
+      "is_first_party": true
+    },
+    {
+      "host": "fieldeducation.stanford.edu",
+      "score": 0.00010164510116811651,
+      "is_first_party": true
+    },
+    {
+      "host": "app.smartsheet.com",
+      "score": 0.00010127767631724742,
+      "is_first_party": false
+    },
+    {
+      "host": "hematology.stanford.edu",
+      "score": 0.00010050678624295701,
+      "is_first_party": true
+    },
+    {
+      "host": "rsl.stanford.edu",
+      "score": 0.00010050678624295701,
+      "is_first_party": true
+    },
+    {
+      "host": "www.wscuc.org",
+      "score": 0.00010025418768092148,
+      "is_first_party": false
+    },
+    {
+      "host": "studenthousing.stanford.edu",
+      "score": 9.988392986117148e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sdssrooms.stanford.edu",
+      "score": 9.968930873663378e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "beam.stanford.edu",
+      "score": 9.941651005957418e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "beamd9.sites.stanford.edu",
+      "score": 9.941651005957418e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "icil.stanford.edu",
+      "score": 9.941651005957418e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "military.stanford.edu",
+      "score": 9.941651005957418e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "rde.stanford.edu",
+      "score": 9.72560498833938e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "facts.sites.stanford.edu",
+      "score": 9.663496234617845e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "www.twitter.com",
+      "score": 9.596565873012612e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "cancer.stanford.edu",
+      "score": 9.25515527486371e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "assu.stanford.edu",
+      "score": 9.205529729666852e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "boardoftrustees.stanford.edu",
+      "score": 9.205529729666852e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "externalrelations.stanford.edu",
+      "score": 8.747970983126807e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "hrg.stanford.edu",
+      "score": 8.573278118207718e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sustainability-exed.stanford.edu",
+      "score": 8.526785500300826e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "wellmd.stanford.edu",
+      "score": 8.509253666532805e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "insidesoe.stanford.edu",
+      "score": 8.402410355735533e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "prevention.stanford.edu",
+      "score": 8.345985732655719e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "psychiatry.stanford.edu",
+      "score": 8.345985732655719e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "wallcenter.stanford.edu",
+      "score": 8.345985732655719e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "biodesign.stanford.edu",
+      "score": 8.23233953987972e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bioengineering.stanford.edu",
+      "score": 8.23233953987972e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "biosciences.stanford.edu",
+      "score": 8.23233953987972e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "hearinglosscure.stanford.edu",
+      "score": 8.23233953987972e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pathology.stanford.edu",
+      "score": 8.23233953987972e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "vascular.stanford.edu",
+      "score": 8.23233953987972e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "athey.people.stanford.edu",
+      "score": 8.195917496087174e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "authority.stanford.edu",
+      "score": 8.162001376249073e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "oec.stanford.edu",
+      "score": 8.162001376249073e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "www.cityofpaloalto.org",
+      "score": 7.937889052326414e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "ocro.stanford.edu",
+      "score": 7.91343938335433e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "share.stanford.edu",
+      "score": 7.91343938335433e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "scopeblog.stanford.edu",
+      "score": 7.891400961551726e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "kingcenter.stanford.edu",
+      "score": 7.859122896617818e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "dbds.stanford.edu",
+      "score": 7.777754768775727e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ecopreneurship.stanford.edu",
+      "score": 7.771296853539557e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "advising.sites.stanford.edu",
+      "score": 7.754782484567757e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "oralcommprogram.stanford.edu",
+      "score": 7.754782484567757e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "undergrad2021.sites.stanford.edu",
+      "score": 7.754782484567757e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "vpuefacstaff.sites.stanford.edu",
+      "score": 7.754782484567757e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "a3c.stanford.edu",
+      "score": 7.563073111057912e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bcsc.stanford.edu",
+      "score": 7.563073111057912e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "elcentro.stanford.edu",
+      "score": 7.563073111057912e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "markaz.stanford.edu",
+      "score": 7.563073111057912e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "queer.stanford.edu",
+      "score": 7.563073111057912e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "wcc.stanford.edu",
+      "score": 7.563073111057912e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cfc.stanford.edu",
+      "score": 7.550462383223728e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "vpuesubmit.stanford.edu",
+      "score": 7.499354939701118e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "liver.stanford.edu",
+      "score": 7.43681619044773e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "spectrum.stanford.edu",
+      "score": 7.43681619044773e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "thehub.stanford.edu",
+      "score": 7.353711794200557e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "commencement.stanford.edu",
+      "score": 7.324423916965541e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "3dradiology.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "aim.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "autopsy.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "baxterlab.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bioadd.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bioethics.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bmir.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bml.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ccare.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ccis.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cibsr.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "clinicalchemistry.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "clinicalmicrobiology.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "clinicalvirology.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cytogenetics.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cytopathology.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "dermatopathology.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "epibio.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "handsurgery.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "hematopathology.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "hip.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "htbc.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "immunodiagnosis.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "lksc.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "mendel.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "mips.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "moleculargenetics.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "murinecvcore.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "neonatology.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "neuropathology.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ortho.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "paincenter.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "proteomics.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "renalpathology.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "scgpm.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sgec.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "snapl.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sparkmed.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "srita.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "surgicalpathology.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "transfusionmedicine.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "wsdm.stanford.edu",
+      "score": 7.323169997671731e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "domannualreports.stanford.edu",
+      "score": 7.32225327411108e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "allcott.stanford.edu",
+      "score": 7.298888635143368e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "baogroup.stanford.edu",
+      "score": 7.298888635143368e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "org.stanford.edu",
+      "score": 7.298888635143368e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "rbaltman.people.stanford.edu",
+      "score": 7.298888635143368e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "engagement-resources.stanford.edu",
+      "score": 7.126400948191279e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "headsup.stanford.edu",
+      "score": 7.126400948191279e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "archives.stanford.edu",
+      "score": 7.118199014108611e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "locator.stanford.edu",
+      "score": 7.118199014108611e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "millermakers.stanford.edu",
+      "score": 7.118199014108611e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "mylibrary.stanford.edu",
+      "score": 7.118199014108611e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "postdocbenefits.stanford.edu",
+      "score": 7.022944395045875e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "em-execed.stanford.edu",
+      "score": 7.01580820677829e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "naturalcapitalproject.stanford.edu",
+      "score": 7.01580820677829e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "www.threads.net",
+      "score": 7.012850390051007e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "gme.stanford.edu",
+      "score": 6.93119509326015e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "explore-energy-prod.stanford.edu",
+      "score": 6.929000233301862e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "biology.stanford.edu",
+      "score": 6.77942775867937e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "hms-sdss-prod.stanford.edu",
+      "score": 6.77942775867937e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "asia.stanford.edu",
+      "score": 6.750581851213734e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "mla.stanford.edu",
+      "score": 6.750581851213734e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ess.stanford.edu",
+      "score": 6.692191525224626e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "facultyhandbookdrupal9.sites.stanford.edu",
+      "score": 6.66371512653307e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "laneblog.stanford.edu",
+      "score": 6.657103021775614e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bloodcenter.stanford.edu",
+      "score": 6.641292841015739e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "healthpolicy.stanford.edu",
+      "score": 6.641292841015739e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "mednews.stanford.edu",
+      "score": 6.641292841015739e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "insidecee.stanford.edu",
+      "score": 6.620654467518248e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "alcohol.stanford.edu",
+      "score": 6.619944144199545e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "custom-maps.stanford.edu",
+      "score": 6.619944144199545e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "giveandgo.stanford.edu",
+      "score": 6.619944144199545e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "harass.stanford.edu",
+      "score": 6.619944144199545e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "titleix.stanford.edu",
+      "score": 6.619944144199545e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "stanfordcareers.stanford.edu",
+      "score": 6.61988528494548e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "oae.stanford.edu",
+      "score": 6.608023335155598e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "clinicaltrials.stanford.edu",
+      "score": 6.547951044807815e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "healthlibrary.stanford.edu",
+      "score": 6.527646648239739e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "medfacilities.stanford.edu",
+      "score": 6.527646648239739e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pedsadvocacy.stanford.edu",
+      "score": 6.527646648239739e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "changeleadership.stanford.edu",
+      "score": 6.512149108937442e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "industrialaffiliates.stanford.edu",
+      "score": 6.512149108937442e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ucomm-mail.stanford.edu",
+      "score": 6.512149108937442e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sdrc.stanford.edu",
+      "score": 6.501650193861983e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "25live.collegenet.com",
+      "score": 6.482976121555965e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "aacf.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "aces.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "actu.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "adolescent.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "aimi.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "alviralab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "annechangmd.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "apamsa.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "aramis.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ashleylab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "atb.slac.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "beckman.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bendavid.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bernertlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bhutanilab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bioaims.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "biochemgenetics.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "biochemistry.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "biocomp.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bipolarresearch.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bmrgroup.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bmt.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bmz.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bogyolab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "boothroydlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "braindevelopment.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "breathe.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "brownlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "brutlag.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "buckwalter.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "bustamantelab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "butcherlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "camlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "camps.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "canarycenter.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cape.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cardiac.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cbis.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ccsb.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cerc.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cfcenter.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "changlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "chembio.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "chemsysbio.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "chen.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "chenglab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "childabuse.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "chri.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "chronicfatigue.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "circadian.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cisl.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "clinicalinformatics.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cme.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cogaids.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "conferencecenter.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "crablab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cutaneouslymphoma.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cvi.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cvmedicine.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "daldrup-link-lab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "dblewislab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "delecea.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "depressiongenetics.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "dermatology.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "devbio.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "dig.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "dirbas.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "dna-discovery.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "dolmetschlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "domesticabuse.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "domrg.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "dped.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "dsresearch.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ecampus.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "edresearch.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "elderabuse.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "elsrp.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "emig.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "endocrinology.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "etkinlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "explore.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "facs.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "facultyappts.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "familyheart.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "fanyanglab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "fathmanlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "fctr.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "findlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "firelab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "flycenter.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "folding.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "gallilab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "garcia-lab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "garnerlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "gastrohep.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "gbsc.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "genetics.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "genpeds.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "geriatrics.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "giaccialab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "glennlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "glycome.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "goodmancenter.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "goronzylab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "graeflab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "graveslab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "healthcare.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "healthpolicy.fsi.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "helix-web.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "hellerlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "herzenberglab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "hesc.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "himc.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "hoffmanlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "hospice.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "hristovlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "huanglab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "huguenardlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "humantraffickingmed.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "immunology.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "interventionalradiology.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "isis.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "iti.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "jamesfordlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "jeantanglab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "kaylab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "kbplab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "khavarilab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "kingsley.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "kobilkalab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "kornberg.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "kuolab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "lbpedsderm.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "leppertlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "limlab.sites.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "linlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "llab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "llandlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "lmsa.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "lslw.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "maduke.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "majetilab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "malenkalab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "mcmahan.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "mcp.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "medcatalog.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "medicalgenetics.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "metrics.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "microimmuno.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "microscopy.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "miil.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "monacklab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "monkeybiz.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "montgomerylab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "msm.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "nadeaulab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "nelsonlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "neurobiology.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "neuroethics.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "neurosurgery.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "newborns.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "nicollslab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "nisms.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "nnl.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ntroi.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "nuclearmedicine.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "obgynresidents.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ocd.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "och.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "oghalailab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "oncology.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ophthalmology.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "orolab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "otolic.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "painlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "painresearch.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pan.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "parkerlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "parkinsons.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "parsonnet.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "patienteducation.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pedcard.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pedcriticalcare.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pedhemonc.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pediatricbipolar.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pedimmunology.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pednephrology.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pedpulmonary.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pedrad.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pedrheumatology.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pedsanesthesia.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pennlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pfeffer.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "plasticsurgery.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "plevritis.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pollacklab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "porteuslab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ppop.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "prematurity.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pritzkerlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "psybiobehavior.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "puglisi.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pulmonary.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "quertermous.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "radiology.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "radonc.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "randolab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "raolab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "raymondlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "rigs.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "robinsonlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "rohatgilab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "rubin.web.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ruralhealth.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sbfnl.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sbsa.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "scalpel.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "scitprogram.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "scsnl.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "seanwulab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "seungkimlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sfdc.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "shahlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "shpn.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "simr.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "singhlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sites.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "smascc.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "smisprogram.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "smrl.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "smsa.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "smysp.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sncohenlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "snyderlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "spectrumchildhealth.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "spudlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sssec.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "stearnslab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "steinmanlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "stemcell.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "straightlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "stresshealthcenter.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "structuralbio.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "summa.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "surgery.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "surgeryinterest.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "surgpathcriteria.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sweetcorderolab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "systemsmedicine.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "tasc.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "tbi2.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "tcell.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "teen.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "terryrobinsonlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "teruel.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "thebigone.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "tissuebank.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "tmil.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "tram.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "transplantation.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "urbanlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "urology.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "uti.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "utzlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "vaccines.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "vsc.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "wandless.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "weis.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "whatmeds.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "winkleby.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "winslowlab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "womensneuroscience.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "wormsense.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "wulab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "www-helix.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "xinglab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "yanglab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "yaolab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "zarinslab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "zucherolab.stanford.edu",
+      "score": 6.41400045546374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "anglab.stanford.edu",
+      "score": 6.401859774199557e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "www-stat.stanford.edu",
+      "score": 6.401859774199557e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "www.edd.ca.gov",
+      "score": 6.393427621437872e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.irs.gov",
+      "score": 6.393427621437872e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "dataworks.stanford.edu",
+      "score": 6.31151496368218e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "library-hours.stanford.edu",
+      "score": 6.31151496368218e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "library-status.stanford.edu",
+      "score": 6.31151496368218e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sdr.library.stanford.edu",
+      "score": 6.31151496368218e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "login.laneproxy.stanford.edu",
+      "score": 6.29322761908513e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "a65lab.stanford.edu",
+      "score": 6.260319560017019e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cees.stanford.edu",
+      "score": 6.260319560017019e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "gridlab.stanford.edu",
+      "score": 6.260319560017019e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "srcc.stanford.edu",
+      "score": 6.260319560017019e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "medcast.stanford.edu",
+      "score": 6.186708069911743e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "facultyaffairsdrupal9.sites.stanford.edu",
+      "score": 6.084273019894411e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cecredential.stanford.edu",
+      "score": 6.0652761723634236e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "enrollment.stanford.edu",
+      "score": 6.0652761723634236e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "map.stanford.edu",
+      "score": 6.0652761723634236e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "manager.stanford.edu",
+      "score": 6.032035148876408e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "climatechange.stanford.edu",
+      "score": 6.0084900110965956e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "stvp.stanford.edu",
+      "score": 6.0084900110965956e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sustainable.stanford.edu",
+      "score": 6.0084900110965956e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "understand-energy.stanford.edu",
+      "score": 6.0084900110965956e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "aihealth2026.stanford.edu",
+      "score": 5.9594156843597455e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "hph.stanford.edu",
+      "score": 5.93215670817889e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "energynexus.stanford.edu",
+      "score": 5.930235241031735e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "energypostdoc.stanford.edu",
+      "score": 5.930235241031735e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pie.stanford.edu",
+      "score": 5.930235241031735e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "lanecal.stanford.edu",
+      "score": 5.929352216394647e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "scontent-atl3-1.xx.fbcdn.net",
+      "score": 5.913289017594249e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "scontent-atl3-2.xx.fbcdn.net",
+      "score": 5.913289017594249e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "medcareers.stanford.edu",
+      "score": 5.864554489077039e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "esys-prod.stanford.edu",
+      "score": 5.828335057867374e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "environmentalsocialsci-prod.stanford.edu",
+      "score": 5.824319783625989e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "laneguides.stanford.edu",
+      "score": 5.8080604154978195e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "academic-calendar.stanford.edu",
+      "score": 5.801339284729168e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "advisinghandbook.stanford.edu",
+      "score": 5.801339284729168e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "stanford.us14.list-manage.com",
+      "score": 5.795158884959571e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "spi.stanford.edu",
+      "score": 5.79469546043666e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "stanfordmedicine25.stanford.edu",
+      "score": 5.7644626790922244e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pgnet.stanford.edu",
+      "score": 5.7634282321539537e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "enviro.stanford.edu",
+      "score": 5.763001817336982e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cfere.stanford.edu",
+      "score": 5.7566604621761726e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "historyoflife.stanford.edu",
+      "score": 5.7566604621761726e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "roblesustainability.stanford.edu",
+      "score": 5.7566604621761726e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sustainabilitygift.stanford.edu",
+      "score": 5.7566604621761726e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "tomkatcenter.sites.stanford.edu",
+      "score": 5.7529569182285957e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "tomkatgift.stanford.edu",
+      "score": 5.7529569182285957e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "22-23.bulletin.stanford.edu",
+      "score": 5.748263806337099e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "23-24.bulletin.stanford.edu",
+      "score": 5.748263806337099e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "24-25.bulletin.stanford.edu",
+      "score": 5.748263806337099e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "25-26.bulletin.stanford.edu",
+      "score": 5.748263806337099e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "storytelling.stanford.edu",
+      "score": 5.732123298807747e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "oceansolutions.stanford.edu",
+      "score": 5.686111312204658e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "climatecognition.stanford.edu",
+      "score": 5.6838885916567265e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "esealumni.stanford.edu",
+      "score": 5.660694730328778e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "esegallery.stanford.edu",
+      "score": 5.660694730328778e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "ngi.stanford.edu",
+      "score": 5.660694730328778e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sesur-prod.stanford.edu",
+      "score": 5.645719644563683e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "redcap.stanford.edu",
+      "score": 5.636305520853114e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "cdfm.stanford.edu",
+      "score": 5.6339163652963655e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "crustal.stanford.edu",
+      "score": 5.6339163652963655e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "icyphysics.stanford.edu",
+      "score": 5.6339163652963655e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "magnetism.stanford.edu",
+      "score": 5.6339163652963655e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pangea.stanford.edu",
+      "score": 5.6339163652963655e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "seismo.stanford.edu",
+      "score": 5.6339163652963655e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sigma.stanford.edu",
+      "score": 5.6339163652963655e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "docxpress.stanford.edu",
+      "score": 5.626122714152578e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "familymedicine.stanford.edu",
+      "score": 5.6184771060317486e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "grantwriting.stanford.edu",
+      "score": 5.6184771060317486e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "healthmatters.stanford.edu",
+      "score": 5.6184771060317486e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "hrp.stanford.edu",
+      "score": 5.6184771060317486e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "pediatrics.stanford.edu",
+      "score": 5.6184771060317486e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "seedfunding.stanford.edu",
+      "score": 5.6184771060317486e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "sm.stanford.edu",
+      "score": 5.6184771060317486e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "medchallengegift.stanford.edu",
+      "score": 5.556416994721507e-05,
+      "is_first_party": true
+    },
+    {
+      "host": "stanfordmedicine.org",
+      "score": 5.1708224213084995e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.democracydaystanford.org",
+      "score": 5.065294947251015e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "web.cvent.com",
+      "score": 5.0339676269315565e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordresearchpark.com",
+      "score": 4.817216940197162e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.sfcu.org",
+      "score": 4.7821380780111335e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordhospital.org",
+      "score": 4.545847711039956e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "wascsenior.app.box.com",
+      "score": 4.216479967787362e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "sites.google.com",
+      "score": 4.093108252900077e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "itunes.apple.com",
+      "score": 3.968944526163207e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "linkedin.com",
+      "score": 3.968944526163207e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.destinationpaloalto.com",
+      "score": 3.968944526163207e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.smccvb.com",
+      "score": 3.968944526163207e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "youtube.com",
+      "score": 3.968944526163207e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "stanford.referrals.selectminds.com",
+      "score": 3.704263492906217e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.kqed.org",
+      "score": 3.457357245180933e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "eservices.sccgov.org",
+      "score": 2.8940882195089553e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "stanford.us11.list-manage.com",
+      "score": 2.820310319437697e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "stanford.traverse.tech",
+      "score": 2.6571704629933242e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "secure.dc4.pageuppeople.com",
+      "score": 2.5416995845792465e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.eventbrite.com",
+      "score": 2.49150187591597e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "adoptions.efollett.com",
+      "score": 2.2417810364307002e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.sccgov.org",
+      "score": 2.2302264618875912e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.scscourt.org",
+      "score": 2.2302264618875912e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "vimeo.com",
+      "score": 2.108239983893681e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.bppe.ca.gov",
+      "score": 2.108239983893681e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.microarray.org",
+      "score": 1.8183390844159827e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.latimes.com",
+      "score": 1.7286786225904666e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.gostanford.com",
+      "score": 1.6215700349355298e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "developers.google.com",
+      "score": 1.613368100852862e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "us20.campaign-archive.com",
+      "score": 1.613368100852862e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.globalsustainabilitychallenge.org",
+      "score": 1.563407634830932e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "bsky.app",
+      "score": 1.5493754049076948e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "apps.apple.com",
+      "score": 1.4470441097544777e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "play.google.com",
+      "score": 1.4470441097544777e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "transparency.flocksafety.com",
+      "score": 1.4470441097544777e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "calendar.google.com",
+      "score": 1.245750937957985e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordkinglecture.eventbrite.com",
+      "score": 1.245750937957985e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "tinyurl.com",
+      "score": 1.245750937957985e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "supublic.etaspot.net",
+      "score": 1.2287594237197946e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "lpfch.org",
+      "score": 1.1480354683688175e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "stanford.cloud-cme.com",
+      "score": 1.136461927759989e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "campusbikeshop.com",
+      "score": 1.1151132309437956e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "countysheriff.sccgov.org",
+      "score": 1.1151132309437956e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "dv.aaci.org",
+      "score": 1.1151132309437956e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "publichealth.sccgov.org",
+      "score": 1.1151132309437956e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "stanford.app.box.com",
+      "score": 1.1151132309437956e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.1800victims.org",
+      "score": 1.1151132309437956e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.citationprocessingcenter.com",
+      "score": 1.1151132309437956e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.identitytheftcouncil.org",
+      "score": 1.1151132309437956e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nextdoorsolutions.org",
+      "score": 1.1151132309437956e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "stanford.us13.list-manage.com",
+      "score": 1.0989346605248174e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "stanford-bjl3y.stonly.com",
+      "score": 1.0421968305183779e-05,
+      "is_first_party": false
+    },
+    {
+      "host": "pulse.stanfordmedicine.org",
+      "score": 9.091695422079914e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "tds.stanfordmedicine.org",
+      "score": 9.091695422079914e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.gephartlab.com",
+      "score": 9.091695422079914e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.paloalto.va.gov",
+      "score": 9.091695422079914e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.pamf.org",
+      "score": 9.091695422079914e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.stanfordpmhw.com",
+      "score": 9.091695422079914e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.yeastgenome.org",
+      "score": 9.091695422079914e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "xiannanwanglab",
+      "score": 9.091695422079914e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "asadaali.com",
+      "score": 8.970288609438096e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "omarabdallah.com",
+      "score": 8.970288609438096e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "sagar.web.cern.ch",
+      "score": 8.970288609438096e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "supramolecularbiomaterials.com",
+      "score": 8.970288609438096e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.boldecho.com",
+      "score": 8.970288609438096e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.jackwbaker.com",
+      "score": 8.970288609438096e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.nature.com",
+      "score": 8.95288392004886e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "airtable.com",
+      "score": 8.270375823838428e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "allmaps.org",
+      "score": 8.06684050426431e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "code.earthengine.google.com",
+      "score": 8.06684050426431e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "doc.esri.com",
+      "score": 8.06684050426431e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "github.com",
+      "score": 8.06684050426431e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "guide.cloudnativegeo.org",
+      "score": 8.06684050426431e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "iiif.io",
+      "score": 8.06684050426431e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "stanford-geospatial.slack.com",
+      "score": 8.06684050426431e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "stanford.maps.arcgis.com",
+      "score": 8.06684050426431e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "storymaps.arcgis.com",
+      "score": 8.06684050426431e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "artand-vpa.simplecast.com",
+      "score": 7.554886467612696e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "tes.collegesource.com",
+      "score": 5.6044525910767505e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "academic.oup.com",
+      "score": 5.3717303520293155e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "osf.io",
+      "score": 5.3717303520293155e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "valleycare.com",
+      "score": 5.182290847346806e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "41jgkh.share-na2.hsforms.com",
+      "score": 5.036590978408463e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "apolitical.co",
+      "score": 5.036590978408463e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "stanforddoerrschool.substack.com",
+      "score": 5.036590978408463e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "us13.campaign-archive.com",
+      "score": 4.9625200994569265e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordmedicine.qualtrics.com",
+      "score": 4.545847711039957e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "city.systems",
+      "score": 4.273257949231406e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "urldefense.com",
+      "score": 3.4093857832799665e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "lnkd.in",
+      "score": 3.1172763414605617e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.universitacusano.com",
+      "score": 3.1172763414605617e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordmedicinepartners.org",
+      "score": 2.596317658364759e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.shapeprogram.org",
+      "score": 2.596317658364759e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.threads.com",
+      "score": 2.596317658364759e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "my.supportlpch.org",
+      "score": 2.585973188982047e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "universityhealthcarealliance.org",
+      "score": 2.585973188982047e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "bit.ly",
+      "score": 2.5182954892042316e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.anthonymeier.com",
+      "score": 2.5182954892042316e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.gradimages.com",
+      "score": 2.5182954892042316e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "climatetechmap.com",
+      "score": 2.442277575343592e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "archive-stanford-bulletin-21-22.coursedog.com",
+      "score": 2.434328930813495e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "get.adobe.com",
+      "score": 2.434328930813495e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "stan.md",
+      "score": 2.2729238555199784e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "stanmed.stanford.edu.",
+      "score": 2.2729238555199784e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "cogsci.princeton.edu",
+      "score": 1.7905767840097721e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "iopscience.iop.org",
+      "score": 1.7905767840097721e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "stanford.us20.list-manage.com",
+      "score": 1.7905767840097721e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.climatemuseum.org",
+      "score": 1.7905767840097721e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.climateweeknyc.org",
+      "score": 1.7905767840097721e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.mediamatters.org",
+      "score": 1.7905767840097721e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.science.org",
+      "score": 1.7905767840097721e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordmedicine.myplannedgift.org",
+      "score": 1.5475824439727269e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.radioglaciology.com",
+      "score": 1.2908545204061629e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.yang-climate-group.org",
+      "score": 1.2908545204061629e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "phobos.apple.com",
+      "score": 1.1364619277599892e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "stanford.box.com",
+      "score": 1.1364619277599892e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "stanford.dc4.pageuppeople.com",
+      "score": 1.1364619277599892e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "stanfordbloodcenter.org",
+      "score": 1.1364619277599892e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "students-residents.aamc.org",
+      "score": 1.1364619277599892e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.appbrain.com",
+      "score": 1.1364619277599892e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.lpfch.org",
+      "score": 1.1364619277599892e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "www.macfound.org",
+      "score": 1.1364619277599892e-06,
+      "is_first_party": false
+    },
+    {
+      "host": "matchinggifts.com",
+      "score": 5.158608146575757e-07,
+      "is_first_party": false
+    },
+    {
+      "host": "studypages.com",
+      "score": 4.382486919912152e-07,
+      "is_first_party": false
+    }
+  ]
+}
