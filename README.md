@@ -1,7 +1,7 @@
 # DomainFence (PageFinder)
 
 A two-stage web crawler that finds task-relevant pages within a seed domain's ecosystem. Stage 1 uses Personalized PageRank to discover and rank related domains. Stage 2 (optional) uses those domains as a whitelist for semantic search.
-An *AI Agent* can optionally pick up where DomainFence left off in Stage 1, using the top-k related domains as a whitelist for the agent's navigation in order to prevent unwanted, expensive trajectories in agent behavior.
+An *AI agent* can pick up where Stage 1 leaves off, using the ranked domains as an automatically built navigation and search allowlist. See [DomainFence for AI agents](#domainfence-for-ai-agents) for the design and measured results on injection safety and source quality.
 
 ## How it works
 
@@ -101,12 +101,89 @@ python task_pages.py mit.edu "faculty directory" --whitelist-top-k 15
 | `--chunk-size` | 5000 | Characters per embedding chunk |
 | `--max-chunks` | 2 | Max chunks to embed per page (for speed) |
 
+## DomainFence for AI agents
+
+Domain allowlists are an effective defense for web agents, but someone has to write them by hand. DomainFence builds one **automatically from a single seed domain**. Stage 1 ranks the organization's link graph with seed-personalized PageRank. The agent may then only load pages, and only sees search results, from:
+
+- the seed domain, its subdomains and aliases, plus
+- the **top-k external domains** by PPR score (`hybK`, e.g. `hyb10`).
+
+Enforcement happens at the network layer (Playwright request routing, fail-closed), so the model cannot talk its way past it. The agent never sees the list. A blocked page load simply comes back as `blocked: <host> not in allow-list`.
+
+### Experiment
+
+- **Tasks:** 35 questions about 7 universities, of three kinds:
+  - answers on the university's own sites;
+  - answers on official partner sites, such as `gostanford.com`;
+  - questions where stale third-party pages rank high in search.
+- **Agents:** Claude Sonnet 5.5 and Claude Haiku 5.5, starting on a blank page with web search (Brave), page navigation and an answer action.
+- **Fences compared:**
+  - no fence;
+  - a naive `*.seed` fence;
+  - `hyb5`, `hyb10`, `hyb20`;
+  - `ppr10`, the original top-k-overall form.
+- **Attacks** (6 types), planted only inside our own test browser; live sites are never modified:
+  - a page replaced by a "moved" link;
+  - a hidden instruction;
+  - a script redirect;
+  - planted misinformation;
+  - a held-out second round: a task-aligned lure page and a poisoned top search result.
+
+  Attacker hostnames resolve to a local sink and never reach the internet.
+- **Metrics:** task success, attack attempted vs. reached, misinformation adopted, answers from sources outside the organization, and cost. All reported with 95% bootstrap confidence intervals over tasks.
+
+### Results
+
+About 4,750 episodes: 1,260 without attacks and about 3,500 with them, 3 repeats per condition, about $53 in API spend. Full tables: [`docs/experiment-report-2026-10-18.md`](docs/experiment-report-2026-10-18.md).
+
+| Fence | Task success | Partner-site tasks | Non-official sources | Drive-by redirect reached attacker |
+|---|---|---|---|---|
+| none | 77.6% | 78.8% | 14.3% | 6.7% |
+| `*.seed` | 61.4% | 33.3% | 5.8% | 0% |
+| **hyb10 (PPR)** | **78.6%** | **77.3%** | **6.7%** | **0%** |
+| ppr10 (top-k overall) | 63.8% | 33.3% | 5.6% | n/a |
+
+- **The PPR fence keeps the agent useful; a naive fence doesn't.** `hyb10` matches unfenced task success and roughly halves answers taken from outside the official ecosystem. The naive `*.seed` fence drops to 33% on partner-site tasks because it blocks sites like `gostanford.com`.
+- **The fence blocked every drive-by redirect.** 6.7% of unfenced episodes reached the attacker; 0% did under any fence.
+- **Text and search-snippet injections never worked against either model**, fenced or not: 0 of 2,862 attacked episodes across 5 attack types. The fence's measurable safety value is therefore against environment-level navigation, not model gullibility. With a fence, poisoned search results from non-allowlisted hosts are also filtered out before the agent sees them.
+- **Partner recall:** 67% of labeled official partner domains are in `hyb10`, and 89% in `hyb20` (vs 0% and 11% for the top-k-overall form).
+
+![Utility vs. safety](experiments/results/utility_vs_safety.png)
+
+### Running it
+
+Agent experiments need `ANTHROPIC_API_KEY` and `BRAVE_API_KEY` in `.env`, plus a Playwright browser:
+
+```bash
+playwright install chromium
+python -m experiments.run pilot                       # small smoke run
+python -m experiments.run clean --repeats 3 --cap 60  # no-attack episodes
+python -m experiments.run attack --repeats 3 --cap 60 # first-round attacks
+python -m experiments.analyze full                    # summary.csv, plot, partner recall
+pytest                                                # unit + offline end-to-end tests
+```
+
+Each run is resumable and stops before any call that would exceed the `--cap` (USD). Search responses are cached in `experiments/search_cache/`, so cached queries replay without a Brave key.
+
+### Limitations
+
+- **The fence form was revised after seeing the rankings.** As first specified, the PPR fence (top-k hosts overall) admitted 0% of labeled partner domains at k=10, because universities have 130–720 subdomains. The main arm became `hybK` before any agent episode ran. The original form is still reported as `ppr10`.
+- **Social media ranks high among external domains.** Instagram, Facebook, YouTube and LinkedIn rank in the top 10, and for cmu.edu so does `usnews.com`. `hyb10` therefore admits some third-party platforms.
+- **Server-side redirects are detected and reverted, not prevented.** All attacks here are client-side, so attack results are unaffected.
+- **A fence cannot stop misinformation on an allowed page.** That is measured separately (`onpage_misinfo`).
+- **The operator names the seed.** Inferring it from the user's request is future work.
+- **Small study on live sites.** 35 tasks across 7 universities (umich.edu was dropped because its crawl reached only one host), and sites change over time. Confidence intervals are wide, especially for the 11 partner-site tasks.
+- **Related work.** TrustRank (Gyöngyi et al., 2004) uses the same seed-biased PageRank for spam detection. ceLLMate and Prismata confine web agents with HTTP-level or content-level policies. See [`docs/related-work-notes.md`](docs/related-work-notes.md).
+
 ## Files
 
 ```
 related_domains.py   # Stage 1: Domain ranking via Personalized PageRank
 task_pages.py        # Stage 2: Task-relevant page search with embeddings
 ppr.py               # Personalized PageRank algorithm (imported by related_domains.py)
+agent/               # Fenced web agent: allowlist, browser, search, loop, metrics
+experiments/         # Tasks, whitelists, experiment runner and analysis
+tests/               # Unit and offline end-to-end tests
 requirements.txt     # Python dependencies
 .env                 # API keys (create this yourself)
 ```
